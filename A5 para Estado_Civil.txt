@@ -1,0 +1,5 @@
+Estado_Civil;Qtd;Prim
+Casado;252;2
+Divorciado;262;5
+Solteiro;229;1
+Viúvo;257;3

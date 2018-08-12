@@ -1,0 +1,116 @@
+Cidade;Qtd;Prim
+Abaetetuba;2;629
+Ananindeua;2;112
+Anápolis;7;52
+Aparecida de Goiânia;5;187
+Açailândia;7;123
+Bacabal;10;66
+Balsas;13;47
+Barra do Corda;8;37
+Bayeux;3;144
+Belford Roxo;6;100
+Belo Horizonte;6;101
+Belém;3;818
+Betim;6;116
+Blumenau;7;63
+Bragança;2;154
+Cabo de Santo Agostinho;13;226
+Cajazeiras;3;34
+Camaragibe;5;85
+Camaçari;18;180
+Cametá;5;76
+Campina Grande;5;146
+Campinas;25;27
+Campos dos Goytacazes;8;162
+Canoas;10;99
+Carapicuíba;28;9
+Caruaru;4;23
+Cascavel;6;130
+Castanhal;10;138
+Caucaia;6;5
+Caxias;4;445
+Caxias do Sul;9;3
+Chapadinha;2;290
+Chapecó;6;16
+Codó;3;188
+Colombo;5;440
+Contagem;11;64
+Crato;7;274
+Criciúma;3;39
+Curitiba;6;121
+Diadema;24;78
+Divinópolis;12;36
+Duque de Caxias;7;12
+Feira de Santana;9;105
+Florianópolis;4;264
+Fortaleza;3;118
+Foz do Iguaçu;1;732
+Goiânia;4;185
+Governador Valadares;12;104
+Gravataí;13;189
+Guarapuava;7;110
+Guarulhos;17;50
+Ilhéus;12;77
+Imperatriz;3;15
+Ipatinga;5;281
+Itabuna;11;152
+Itajaí;11;20
+Itapipoca;1;183
+Jaboatão dos Guararapes;6;463
+Joinville;3;25
+João Pessoa;3;255
+Juazeiro;12;26
+Juazeiro do Norte;6;4
+Juiz de Fora;10;6
+Jundiaí;28;94
+Lauro de Freitas;13;147
+Londrina;9;195
+Luziânia;4;681
+Marabá;7;150
+Maracanaú;10;54
+Maranguape;10;106
+Maringá;6;18
+Mauá;29;10
+Mogi das Cruzes;28;31
+Montes Claros;11;131
+Niterói;5;141
+Nova Iguaçu;10;73
+Novo Hamburgo;9;194
+Olinda;9;1
+Osasco;24;17
+Paranaguá;3;155
+Parauapebas;5;11
+Paulista;13;45
+Paço do Lumiar;6;177
+Pelotas;2;336
+Petrolina;5;331
+Petrópolis;19;13
+Piracicaba;22;24
+Ponta Grossa;10;95
+Porto Alegre;9;158
+Recife;5;124
+Ribeirão Preto;34;8
+Ribeirão das Neves;13;49
+Rio Grande;7;83
+Rio Verde;5;351
+Rio de Janeiro;14;32
+Salvador;6;43
+Santa Inês;4;471
+Santa Luzia;8;299
+Santa Maria;13;56
+Santa Rita;5;21
+Santarém;2;30
+Sete Lagoas;13;48
+Sobral;8;14
+Sousa;1;699
+São Gonçalo;9;41
+São José;2;759
+São José dos Pinhais;2;2
+São João de Meriti;14;19
+São Luís;2;60
+Timon;4;35
+Uberaba;8;72
+Uberlândia;11;69
+Valparaíso de Goiás;4;7
+Vitória da Conquista;11;33
+Águas Lindas de Goiás;4;365

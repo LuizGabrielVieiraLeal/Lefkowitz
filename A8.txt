@@ -1,0 +1,1001 @@
+ID;Nome;Sobrenome;Cidade;Estado;Data_Nascimento;Setor;Estado_Civil;Salario;Prox.Nome;Prox.Sobrenome;Prox.Cidade;Prox.Estado;Prox.Data_Nascimento;Prox.Setor;Prox.Estado_Civil;Prox.Salario
+1;Erich;Matthews;Caxias do Sul;Rio Grande do Sul;21/01/15;Jurídico;Solteiro;R$5,765;0;0;0;974;0;966;962;0
+2;Leslie;Mccray;Ribeirão das Neves;MG;03/10/92;Vendas;Divorciado;R$9,636;0;0;965;879;0;872;868;0
+3;Macey;Dennis;Barra do Corda;Maranhão;12/01/52;Pesquisa e Desenvolvimento;Viúvo;R$5,300;0;0;393;319;0;320;312;816
+4;Abdul;Warren;Nova Iguaçu;RJ;02/06/67;Gerenciamento;Casado;R$7,724;0;0;999;0;0;997;994;0
+5;Shay;Morse;Mauá;São Paulo;26/09/89;Pesquisa e Desenvolvimento;Viúvo;R$6,882;954;0;911;809;0;863;809;0
+6;Octavius;Conrad;Sete Lagoas;MG;01/11/88;Vendas;Casado;R$5,099;0;0;939;943;0;923;915;0
+7;Zahir;Mercer;Itabuna;Bahia;08/08/92;Financeiro;Casado;R$8,442;433;945;421;275;0;278;281;0
+8;Evelyn;Mckenzie;São Gonçalo;Rio de Janeiro;16/07/12;Marketing;Divorciado;R$8,560;0;0;852;852;0;869;848;0
+9;Martha;Kaufman;Ribeirão Preto;SP;10/01/60;Marketing;Divorciado;R$6,386;0;0;905;911;0;894;893;0
+10;Renee;Whitney;Rio Grande;RS;02/12/46;Pesquisa e Desenvolvimento;Solteiro;R$6,270;598;598;598;509;598;508;499;598
+11;Martha;Cooley;Diadema;SP;10/12/47;Financeiro;Viúvo;R$9,986;890;0;823;707;0;716;703;0
+12;Fitzgerald;Strong;Carapicuíba;SP;04/10/92;Serviço ao Cliente;Casado;R$5,334;559;559;503;468;559;463;465;559
+13;Wyatt;Yates;Mogi das Cruzes;SP;21/04/09;Gerenciamento;Viúvo;R$7,736;0;72;89;57;0;58;54;0
+14;Molly;Higgins;Blumenau;Santa Catarina;07/06/48;Jurídico;Viúvo;R$8,970;0;0;967;934;0;921;874;0
+15;Fitzgerald;Strong;Carapicuíba;SP;04/10/92;Serviço ao Cliente;Casado;R$5,334;772;994;605;568;0;563;565;0
+16;Hedy;Boyd;Paulista;PE;23/05/76;Vendas;Divorciado;R$6,606;937;779;923;634;0;678;632;0
+17;Galvin;Hunter;Jaboatão dos Guararapes;Pernambuco;28/01/94;Serviço ao Cliente;Divorciado;R$9,985;563;563;563;504;563;469;470;563
+18;Minerva;Larsen;Campinas;SP;13/08/62;Gerenciamento;Solteiro;R$5,885;0;0;222;219;0;222;216;0
+19;Thor;Rodriguez;Petrópolis;RJ;01/05/62;Marketing;Viúvo;R$8,867;581;581;499;516;581;484;482;581
+20;Felicia;Medina;Itabuna;Bahia;05/08/17;Financeiro;Viúvo;R$9,959;0;0;863;653;0;633;624;0
+21;Keane;Casey;Castanhal;Pará;12/01/96;Jurídico;Casado;R$6,192;0;765;678;629;0;572;553;0
+22;Anika;Graham;Campos dos Goytacazes;RJ;21/12/55;Financeiro;Viúvo;R$9,422;0;930;730;751;0;702;699;0
+23;Cody;Poole;Carapicuíba;São Paulo;10/01/79;Serviço ao Cliente;Viúvo;R$8,054;0;0;621;607;0;611;606;0
+24;Clayton;Gillespie;Itabuna;BA;09/01/30;Jurídico;Casado;R$5,985;521;521;521;422;521;422;422;521
+25;Gage;Newton;Ilhéus;BA;01/06/55;Relações Públicas;Solteiro;R$7,674;0;0;798;798;0;755;752;0
+26;Wynne;Pittman;São Gonçalo;Rio de Janeiro;29/01/48;Recursos Humanos;Divorciado;R$7,923;0;0;857;857;0;857;856;0
+27;Isabelle;Hunter;Valparaíso de Goiás;Goiás;15/06/89;Financeiro;Divorciado;R$6,155;0;230;229;229;0;237;229;0
+28;Sean;Alvarado;Abaetetuba;Pará;16/02/13;Recursos Humanos;Divorciado;R$8,364;0;0;0;772;0;703;675;0
+29;Lucius;Malone;Blumenau;SC;07/11/64;Jurídico;Solteiro;R$9,089;0;743;680;264;0;264;260;0
+30;Rina;Oneil;Curitiba;PR;05/06/77;Suporte Técnico;Solteiro;R$6,960;0;690;896;725;0;691;694;0
+31;Kylie;Powers;Jundiaí;São Paulo;31/01/94;Serviço ao Cliente;Casado;R$6,391;0;0;799;726;0;732;725;0
+32;Wanda;Frederick;Divinópolis;Minas Gerais;17/09/59;Pesquisa e Desenvolvimento;Casado;R$8,089;0;0;928;922;0;975;920;0
+33;Colorado;Wilder;Itajaí;SC;02/12/85;Vendas;Solteiro;R$8,780;611;0;686;706;0;590;577;0
+34;Halla;Perry;Osasco;São Paulo;12/05/78;Vendas;Viúvo;R$9,219;927;201;88;78;0;76;88;418
+35;Miriam;Knight;Santa Maria;RS;07/10/91;Vendas;Divorciado;R$7,850;0;0;606;583;0;564;563;0
+36;Kasimir;Phelps;Ponta Grossa;PR;06/05/61;Financeiro;Casado;R$6,471;770;0;736;732;0;734;734;746
+37;Tara;Grimes;Belo Horizonte;Minas Gerais;23/04/11;Suporte Técnico;Solteiro;R$5,557;0;0;302;287;0;338;287;0
+38;Abbot;Santos;Mauá;SP;21/08/58;Pesquisa e Desenvolvimento;Solteiro;R$5,292;374;136;68;75;0;78;69;0
+39;Shoshana;Suarez;Osasco;SP;24/12/59;Suporte Técnico;Divorciado;R$8,967;811;0;135;126;0;128;122;0
+40;Jaden;Hancock;Camaçari;BA;21/04/31;Suporte Técnico;Solteiro;R$6,928;0;0;300;288;0;284;282;0
+41;Kasimir;Donaldson;Porto Alegre;Rio Grande do Sul;06/06/01;Vendas;Viúvo;R$8,267;0;0;996;961;0;964;956;975
+42;Lillian;Savage;Rio de Janeiro;RJ;04/01/12;Relações Públicas;Solteiro;R$9,412;0;0;685;695;0;697;686;0
+43;Finn;Miller;São João de Meriti;RJ;01/11/87;Serviço ao Cliente;Casado;R$5,909;0;641;334;192;0;207;184;0
+44;Sara;Mitchell;Camaçari;BA;20/09/49;Serviço ao Cliente;Divorciado;R$7,210;644;343;311;311;0;307;302;0
+45;Zephania;Fischer;Bayeux;PB;20/09/69;Suporte Técnico;Viúvo;R$6,966;0;0;997;997;0;1000;997;0
+46;Karly;Bernard;Jundiaí;SP;28/08/64;Recursos Humanos;Divorciado;R$8,661;0;0;635;632;0;637;631;0
+47;Knox;Short;Caxias;Maranhão;21/03/34;Relações Públicas;Casado;R$5,782;0;0;766;548;0;555;550;0
+48;Larissa;Potts;Carapicuíba;SP;30/06/79;Financeiro;Solteiro;R$5,929;0;0;841;756;0;819;765;0
+49;Aimee;Patrick;Duque de Caxias;Rio de Janeiro;12/04/16;Recursos Humanos;Solteiro;R$7,525;0;0;490;297;0;287;284;0
+50;Colorado;Bird;Barra do Corda;MA;22/10/50;Vendas;Solteiro;R$5,868;0;0;0;951;0;941;944;0
+51;Raja;Hinton;Diadema;São Paulo;03/09/33;Financeiro;Viúvo;R$9,425;595;595;520;497;595;497;497;595
+52;George;Whitley;Ribeirão Preto;São Paulo;15/11/95;Relações Públicas;Viúvo;R$9,460;637;0;137;137;0;150;133;0
+53;Yetta;Yates;Uberaba;MG;26/08/39;Jurídico;Casado;R$6,871;249;0;240;87;0;91;74;0
+54;Xavier;Snider;Diadema;SP;19/01/80;Recursos Humanos;Divorciado;R$6,694;868;0;632;621;0;628;619;0
+55;Chloe;Brock;Canoas;RS;24/08/72;Gerenciamento;Viúvo;R$5,214;0;0;658;658;0;662;659;0
+56;Hedda;Gamble;Campinas;São Paulo;24/08/51;Vendas;Solteiro;R$6,444;496;0;309;307;0;309;308;0
+57;Hamish;Saunders;Mogi das Cruzes;SP;18/02/54;Pesquisa e Desenvolvimento;Solteiro;R$8,545;289;381;53;50;0;49;50;0
+58;Beatrice;Villarreal;Montes Claros;MG;03/03/80;Serviço ao Cliente;Solteiro;R$9,240;0;0;556;557;0;559;546;986
+59;Lamar;Pope;Canoas;RS;25/01/97;Pesquisa e Desenvolvimento;Solteiro;R$8,988;0;0;907;711;0;686;661;717
+60;Erin;Winters;Jundiaí;SP;06/01/80;Gerenciamento;Solteiro;R$8,182;0;984;628;628;0;632;637;0
+61;May;Stark;Juazeiro;Bahia;15/06/55;Financeiro;Viúvo;R$8,158;993;936;263;43;0;40;35;0
+62;Lydia;Moran;Campinas;SP;04/02/47;Serviço ao Cliente;Casado;R$8,281;0;674;446;417;0;414;399;0
+63;Vernon;Shannon;Campos dos Goytacazes;Rio de Janeiro;10/11/44;Financeiro;Viúvo;R$8,206;0;682;301;210;0;209;206;0
+64;Mechelle;Cameron;Guarulhos;SP;29/09/12;Pesquisa e Desenvolvimento;Viúvo;R$8,481;0;0;885;884;0;884;886;0
+65;Amy;Padilla;Santa Maria;Rio Grande do Sul;06/05/70;Financeiro;Casado;R$7,544;0;0;917;900;0;922;889;0
+66;Claire;Molina;Mogi das Cruzes;SP;29/10/99;Recursos Humanos;Divorciado;R$7,602;0;0;234;238;0;239;238;0
+67;Lacey;Gregory;Castanhal;Pará;20/08/56;Financeiro;Viúvo;R$7,400;186;154;149;150;0;141;141;0
+68;Jacob;Woodard;Guarulhos;SP;04/10/87;Vendas;Divorciado;R$5,412;0;0;825;804;0;810;806;0
+69;Ocean;Crosby;Piracicaba;São Paulo;29/03/92;Marketing;Divorciado;R$6,550;0;0;919;905;0;909;908;0
+70;Candace;Rhodes;Ribeirão Preto;São Paulo;03/03/04;Jurídico;Casado;R$8,864;0;0;756;768;0;752;750;0
+71;Chadwick;Logan;Governador Valadares;MG;03/12/17;Suporte Técnico;Divorciado;R$9,821;883;724;184;156;0;154;153;0
+72;Erasmus;Dodson;Chapecó;SC;07/08/45;Serviço ao Cliente;Divorciado;R$6,534;48;0;74;20;0;29;18;394
+73;Denise;Whitehead;Carapicuíba;SP;08/11/06;Recursos Humanos;Divorciado;R$8,523;0;0;61;62;0;73;65;0
+74;Leilani;Coffey;Santarém;Pará;06/03/84;Relações Públicas;Viúvo;R$8,941;849;736;0;76;0;64;52;0
+75;Mercedes;Rose;Mauá;São Paulo;12/10/54;Gerenciamento;Viúvo;R$5,973;369;899;111;70;0;88;70;0
+76;Sonya;Delgado;Ribeirão Preto;SP;28/01/62;Vendas;Casado;R$7,906;0;471;268;268;0;261;270;0
+77;Zephr;Galloway;Campos dos Goytacazes;RJ;08/05/95;Vendas;Viúvo;R$5,646;821;971;698;581;0;517;520;0
+78;Carl;Jacobs;Sete Lagoas;MG;03/03/73;Vendas;Viúvo;R$7,663;0;0;0;965;0;968;967;0
+79;Paki;Mcmillan;Açailândia;MA;31/07/60;Financeiro;Casado;R$9,418;0;216;449;125;0;124;125;0
+80;Lacey;Mclean;Itajaí;Santa Catarina;16/08/88;Suporte Técnico;Viúvo;R$8,780;406;0;249;249;0;190;190;464
+81;Haley;Conley;Mauá;SP;04/07/87;Recursos Humanos;Solteiro;R$9,259;524;524;438;435;524;425;425;524
+82;Ira;Brown;Joinville;Santa Catarina;03/10/49;Gerenciamento;Viúvo;R$9,406;313;198;235;63;0;34;28;0
+83;Serena;Delgado;Santa Inês;MA;26/11/57;Recursos Humanos;Divorciado;R$9,955;0;0;713;614;0;575;583;0
+84;Benjamin;Valencia;Cajazeiras;Paraíba;04/12/48;Jurídico;Solteiro;R$9,368;996;0;0;329;0;314;303;0
+85;Zenaida;Mcgowan;Rio de Janeiro;Rio de Janeiro;13/11/83;Relações Públicas;Viúvo;R$7,208;478;0;460;282;0;241;222;0
+86;Catherine;Bonner;Diadema;São Paulo;15/07/45;Recursos Humanos;Solteiro;R$8,309;0;0;980;980;0;981;979;997
+87;Yasir;Cole;Itajaí;Santa Catarina;29/05/97;Vendas;Viúvo;R$8,596;0;0;970;956;0;940;935;0
+88;Christopher;Estes;Osasco;SP;04/06/96;Financeiro;Casado;R$8,698;0;883;70;24;0;28;26;0
+89;Hyatt;Meyers;Olinda;PE;08/07/98;Relações Públicas;Divorciado;R$8,688;0;0;850;369;0;380;374;0
+90;Hedley;Shepherd;Marabá;PA;09/12/68;Marketing;Viúvo;R$5,242;0;0;0;954;0;948;950;0
+91;Axel;Nicholson;Lauro de Freitas;BA;15/10/38;Vendas;Casado;R$9,423;0;825;356;332;0;321;316;0
+92;Eric;Irwin;Balsas;Maranhão;30/12/57;Serviço ao Cliente;Casado;R$5,609;0;0;567;545;0;536;533;0
+93;Amela;Merrill;Carapicuíba;São Paulo;01/05/53;Suporte Técnico;Viúvo;R$8,818;0;0;888;844;0;844;844;0
+94;Xenos;Wade;Campos dos Goytacazes;RJ;04/03/35;Financeiro;Divorciado;R$8,552;0;0;0;755;0;754;762;0
+95;Yoko;Fox;Mogi das Cruzes;São Paulo;15/04/35;Suporte Técnico;Divorciado;R$5,573;0;0;840;786;0;790;789;0
+96;Hashim;Griffith;Belford Roxo;RJ;24/10/07;Pesquisa e Desenvolvimento;Divorciado;R$5,707;970;0;196;141;0;117;109;399
+97;Norman;Mccormick;Joinville;SC;01/02/90;Jurídico;Solteiro;R$9,832;720;240;323;254;0;245;247;0
+98;Edward;Bridges;Piracicaba;São Paulo;15/03/47;Jurídico;Solteiro;R$5,241;0;0;675;666;0;663;663;0
+99;Hadley;Mercer;Uberaba;Minas Gerais;20/02/56;Recursos Humanos;Solteiro;R$7,855;0;0;0;972;0;946;960;0
+100;Carlos;Mullins;Campinas;São Paulo;21/02/64;Pesquisa e Desenvolvimento;Casado;R$6,633;0;0;989;904;0;905;905;0
+101;Timothy;Burns;Rio Verde;GO;18/07/83;Relações Públicas;Casado;R$8,601;0;0;0;969;0;982;959;0
+102;Mia;Joseph;Mauá;São Paulo;23/09/17;Vendas;Viúvo;R$9,771;0;0;423;394;0;396;394;0
+103;Alvin;Noel;Valparaíso de Goiás;Goiás;25/02/64;Suporte Técnico;Divorciado;R$7,621;0;0;0;988;0;928;911;0
+104;Zephania;Cox;Cajazeiras;Paraíba;18/04/83;Suporte Técnico;Divorciado;R$9,594;995;0;296;296;0;269;267;0
+105;Daria;Mcclain;Niterói;RJ;28/11/60;Financeiro;Viúvo;R$5,515;0;877;209;151;0;170;142;0
+106;Chaney;Cobb;Santa Rita;Paraíba;20/12/41;Relações Públicas;Viúvo;R$7,966;263;496;145;144;0;33;22;0
+107;Nissim;Malone;Cabo de Santo Agostinho;Pernambuco;13/08/80;Pesquisa e Desenvolvimento;Casado;R$6,417;779;0;773;773;0;773;744;0
+108;Jasmine;Mcguire;Maringá;Paraná;10/05/59;Financeiro;Casado;R$8,012;0;722;835;484;0;374;366;0
+109;Charity;Warren;Jundiaí;São Paulo;23/09/49;Marketing;Solteiro;R$7,784;501;501;419;403;501;404;424;501
+110;Melvin;Slater;Mauá;São Paulo;12/02/18;Suporte Técnico;Viúvo;R$5,575;860;0;224;221;0;214;209;0
+111;Linda;Chase;Ponta Grossa;PR;20/11/13;Relações Públicas;Casado;R$7,643;0;997;0;822;0;836;815;0
+112;Alden;Henderson;Juazeiro do Norte;CE;05/10/71;Pesquisa e Desenvolvimento;Solteiro;R$9,734;0;0;677;693;0;641;645;0
+113;Ursa;Nieves;Betim;MG;02/12/80;Suporte Técnico;Divorciado;R$7,127;0;0;381;131;0;119;119;0
+114;Salvador;Nunez;Petrolina;Pernambuco;05/09/50;Relações Públicas;Divorciado;R$7,553;0;876;718;722;0;669;668;0
+115;George;Clements;Mauá;São Paulo;16/02/16;Recursos Humanos;Solteiro;R$7,023;0;0;648;644;0;656;639;0
+116;Winter;May;Governador Valadares;Minas Gerais;18/07/55;Gerenciamento;Viúvo;R$9,053;0;823;816;689;0;666;665;0
+117;Eric;Blackwell;Camaçari;BA;14/06/57;Serviço ao Cliente;Solteiro;R$6,197;431;922;407;368;0;371;360;0
+118;Karen;Mitchell;Gravataí;RS;24/09/06;Suporte Técnico;Solteiro;R$8,486;0;0;345;409;0;356;349;0
+119;Clinton;Howell;Jundiaí;SP;16/02/13;Recursos Humanos;Divorciado;R$6,292;602;0;552;523;672;524;532;0
+120;Camden;Barnett;Goiânia;Goiás;04/11/30;Suporte Técnico;Viúvo;R$9,167;0;745;969;681;0;651;653;0
+121;Holmes;Briggs;Camaçari;BA;21/10/62;Marketing;Solteiro;R$7,876;0;0;916;916;0;890;880;0
+122;Leroy;Soto;Paço do Lumiar;MA;05/03/44;Financeiro;Viúvo;R$6,586;554;554;554;467;554;466;468;554
+123;Felicia;Haynes;Gravataí;Rio Grande do Sul;24/10/80;Relações Públicas;Divorciado;R$6,368;616;0;724;383;0;357;348;410
+124;Ciaran;Lloyd;Niterói;RJ;28/07/33;Gerenciamento;Divorciado;R$5,957;0;0;942;915;0;906;899;0
+125;Chaim;Mcmillan;Ananindeua;Pará;04/10/60;Financeiro;Solteiro;R$7,591;0;0;0;842;0;825;826;0
+126;Macaulay;Barnett;Camaçari;Bahia;31/08/15;Vendas;Viúvo;R$9,756;0;649;355;356;0;366;362;0
+127;Adele;Nunez;Santa Rita;PB;29/01/92;Marketing;Divorciado;R$7,145;0;667;774;699;0;624;618;0
+128;Logan;Johns;Criciúma;Santa Catarina;11/02/05;Relações Públicas;Viúvo;R$6,873;0;0;979;967;0;958;964;0
+129;Ronan;Davenport;Piracicaba;SP;04/01/47;Serviço ao Cliente;Divorciado;R$8,560;0;0;707;679;0;692;681;845
+130;Nicole;Gaines;Imperatriz;Maranhão;25/08/79;Financeiro;Divorciado;R$8,752;163;112;161;35;0;17;16;0
+131;Martha;Vargas;Cascavel;Paraná;24/04/02;Marketing;Divorciado;R$8,714;702;0;252;133;0;147;139;0
+132;Trevor;Atkinson;Uberlândia;Minas Gerais;17/11/89;Suporte Técnico;Divorciado;R$9,658;547;547;547;456;547;452;449;547
+133;Alexis;Hartman;Rio Grande;Rio Grande do Sul;09/02/82;Serviço ao Cliente;Casado;R$6,553;0;0;0;887;0;822;814;0
+134;Michael;Winters;Blumenau;SC;14/12/91;Financeiro;Viúvo;R$5,801;0;0;0;0;0;986;989;0
+135;Dalton;Hogan;Rio de Janeiro;Rio de Janeiro;04/02/33;Marketing;Divorciado;R$8,326;140;841;160;98;0;109;94;0
+136;Blythe;Nelson;Jundiaí;São Paulo;05/04/59;Suporte Técnico;Viúvo;R$9,019;0;0;642;637;0;638;644;0
+137;Rajah;Alexander;Carapicuíba;São Paulo;04/10/35;Vendas;Casado;R$8,651;0;0;981;977;0;0;969;0
+138;Mason;Lloyd;Fortaleza;CE;08/07/17;Jurídico;Casado;R$9,354;767;895;0;769;0;765;767;0
+139;Dominic;Bridges;Ribeirão Preto;SP;12/02/56;Gerenciamento;Viúvo;R$9,465;0;661;316;286;0;286;278;0
+140;Violet;Carlson;Jundiaí;SP;20/10/73;Gerenciamento;Divorciado;R$9,400;0;0;679;650;0;652;643;0
+141;Lester;Sexton;Piracicaba;SP;22/03/75;Recursos Humanos;Viúvo;R$7,425;541;541;517;446;541;448;454;509
+142;Victoria;Rojas;Belo Horizonte;Minas Gerais;28/05/63;Recursos Humanos;Casado;R$9,349;0;0;0;898;0;862;860;0
+143;Vaughan;Hunt;Jundiaí;São Paulo;15/04/30;Vendas;Divorciado;R$9,264;434;0;173;178;0;173;170;0
+144;Colorado;Wilder;Itajaí;SC;02/12/85;Vendas;Solteiro;R$8,780;564;564;564;564;564;490;477;564
+145;Moses;Rush;Gravataí;RS;30/09/13;Serviço ao Cliente;Viúvo;R$8,285;0;0;218;218;0;226;208;0
+146;Tanek;Sweeney;Camaçari;BA;15/01/58;Serviço ao Cliente;Viúvo;R$8,811;0;0;0;921;0;937;923;0
+147;Dane;Castro;São João de Meriti;Rio de Janeiro;08/05/79;Pesquisa e Desenvolvimento;Viúvo;R$5,452;0;0;472;370;0;337;335;0
+148;Vincent;Buchanan;Caxias do Sul;RS;10/05/96;Recursos Humanos;Divorciado;R$5,172;622;0;483;245;0;243;241;0
+149;Ciaran;Church;Divinópolis;Minas Gerais;08/03/43;Jurídico;Solteiro;R$7,356;895;0;612;547;0;551;543;0
+150;Coby;Bates;Divinópolis;MG;25/12/99;Gerenciamento;Divorciado;R$6,924;0;0;898;886;0;882;890;0
+151;Zenaida;Saunders;Mogi das Cruzes;SP;25/12/80;Gerenciamento;Casado;R$9,573;578;578;491;517;578;479;484;578
+152;Ulric;Blake;Salvador;BA;19/02/96;Marketing;Casado;R$6,514;0;0;608;372;0;381;369;0
+153;Aidan;Duffy;Timon;Maranhão;21/07/75;Gerenciamento;Solteiro;R$6,185;0;0;951;692;0;676;674;0
+154;Savannah;Sherman;Petrópolis;RJ;01/08/46;Gerenciamento;Viúvo;R$6,503;0;0;797;753;0;761;756;0
+155;Melyssa;Trevino;Ipatinga;MG;30/08/03;Suporte Técnico;Casado;R$8,521;0;0;689;543;0;534;531;0
+156;Hilary;Moon;Castanhal;PA;02/08/79;Pesquisa e Desenvolvimento;Viúvo;R$5,213;0;0;379;154;0;156;151;0
+157;Justina;Alston;Campos dos Goytacazes;RJ;22/06/92;Gerenciamento;Viúvo;R$8,960;0;0;416;321;0;332;305;0
+158;Wynne;Perry;Camaçari;Bahia;17/09/00;Marketing;Viúvo;R$5,026;852;0;869;720;0;713;713;0
+159;Skyler;Herrera;Jundiaí;SP;04/01/04;Marketing;Viúvo;R$6,634;0;785;723;702;0;685;682;0
+160;Emerald;Horton;Novo Hamburgo;Rio Grande do Sul;22/09/91;Financeiro;Divorciado;R$7,824;930;0;409;434;0;394;393;0
+161;Abigail;Kane;Carapicuíba;São Paulo;25/12/43;Vendas;Solteiro;R$6,760;0;775;58;61;0;70;61;0
+162;Hop;Norris;Açailândia;MA;29/04/65;Serviço ao Cliente;Solteiro;R$5,335;872;891;0;899;0;876;864;0
+163;Tanya;Rowe;Curitiba;PR;25/11/51;Jurídico;Viúvo;R$8,835;809;0;643;580;0;582;579;0
+164;Desirae;Haley;Itajaí;Santa Catarina;30/07/53;Gerenciamento;Viúvo;R$5,444;0;0;934;817;0;795;795;0
+165;Barry;Charles;Anápolis;GO;13/05/47;Gerenciamento;Solteiro;R$5,666;197;0;262;185;0;127;114;0
+166;Anthony;Lowe;Osasco;SP;28/06/85;Gerenciamento;Viúvo;R$6,279;0;0;119;89;0;98;90;0
+167;Tate;Floyd;Aparecida de Goiânia;GO;05/08/57;Marketing;Solteiro;R$7,519;0;229;257;257;0;201;201;0
+168;Velma;Stout;Marabá;PA;12/07/84;Gerenciamento;Casado;R$8,888;553;553;553;536;553;456;455;553
+169;Sage;Sims;Paulista;Pernambuco;04/11/72;Suporte Técnico;Divorciado;R$8,034;0;610;295;271;0;216;219;0
+170;Kadeem;Robbins;Ribeirão Preto;São Paulo;17/08/60;Suporte Técnico;Divorciado;R$6,450;544;544;493;458;544;447;447;544
+171;Caleb;Conway;Ribeirão das Neves;MG;06/11/32;Pesquisa e Desenvolvimento;Casado;R$5,385;127;80;97;51;0;61;60;0
+172;Sade;Sargent;Paulista;Pernambuco;23/06/93;Serviço ao Cliente;Divorciado;R$7,349;0;747;406;376;0;297;297;0
+173;Montana;Prince;Itapipoca;CE;08/07/61;Pesquisa e Desenvolvimento;Solteiro;R$8,985;265;0;0;232;0;184;191;891
+174;Kenyon;Wright;Guarulhos;São Paulo;12/08/09;Vendas;Divorciado;R$8,972;0;0;947;944;0;955;943;0
+175;Yolanda;Knight;Crato;CE;17/04/55;Pesquisa e Desenvolvimento;Casado;R$6,601;0;461;425;357;0;376;353;0
+176;Maxwell;Leblanc;Cascavel;PR;31/07/90;Suporte Técnico;Divorciado;R$9,754;0;0;982;982;0;954;933;0
+177;Veda;Rivers;Osasco;São Paulo;29/07/17;Financeiro;Casado;R$7,370;985;0;613;575;0;568;567;0
+178;Deacon;Robertson;Bacabal;Maranhão;05/10/18;Suporte Técnico;Casado;R$8,764;0;0;448;344;0;343;347;0
+179;Buffy;Wheeler;Guarulhos;São Paulo;27/01/91;Suporte Técnico;Viúvo;R$5,919;0;976;881;865;0;854;847;0
+180;Stephen;Harmon;Ilhéus;BA;11/05/91;Gerenciamento;Viúvo;R$9,392;0;0;812;863;0;805;807;0
+181;Hop;Tyson;Campinas;São Paulo;21/01/56;Vendas;Divorciado;R$7,949;0;0;902;901;0;889;875;0
+182;August;Cruz;São João de Meriti;RJ;21/10/72;Suporte Técnico;Casado;R$9,976;898;0;862;856;0;829;824;880
+183;Freya;Dixon;Vitória da Conquista;BA;27/01/13;Serviço ao Cliente;Divorciado;R$9,807;232;796;470;180;0;182;187;0
+184;Honorato;Reeves;Uberaba;MG;20/06/65;Suporte Técnico;Divorciado;R$6,730;0;0;611;562;0;596;561;0
+185;Naomi;Cain;Olinda;PE;24/08/79;Serviço ao Cliente;Casado;R$9,745;0;0;0;894;0;893;898;0
+186;Garth;Jordan;Guarapuava;PR;21/10/40;Marketing;Divorciado;R$8,947;0;0;837;814;0;808;803;0
+187;Morgan;Torres;Ribeirão Preto;SP;17/06/31;Vendas;Solteiro;R$9,120;0;0;890;841;0;831;827;0
+188;Erich;Nunez;Rio Verde;Goiás;31/08/86;Serviço ao Cliente;Viúvo;R$8,304;889;0;958;880;0;880;881;0
+189;Justine;Clayton;Osasco;São Paulo;05/02/49;Financeiro;Viúvo;R$6,534;483;0;412;400;0;432;400;0
+190;Hammett;Ryan;Campos dos Goytacazes;Rio de Janeiro;21/08/10;Jurídico;Solteiro;R$8,653;0;0;753;797;0;742;731;0
+191;Caesar;Fields;Guarulhos;São Paulo;29/10/54;Vendas;Solteiro;R$9,556;0;0;777;744;0;746;745;0
+192;Martina;Bowen;Ribeirão Preto;SP;13/01/80;Vendas;Viúvo;R$9,685;0;0;789;758;0;762;757;0
+193;Owen;Langley;Campinas;SP;17/09/43;Pesquisa e Desenvolvimento;Solteiro;R$9,588;0;0;568;552;0;567;548;0
+194;Vielka;Holland;Guarulhos;SP;05/03/41;Serviço ao Cliente;Viúvo;R$6,784;0;821;781;782;0;780;787;0
+195;Duncan;Hanson;Sete Lagoas;MG;04/06/47;Serviço ao Cliente;Casado;R$7,350;0;0;838;800;0;782;781;0
+196;Larissa;Keith;Osasco;São Paulo;07/05/93;Gerenciamento;Viúvo;R$7,981;754;0;682;676;0;673;670;0
+197;Barclay;Sawyer;Bacabal;MA;21/07/83;Relações Públicas;Solteiro;R$9,024;0;0;342;290;0;255;254;0
+198;Iliana;Oconnor;Mauá;São Paulo;04/10/06;Marketing;Divorciado;R$9,816;0;0;650;661;0;668;664;0
+199;Theodore;Baxter;Duque de Caxias;Rio de Janeiro;18/11/54;Jurídico;Solteiro;R$7,382;0;0;282;19;0;30;13;0
+200;Judah;Fry;Belford Roxo;RJ;05/10/99;Vendas;Casado;R$6,379;0;0;893;371;0;324;322;0
+201;Veda;Hester;Crato;CE;02/02/97;Gerenciamento;Divorciado;R$8,053;0;0;0;0;0;990;996;0
+202;Cassandra;Fleming;Juazeiro;BA;16/03/53;Suporte Técnico;Viúvo;R$6,697;817;928;775;652;0;635;616;0
+203;Jeremy;Hays;Camaçari;BA;24/03/46;Financeiro;Divorciado;R$6,417;589;589;507;511;589;495;503;589
+204;Jacqueline;Fisher;Bacabal;MA;09/08/82;Serviço ao Cliente;Solteiro;R$7,532;947;133;125;123;0;144;115;0
+205;Pandora;Strong;Mogi das Cruzes;São Paulo;07/11/45;Relações Públicas;Viúvo;R$5,026;408;459;478;401;0;405;405;710
+206;Dexter;Mccarthy;Chapadinha;Maranhão;16/06/77;Financeiro;Viúvo;R$6,657;0;699;0;353;0;346;346;0
+207;Megan;Monroe;Jundiaí;SP;20/05/96;Suporte Técnico;Divorciado;R$5,035;0;620;575;559;0;557;556;0
+208;Neville;Frederick;Rio Grande;Rio Grande do Sul;27/10/90;Recursos Humanos;Casado;R$7,995;0;868;711;670;0;660;683;0
+209;Stella;Thomas;Mauá;São Paulo;07/02/34;Pesquisa e Desenvolvimento;Viúvo;R$7,790;0;0;294;294;0;279;248;0
+210;Jessica;Clayton;Diadema;São Paulo;02/04/93;Pesquisa e Desenvolvimento;Casado;R$8,769;0;372;157;80;0;79;79;0
+211;Gary;Olsen;Carapicuíba;SP;05/05/37;Marketing;Viúvo;R$9,093;0;0;754;748;0;747;751;0
+212;Clinton;Taylor;Rio Verde;GO;04/05/13;Serviço ao Cliente;Solteiro;R$5,919;419;0;704;365;0;355;355;844
+213;Quinn;Garrison;Olinda;Pernambuco;12/06/07;Relações Públicas;Divorciado;R$7,213;417;0;285;279;0;293;279;0
+214;Jaime;Sheppard;Maranguape;CE;27/05/84;Suporte Técnico;Casado;R$5,853;0;0;936;985;0;830;835;0
+215;Lesley;Barber;Diadema;São Paulo;29/04/95;Suporte Técnico;Divorciado;R$7,386;0;0;0;981;0;987;985;0
+216;Bernard;Hardin;Campinas;São Paulo;11/01/44;Pesquisa e Desenvolvimento;Solteiro;R$7,497;999;854;40;55;0;44;39;0
+217;Kenyon;Preston;Novo Hamburgo;Rio Grande do Sul;09/08/57;Recursos Humanos;Casado;R$8,704;941;720;757;606;0;618;594;0
+218;Miriam;Fisher;Ponta Grossa;Paraná;01/02/76;Vendas;Viúvo;R$8,922;461;0;651;155;0;135;134;0
+219;Hadassah;Ratliff;Ribeirão das Neves;MG;21/06/39;Jurídico;Casado;R$9,199;737;0;115;101;0;110;99;196
+220;Bernard;Mccall;Nova Iguaçu;Rio de Janeiro;16/12/31;Marketing;Solteiro;R$8,427;0;0;0;0;0;0;0;0
+221;Elton;Vinson;Recife;PE;03/10/73;Vendas;Viúvo;R$6,977;423;0;408;256;0;259;246;0
+222;Rhona;Casey;Chapecó;SC;03/01/96;Jurídico;Solteiro;R$7,245;0;0;0;770;0;779;766;0
+223;Darius;Sellers;Sobral;Ceará;05/06/04;Suporte Técnico;Viúvo;R$7,044;0;0;166;181;0;23;25;0
+224;Marah;Gill;Porto Alegre;RS;30/07/74;Serviço ao Cliente;Casado;R$9,837;0;0;955;960;0;916;914;0
+225;Boris;Lang;Contagem;MG;23/05/19;Pesquisa e Desenvolvimento;Solteiro;R$9,992;776;0;733;717;0;712;711;0
+226;Yolanda;Albert;Caucaia;Ceará;01/01/70;Suporte Técnico;Divorciado;R$6,778;90;0;289;14;0;22;8;0
+227;Acton;Mcdonald;Jundiaí;SP;28/01/88;Relações Públicas;Divorciado;R$8,331;0;0;809;803;0;814;800;0
+228;Elizabeth;Pennington;Guarulhos;SP;25/03/39;Jurídico;Solteiro;R$7,267;0;0;0;989;0;967;978;0
+229;Stephanie;Fletcher;Rio Verde;Goiás;16/07/91;Financeiro;Casado;R$9,131;0;0;876;870;0;736;743;0
+230;Yasir;Newman;Rio de Janeiro;RJ;06/05/35;Relações Públicas;Divorciado;R$8,402;340;0;206;162;0;177;162;0
+231;Whoopi;Craig;Duque de Caxias;Rio de Janeiro;04/06/59;Vendas;Viúvo;R$8,279;590;590;590;499;590;494;491;590
+232;Gillian;Hebert;Maranguape;CE;06/02/40;Relações Públicas;Casado;R$5,155;565;565;565;479;565;505;466;565
+233;Genevieve;Andrews;Osasco;São Paulo;30/12/65;Pesquisa e Desenvolvimento;Casado;R$5,755;513;513;466;420;513;418;418;513
+234;Emma;Simmons;Balsas;MA;27/08/59;Suporte Técnico;Divorciado;R$9,762;255;0;319;114;0;116;103;0
+235;Kylan;Gonzales;Sete Lagoas;Minas Gerais;12/02/04;Gerenciamento;Divorciado;R$6,277;0;0;957;945;0;942;941;0
+236;Noble;Bradford;São Gonçalo;Rio de Janeiro;24/05/08;Gerenciamento;Viúvo;R$6,314;574;574;574;490;574;478;476;574
+237;Nicole;Patton;Diadema;São Paulo;29/07/57;Gerenciamento;Casado;R$5,158;0;0;174;168;0;165;166;0
+238;Freya;Jackson;Juazeiro do Norte;CE;13/03/10;Vendas;Solteiro;R$6,297;0;0;639;236;0;240;235;0
+239;Hayden;Nicholson;Guarulhos;SP;21/07/34;Financeiro;Divorciado;R$6,827;0;0;844;826;0;842;834;0
+240;Ryder;Calhoun;Rio de Janeiro;RJ;05/07/15;Gerenciamento;Viúvo;R$5,766;0;0;220;209;0;212;207;0
+241;Ross;English;Crato;CE;25/04/14;Suporte Técnico;Divorciado;R$9,463;0;838;891;737;0;717;695;0
+242;Trevor;Tyler;Castanhal;PA;20/08/48;Vendas;Solteiro;R$7,099;920;0;0;938;0;696;680;0
+243;Pandora;Barron;Recife;Pernambuco;18/06/18;Pesquisa e Desenvolvimento;Divorciado;R$5,794;508;508;508;433;508;413;409;508
+244;Samuel;Conner;Osasco;São Paulo;23/10/38;Serviço ao Cliente;Divorciado;R$7,681;0;0;791;781;0;777;769;0
+245;Alec;Hooper;Osasco;São Paulo;08/11/41;Marketing;Solteiro;R$9,177;422;626;378;363;0;363;363;0
+246;Carson;Reynolds;Rio de Janeiro;Rio de Janeiro;10/09/69;Financeiro;Solteiro;R$6,704;0;0;0;999;0;984;986;0
+247;Isaiah;Boyer;Camaçari;Bahia;18/12/85;Relações Públicas;Viúvo;R$8,400;507;507;422;428;507;420;411;507
+248;Lael;Potter;Vitória da Conquista;Bahia;10/09/07;Serviço ao Cliente;Casado;R$7,650;0;340;136;105;0;105;83;0
+249;Octavia;Christian;Itabuna;BA;29/05/84;Relações Públicas;Solteiro;R$7,584;0;0;199;170;0;153;164;0
+250;Lacey;Phillips;Paulista;PE;25/04/70;Jurídico;Casado;R$9,973;0;0;533;539;0;509;510;0
+251;Matthew;Fuentes;Cametá;PA;24/04/67;Serviço ao Cliente;Viúvo;R$8,628;536;536;536;453;536;443;441;536
+252;Zane;Mason;Diadema;SP;16/06/48;Relações Públicas;Viúvo;R$6,385;0;0;231;212;0;195;194;0
+253;Wang;Peterson;Vitória da Conquista;BA;12/12/07;Relações Públicas;Divorciado;R$6,542;0;0;82;136;0;37;47;0
+254;Hope;Ayala;Carapicuíba;SP;24/02/89;Relações Públicas;Divorciado;R$5,607;0;897;625;627;0;634;625;0
+255;Hunter;Langley;Castanhal;Pará;13/06/46;Pesquisa e Desenvolvimento;Casado;R$9,219;518;446;451;451;518;423;421;518
+256;Wylie;Head;Cabo de Santo Agostinho;Pernambuco;27/06/64;Pesquisa e Desenvolvimento;Divorciado;R$9,931;793;951;779;864;0;776;778;0
+257;Jada;Hodges;Piracicaba;São Paulo;25/01/50;Jurídico;Solteiro;R$5,277;0;0;904;807;0;809;793;0
+258;Colorado;Reese;Uberaba;MG;16/01/14;Serviço ao Cliente;Divorciado;R$8,425;940;908;641;633;0;615;612;0
+259;Nathaniel;Valencia;Osasco;São Paulo;01/01/42;Marketing;Solteiro;R$8,837;356;296;349;224;0;229;224;0
+260;Sage;Romero;Balsas;Maranhão;18/06/33;Financeiro;Divorciado;R$8,441;214;0;96;60;0;69;48;0
+261;Vaughan;Wheeler;Vitória da Conquista;BA;03/07/63;Suporte Técnico;Divorciado;R$9,571;0;0;0;0;0;980;977;0
+262;Dante;Sargent;Novo Hamburgo;Rio Grande do Sul;21/09/60;Serviço ao Cliente;Viúvo;R$9,682;800;0;0;813;0;768;758;0
+263;Ciaran;Church;Divinópolis;Minas Gerais;08/03/43;Jurídico;Solteiro;R$7,356;537;537;537;447;537;451;443;537
+264;Hilda;Moore;Mogi das Cruzes;SP;29/02/00;Serviço ao Cliente;Solteiro;R$6,463;0;0;783;784;0;813;792;0
+265;Rogan;Rosales;Rio de Janeiro;Rio de Janeiro;06/08/35;Recursos Humanos;Viúvo;R$8,204;0;0;983;942;0;945;938;0
+266;Kiona;Lara;Ribeirão Preto;SP;05/04/65;Financeiro;Divorciado;R$9,339;933;670;65;10;0;15;14;0
+267;Idona;Davis;Ipatinga;Minas Gerais;03/01/90;Financeiro;Viúvo;R$9,453;0;0;790;708;0;698;692;0
+268;Kasimir;Walker;Florianópolis;SC;18/03/90;Marketing;Solteiro;R$9,921;955;0;817;793;0;802;772;0
+269;Clinton;Howell;Jundiaí;SP;16/02/13;Recursos Humanos;Divorciado;R$6,292;519;519;452;423;519;424;432;519
+270;Nicholas;Flores;Montes Claros;Minas Gerais;21/11/07;Gerenciamento;Divorciado;R$7,508;0;0;788;587;0;562;557;0
+271;Maxwell;Mack;Ribeirão das Neves;Minas Gerais;25/08/06;Marketing;Divorciado;R$9,236;931;0;867;838;0;845;840;0
+272;Anastasia;Marshall;Feira de Santana;BA;17/08/08;Pesquisa e Desenvolvimento;Solteiro;R$9,168;0;0;372;355;0;350;343;0
+273;Dakota;Lane;Mogi das Cruzes;São Paulo;21/11/49;Relações Públicas;Divorciado;R$9,111;209;0;139;111;0;111;108;0
+274;Hilel;Warner;Guarapuava;PR;24/12/42;Recursos Humanos;Solteiro;R$7,941;0;0;952;896;0;840;846;0
+275;Leila;Schultz;Chapecó;Santa Catarina;25/08/52;Suporte Técnico;Casado;R$9,092;0;180;308;186;0;80;77;761
+276;Drew;Walsh;São João de Meriti;Rio de Janeiro;24/05/30;Marketing;Solteiro;R$6,322;0;0;98;41;0;24;20;0
+277;Knox;Short;Caxias;Maranhão;21/03/34;Relações Públicas;Casado;R$5,782;545;545;545;448;545;455;450;545
+278;Ian;Randall;Florianópolis;Santa Catarina;18/08/75;Jurídico;Divorciado;R$7,760;0;330;770;323;0;333;330;0
+279;Vielka;Wiley;Carapicuíba;SP;02/04/94;Marketing;Viúvo;R$7,908;777;0;307;306;0;326;310;0
+280;Hanae;Saunders;Betim;MG;23/05/82;Marketing;Viúvo;R$6,321;973;478;669;388;0;382;389;0
+281;Martin;Fuentes;Gravataí;Rio Grande do Sul;04/05/49;Serviço ao Cliente;Divorciado;R$7,572;0;0;993;993;0;989;976;0
+282;Xena;Richardson;Petrópolis;Rio de Janeiro;06/03/89;Vendas;Viúvo;R$8,133;0;0;889;836;0;835;838;0
+283;Curran;Navarro;Mogi das Cruzes;São Paulo;06/03/49;Recursos Humanos;Divorciado;R$7,155;0;0;855;843;0;849;845;0
+284;Ginger;Ray;Ilhéus;BA;06/04/96;Vendas;Solteiro;R$8,585;0;0;749;749;0;731;728;0
+285;Gregory;King;Águas Lindas de Goiás;Goiás;30/07/91;Financeiro;Divorciado;R$5,111;532;532;532;532;532;438;435;532
+286;Caleb;Bell;Guarapuava;Paraná;23/06/50;Gerenciamento;Viúvo;R$5,473;0;274;325;130;0;129;129;614
+287;Daniel;Hartman;Governador Valadares;Minas Gerais;02/04/36;Recursos Humanos;Solteiro;R$6,467;0;487;633;293;0;289;293;0
+288;Boris;Knox;Caucaia;CE;07/05/50;Pesquisa e Desenvolvimento;Solteiro;R$9,077;0;0;909;829;0;788;782;0
+289;Aline;Peck;Mauá;SP;11/01/57;Relações Públicas;Casado;R$8,017;690;0;701;655;0;659;651;0
+290;Charity;Warren;Jundiaí;São Paulo;23/09/49;Marketing;Solteiro;R$7,784;0;990;519;503;0;504;524;0
+291;Callie;Ayala;Belém;Pará;07/09/05;Marketing;Viúvo;R$5,647;0;0;0;971;0;898;901;0
+292;Thaddeus;Dennis;Santa Maria;Rio Grande do Sul;25/09/43;Pesquisa e Desenvolvimento;Casado;R$5,252;411;310;292;336;0;310;286;0
+293;Denton;Norris;Crato;Ceará;05/02/08;Serviço ao Cliente;Casado;R$8,985;981;0;985;909;0;892;892;0
+294;Keelie;Brown;Lauro de Freitas;Bahia;14/06/51;Vendas;Divorciado;R$7,461;0;0;244;215;0;203;214;0
+295;Abbot;Case;Juiz de Fora;Minas Gerais;08/08/00;Marketing;Viúvo;R$8,269;0;806;587;537;0;529;527;0
+296;Donovan;Potter;Barra do Corda;MA;27/05/19;Relações Públicas;Solteiro;R$6,271;166;82;81;66;0;42;38;0
+297;Warren;Key;Petrolina;PE;13/08/36;Relações Públicas;Viúvo;R$7,430;0;0;626;367;0;345;334;0
+298;Ginger;Pollard;Rio de Janeiro;Rio de Janeiro;15/05/38;Marketing;Viúvo;R$9,945;727;0;755;696;0;687;687;0
+299;Ashely;Wilkins;Olinda;PE;24/08/71;Vendas;Solteiro;R$7,336;0;0;877;892;0;853;851;0
+300;Fitzgerald;Merrill;Marabá;Pará;01/07/40;Relações Públicas;Solteiro;R$6,706;0;843;938;818;0;778;776;0
+301;Hollee;Yang;Ponta Grossa;PR;06/09/60;Suporte Técnico;Casado;R$6,629;0;657;665;665;0;664;652;0
+302;Fay;Kane;Juazeiro;Bahia;16/02/36;Vendas;Viúvo;R$9,270;0;0;962;801;0;781;777;0
+303;Sacha;Giles;Paço do Lumiar;MA;01/04/88;Jurídico;Viúvo;R$6,971;951;0;899;687;0;655;649;0
+304;Felicia;Hall;Parauapebas;PA;28/10/31;Relações Públicas;Casado;R$5,038;345;816;610;112;0;107;97;0
+305;Isaiah;Hughes;Belo Horizonte;MG;04/05/37;Relações Públicas;Solteiro;R$5,986;407;0;859;402;0;399;401;0
+306;Owen;Langley;Campinas;SP;17/09/43;Pesquisa e Desenvolvimento;Solteiro;R$9,588;546;518;468;452;546;467;448;546
+307;Noah;Maddox;Mogi das Cruzes;São Paulo;09/02/73;Jurídico;Viúvo;R$7,890;638;0;597;593;0;600;595;0
+308;Alana;Mcguire;Camaragibe;Pernambuco;05/11/31;Vendas;Viúvo;R$6,431;0;0;0;743;0;727;726;0
+309;Leonard;Gibbs;Itajaí;SC;02/05/19;Pesquisa e Desenvolvimento;Viúvo;R$7,373;0;714;464;464;0;408;392;0
+310;Deirdre;Gates;São João de Meriti;Rio de Janeiro;13/09/84;Pesquisa e Desenvolvimento;Solteiro;R$5,007;0;0;714;714;0;715;727;0
+311;Xantha;Hardy;Mauá;SP;19/12/39;Financeiro;Divorciado;R$7,320;0;0;577;541;0;554;540;0
+312;Zahir;Alvarez;Paulista;Pernambuco;12/10/62;Vendas;Casado;R$7,535;0;0;604;563;0;539;539;0
+313;Beatrice;Villarreal;Montes Claros;MG;03/03/80;Serviço ao Cliente;Solteiro;R$9,240;543;543;456;457;543;459;446;543
+314;Graiden;Baldwin;São João de Meriti;Rio de Janeiro;31/05/36;Jurídico;Casado;R$5,435;0;0;712;574;0;576;575;0
+315;Halla;Snow;Ribeirão Preto;São Paulo;24/02/82;Marketing;Solteiro;R$6,372;0;0;994;941;0;929;932;0
+316;Melvin;Oneil;Mogi das Cruzes;SP;31/05/52;Relações Públicas;Casado;R$6,118;919;0;0;881;0;877;865;0
+317;Barbara;Mccarthy;Betim;Minas Gerais;11/08/37;Relações Públicas;Casado;R$6,618;0;787;953;788;0;767;764;0
+318;Arsenio;Schroeder;Itabuna;Bahia;10/05/31;Relações Públicas;Viúvo;R$9,994;0;644;273;244;0;219;220;0
+319;Fleur;Hutchinson;Contagem;Minas Gerais;17/01/34;Recursos Humanos;Divorciado;R$9,142;0;0;846;745;0;735;736;0
+320;Carl;Hodges;Nova Iguaçu;RJ;05/09/82;Recursos Humanos;Divorciado;R$8,657;964;256;153;100;0;89;81;0
+321;Felicia;Walters;Rio Grande;RS;17/05/62;Vendas;Casado;R$9,555;93;0;245;142;0;94;86;0
+322;Sara;Lara;Caxias do Sul;Rio Grande do Sul;26/11/58;Recursos Humanos;Viúvo;R$8,690;0;0;761;700;0;672;676;0
+323;Camden;Ewing;Canoas;Rio Grande do Sul;20/09/15;Recursos Humanos;Casado;R$9,787;371;602;142;251;0;100;106;0
+324;Melyssa;Trevino;Ipatinga;MG;30/08/03;Suporte Técnico;Casado;R$8,521;530;530;530;443;530;434;431;530
+325;Talon;Combs;Olinda;PE;29/12/80;Financeiro;Divorciado;R$9,702;0;0;367;331;0;318;292;0
+326;Ferdinand;Calderon;Juazeiro do Norte;Ceará;23/03/46;Recursos Humanos;Divorciado;R$9,602;0;0;946;827;0;827;821;0
+327;Brett;Salinas;Montes Claros;MG;26/02/44;Pesquisa e Desenvolvimento;Casado;R$6,930;0;970;414;213;0;161;158;0
+328;Leo;Black;Ribeirão Preto;São Paulo;21/02/69;Jurídico;Divorciado;R$5,438;0;0;132;68;0;66;66;0
+329;Colby;Mendez;Paranaguá;Paraná;15/06/36;Relações Públicas;Viúvo;R$7,763;0;0;937;195;0;181;186;0
+330;Wade;Lancaster;Ponta Grossa;Paraná;16/10/83;Recursos Humanos;Solteiro;R$8,037;0;0;133;121;0;99;101;0
+331;Roary;Stevens;Jundiaí;SP;16/12/64;Vendas;Viúvo;R$8,870;347;0;401;327;0;315;318;0
+332;Shay;Carver;Cametá;PA;03/07/51;Suporte Técnico;Viúvo;R$6,043;0;0;0;0;0;959;955;0
+333;Norman;Preston;Feira de Santana;Bahia;16/10/91;Financeiro;Divorciado;R$6,811;0;0;0;775;0;725;721;0
+334;Drake;Carson;Campinas;SP;24/12/48;Financeiro;Viúvo;R$8,984;906;0;109;42;0;47;42;0
+335;Bryar;Higgins;São José dos Pinhais;PR;15/01/10;Serviço ao Cliente;Casado;R$8,431;0;387;102;18;0;14;6;0
+336;Kenyon;Preston;Novo Hamburgo;Rio Grande do Sul;09/08/57;Recursos Humanos;Casado;R$8,704;592;592;509;534;592;519;494;592
+337;Steel;Atkins;Salvador;Bahia;17/09/76;Financeiro;Divorciado;R$5,517;0;0;0;851;0;864;852;0
+338;Ferris;Higgins;Piracicaba;São Paulo;16/04/37;Pesquisa e Desenvolvimento;Divorciado;R$5,441;0;871;417;392;0;389;390;0
+339;Charlotte;Hewitt;Londrina;Paraná;17/06/69;Gerenciamento;Casado;R$7,188;0;0;0;937;0;879;883;0
+340;Kelsie;Holden;Contagem;MG;14/08/12;Gerenciamento;Solteiro;R$6,813;562;562;505;502;562;474;464;562
+341;Hanae;Branch;Canoas;RS;07/08/76;Marketing;Divorciado;R$5,616;0;0;0;996;0;996;974;0
+342;Christen;Larson;Mauá;SP;30/04/44;Pesquisa e Desenvolvimento;Divorciado;R$7,451;0;0;944;947;0;918;921;0
+343;Nolan;Peck;Mauá;São Paulo;14/10/67;Pesquisa e Desenvolvimento;Solteiro;R$9,835;577;497;523;491;577;480;488;577
+344;James;Welch;Montes Claros;Minas Gerais;19/08/92;Serviço ao Cliente;Viúvo;R$8,482;514;514;443;426;514;431;415;514
+345;Zeph;Holland;Ribeirão Preto;SP;21/09/89;Vendas;Divorciado;R$5,414;0;777;366;341;0;348;341;0
+346;Tatyana;Pollard;Balsas;Maranhão;17/02/95;Jurídico;Solteiro;R$8,702;0;685;602;594;0;591;593;0
+347;Scott;Mckenzie;Piracicaba;SP;20/02/36;Relações Públicas;Casado;R$7,603;0;845;792;799;0;787;785;0
+348;Zephr;Galloway;Campos dos Goytacazes;RJ;08/05/95;Vendas;Viúvo;R$5,646;516;516;516;481;516;417;420;516
+349;Hillary;Rose;Paço do Lumiar;MA;02/11/03;Relações Públicas;Divorciado;R$9,154;0;0;0;940;0;901;904;0
+350;Gay;Greer;Nova Iguaçu;RJ;19/09/34;Relações Públicas;Viúvo;R$6,910;0;836;210;206;0;193;193;0
+351;Connor;Hodges;Olinda;PE;30/04/53;Serviço ao Cliente;Casado;R$9,127;0;681;271;285;0;270;259;0
+352;Travis;Weaver;Luziânia;GO;02/11/80;Relações Públicas;Divorciado;R$8,286;0;0;988;958;0;951;952;0
+353;Karly;Christensen;Barra do Corda;MA;30/05/35;Serviço ao Cliente;Divorciado;R$5,466;628;0;614;454;0;398;403;0
+354;Montana;Shannon;Osasco;São Paulo;18/03/52;Suporte Técnico;Viúvo;R$9,503;0;811;768;701;0;688;685;0
+355;Addison;Mccarty;Itabuna;BA;11/03/65;Relações Públicas;Solteiro;R$7,030;0;0;215;261;0;213;203;0
+356;Evelyn;Torres;Lauro de Freitas;BA;15/09/67;Relações Públicas;Viúvo;R$5,050;845;717;832;608;0;607;605;0
+357;Yetta;Barnes;Itajaí;Santa Catarina;09/08/49;Marketing;Viúvo;R$7,476;486;604;347;308;0;258;250;0
+358;Genevieve;Andrews;Osasco;São Paulo;30/12/65;Pesquisa e Desenvolvimento;Casado;R$5,755;0;646;566;520;0;518;518;0
+359;Chadwick;Estes;Porto Alegre;RS;07/04/69;Gerenciamento;Casado;R$8,788;0;0;913;913;0;885;884;0
+360;Deanna;Meyer;Açailândia;Maranhão;02/10/37;Relações Públicas;Casado;R$5,283;0;0;861;821;0;772;779;0
+361;Harlan;Cannon;Porto Alegre;RS;16/06/02;Relações Públicas;Casado;R$8,164;555;555;555;461;555;465;458;555
+362;Isaac;Hodges;Luziânia;Goiás;01/01/72;Suporte Técnico;Divorciado;R$9,204;912;792;854;704;0;682;690;0
+363;Alec;Melton;Camaçari;BA;04/11/92;Jurídico;Casado;R$9,336;522;522;489;489;522;428;423;522
+364;Angelica;Nelson;Camaçari;BA;15/07/92;Relações Públicas;Casado;R$9,999;706;635;354;315;0;313;315;0
+365;Elijah;Peck;Mogi das Cruzes;São Paulo;02/11/13;Financeiro;Viúvo;R$9,776;597;577;578;501;597;532;505;597
+366;Scarlett;Oneill;Governador Valadares;Minas Gerais;12/06/72;Pesquisa e Desenvolvimento;Casado;R$5,697;0;967;250;225;0;211;185;0
+367;Megan;Monroe;Jundiaí;SP;20/05/96;Suporte Técnico;Divorciado;R$5,035;552;552;475;459;552;457;456;552
+368;Vaughan;Gonzales;Santa Maria;Rio Grande do Sul;22/07/73;Suporte Técnico;Solteiro;R$7,543;534;534;442;442;534;440;437;534
+369;Whilemina;Wise;Gravataí;Rio Grande do Sul;06/09/48;Marketing;Divorciado;R$7,367;0;989;960;932;0;927;925;0
+370;Ryan;Daniels;Uberlândia;Minas Gerais;27/02/06;Recursos Humanos;Casado;R$7,254;0;0;447;348;0;327;321;0
+371;Madaline;Gonzalez;Maringá;PR;03/07/75;Pesquisa e Desenvolvimento;Divorciado;R$9,673;0;909;84;84;0;20;23;0
+372;Ina;Chavez;São Gonçalo;RJ;09/07/49;Gerenciamento;Divorciado;R$6,807;0;0;0;975;0;970;973;988
+373;Adena;Shelton;Mauá;São Paulo;04/11/08;Relações Públicas;Viúvo;R$9,203;0;203;178;132;0;122;120;0
+374;Gillian;Fowler;Maracanaú;CE;19/03/09;Suporte Técnico;Divorciado;R$7,522;0;0;866;776;0;783;773;0
+375;Martin;Rodriguez;Belo Horizonte;MG;26/04/66;Relações Públicas;Divorciado;R$8,169;974;481;364;381;0;306;307;378
+376;Eve;Francis;Goiânia;GO;18/03/33;Recursos Humanos;Casado;R$9,549;0;0;0;0;0;978;970;0
+377;Mannix;Torres;Juiz de Fora;MG;14/11/83;Suporte Técnico;Casado;R$8,988;0;826;0;746;0;748;718;0
+378;Nell;Herrera;Aparecida de Goiânia;Goiás;17/12/37;Marketing;Divorciado;R$5,883;0;679;200;228;0;194;188;0
+379;Yasir;Potter;Timon;Maranhão;26/06/62;Jurídico;Viúvo;R$5,272;934;0;673;342;0;349;344;0
+380;Anjolie;Boyd;Ribeirão Preto;São Paulo;07/06/05;Jurídico;Viúvo;R$6,662;0;631;259;163;0;166;161;0
+381;Cyrus;Mosley;Mogi das Cruzes;São Paulo;06/05/03;Marketing;Viúvo;R$7,875;0;0;327;243;0;249;236;0
+382;Malcolm;Cooley;Divinópolis;MG;28/02/59;Serviço ao Cliente;Viúvo;R$9,997;0;702;225;48;0;43;40;0
+383;Carissa;Kline;Belford Roxo;Rio de Janeiro;20/11/42;Gerenciamento;Divorciado;R$9,199;0;371;321;201;0;199;198;0
+384;Mollie;Whitaker;Ribeirão Preto;São Paulo;11/07/93;Suporte Técnico;Casado;R$9,090;460;0;339;349;0;342;342;0
+385;Rhonda;Cook;São Gonçalo;Rio de Janeiro;17/01/13;Vendas;Casado;R$8,884;226;0;151;92;0;55;43;713
+386;Kadeem;Robbins;Ribeirão Preto;São Paulo;17/08/60;Suporte Técnico;Divorciado;R$6,450;0;0;593;558;0;547;547;0
+387;Clinton;Ewing;Balsas;Maranhão;11/01/31;Pesquisa e Desenvolvimento;Solteiro;R$9,606;885;0;687;657;0;604;603;0
+388;Wilma;Kent;Marabá;Pará;12/11/81;Relações Públicas;Solteiro;R$9,305;0;0;164;164;0;151;152;0
+389;Camden;Kline;Petrópolis;RJ;07/07/72;Serviço ao Cliente;Solteiro;R$5,663;649;0;481;416;0;378;372;0
+390;Jolie;Bell;Niterói;RJ;16/08/45;Marketing;Divorciado;R$9,919;708;0;895;698;0;700;704;0
+391;Ginger;Serrano;Ilhéus;Bahia;08/01/30;Marketing;Casado;R$8,729;685;719;482;354;0;360;338;0
+392;Nathaniel;Frost;Lauro de Freitas;Bahia;21/06/73;Suporte Técnico;Divorciado;R$8,053;0;0;385;407;0;359;358;697
+393;Byron;Juarez;Carapicuíba;São Paulo;27/12/77;Marketing;Viúvo;R$6,683;0;0;739;738;0;739;732;0
+394;Ezra;Sanders;Montes Claros;Minas Gerais;21/09/01;Pesquisa e Desenvolvimento;Casado;R$6,639;0;884;886;790;0;806;801;0
+395;Uriah;Hendrix;Cajazeiras;PB;05/04/18;Gerenciamento;Casado;R$7,759;125;0;266;145;0;39;41;62
+396;Dorothy;Salazar;Jundiaí;SP;02/10/47;Marketing;Solteiro;R$7,634;0;0;169;135;0;130;136;0
+397;Brynn;Hall;Governador Valadares;Minas Gerais;08/09/87;Marketing;Solteiro;R$5,300;0;0;972;834;0;834;818;0
+398;Nash;Payne;Paulista;PE;19/05/32;Serviço ao Cliente;Divorciado;R$8,832;329;700;214;223;0;172;168;0
+399;Yoko;Rhodes;Maranguape;Ceará;03/12/98;Marketing;Solteiro;R$8,767;783;744;827;752;0;695;709;0
+400;Sydnee;Gibbs;Itabuna;Bahia;24/03/39;Financeiro;Divorciado;R$6,265;0;0;0;929;0;944;931;0
+401;Melvin;Emerson;Piracicaba;São Paulo;18/02/95;Gerenciamento;Solteiro;R$6,708;0;0;977;920;0;939;927;0
+402;Emerald;Graham;Rio de Janeiro;Rio de Janeiro;09/07/61;Vendas;Viúvo;R$6,637;0;0;935;933;0;934;934;0
+403;Mara;Watson;Ribeirão das Neves;Minas Gerais;16/01/30;Vendas;Divorciado;R$6,028;0;636;358;358;0;354;356;0
+404;Eleanor;Cline;Piracicaba;SP;01/12/75;Vendas;Divorciado;R$7,711;0;0;784;767;0;775;768;0
+405;Quinn;Page;Piracicaba;SP;24/08/87;Vendas;Divorciado;R$9,872;0;750;541;519;0;533;519;0
+406;Vivian;Savage;Salvador;Bahia;20/03/36;Serviço ao Cliente;Casado;R$7,739;0;684;261;77;0;54;49;0
+407;Idola;Hughes;Olinda;PE;26/06/62;Vendas;Viúvo;R$9,432;0;391;291;291;340;294;289;0
+408;Doris;Petersen;Belford Roxo;RJ;20/12/61;Pesquisa e Desenvolvimento;Viúvo;R$8,267;0;0;0;990;0;988;982;0
+409;Brendan;Byers;Cabo de Santo Agostinho;Pernambuco;10/03/41;Relações Públicas;Solteiro;R$7,624;0;0;0;1000;0;994;999;0
+410;Vance;Hicks;São João de Meriti;Rio de Janeiro;01/09/30;Gerenciamento;Viúvo;R$5,113;796;0;182;196;0;113;100;0
+411;Josiah;Klein;Foz do Iguaçu;PR;23/11/46;Serviço ao Cliente;Viúvo;R$6,002;0;864;0;736;0;745;739;0
+412;Echo;Good;Belo Horizonte;Minas Gerais;21/09/62;Recursos Humanos;Divorciado;R$5,271;0;808;391;377;0;365;365;0
+413;Yolanda;Mckee;Anápolis;Goiás;07/08/91;Relações Públicas;Viúvo;R$7,636;352;365;113;187;0;93;98;0
+414;Alika;Reese;Jundiaí;São Paulo;01/09/80;Gerenciamento;Divorciado;R$9,551;0;0;926;919;0;917;909;0
+415;Tatyana;Pollard;Balsas;Maranhão;17/02/95;Jurídico;Solteiro;R$8,702;588;588;531;494;588;491;493;588
+416;Raja;Hinton;Diadema;São Paulo;03/09/33;Financeiro;Viúvo;R$9,425;0;0;618;597;0;597;597;0
+417;Joelle;Williamson;Castanhal;Pará;26/04/32;Suporte Técnico;Casado;R$6,368;0;1000;518;518;0;530;513;0
+418;MacKensie;Tucker;Gravataí;Rio Grande do Sul;12/02/70;Vendas;Casado;R$6,737;0;0;924;907;0;914;902;0
+419;Jermaine;Barnes;Paulista;PE;27/10/75;Pesquisa e Desenvolvimento;Solteiro;R$8,065;0;0;631;626;0;608;608;0
+420;Karen;Watts;Recife;Pernambuco;31/12/46;Financeiro;Solteiro;R$6,894;343;0;242;129;0;137;126;0
+421;Benedict;Glenn;Campina Grande;PB;28/03/16;Marketing;Viúvo;R$8,734;529;529;529;529;529;458;436;529
+422;Brendan;Russo;Anápolis;GO;01/12/53;Suporte Técnico;Solteiro;R$7,702;957;0;619;351;0;266;268;0
+423;Orla;Sparks;Sobral;CE;01/11/81;Pesquisa e Desenvolvimento;Viúvo;R$8,599;0;0;267;270;494;246;237;0
+424;Keane;Zamora;Barra do Corda;MA;23/12/97;Vendas;Divorciado;R$6,983;451;171;120;96;0;83;85;0
+425;Ira;Frederick;Divinópolis;Minas Gerais;28/06/68;Relações Públicas;Solteiro;R$9,423;0;425;437;317;0;319;320;315
+426;Ava;England;Gravataí;Rio Grande do Sul;28/10/67;Financeiro;Viúvo;R$8,012;281;886;343;283;0;291;285;361
+427;Sean;Blevins;Santa Luzia;MG;19/12/05;Marketing;Viúvo;R$6,644;515;515;515;430;515;426;416;515
+428;Donovan;Branch;Sobral;CE;20/03/90;Jurídico;Casado;R$5,971;0;973;181;183;0;185;176;0
+429;Laurel;Buckley;Camaçari;Bahia;16/07/91;Relações Públicas;Viúvo;R$8,053;0;0;710;710;734;699;698;985
+430;Kessie;Navarro;Novo Hamburgo;Rio Grande do Sul;15/08/01;Gerenciamento;Viúvo;R$6,512;0;840;383;278;0;253;255;0
+431;Igor;Pate;Ribeirão das Neves;Minas Gerais;12/03/34;Financeiro;Solteiro;R$7,142;0;921;258;134;0;123;118;0
+432;Hedy;Christian;Rio de Janeiro;RJ;28/02/12;Vendas;Solteiro;R$8,291;631;152;92;73;0;41;37;0
+433;Lavinia;Gordon;Caruaru;PE;26/06/95;Serviço ao Cliente;Viúvo;R$8,709;585;585;585;506;585;486;486;585
+434;Nathan;Mcbride;João Pessoa;Paraíba;19/01/32;Recursos Humanos;Divorciado;R$5,771;0;920;0;0;0;886;877;0
+435;Hunter;Langley;Castanhal;Pará;13/06/46;Pesquisa e Desenvolvimento;Casado;R$9,219;748;546;551;551;0;523;521;0
+436;Tyler;Flowers;Rio Grande;RS;19/02/92;Jurídico;Casado;R$5,400;0;660;498;292;0;254;252;0
+437;Jamal;Fitzgerald;Santa Maria;Rio Grande do Sul;26/04/60;Marketing;Divorciado;R$5,980;0;849;283;99;0;63;57;0
+438;Quin;Nash;Juiz de Fora;Minas Gerais;20/11/47;Relações Públicas;Viúvo;R$6,909;700;0;717;662;0;665;660;0
+439;Vaughan;Gill;Ribeirão Preto;SP;22/10/91;Suporte Técnico;Solteiro;R$8,151;976;913;826;823;830;815;808;0
+440;Kirestin;Hartman;Juiz de Fora;Minas Gerais;09/04/39;Marketing;Divorciado;R$6,033;587;587;526;505;587;501;489;587
+441;Shannon;Macdonald;São João de Meriti;RJ;08/02/93;Relações Públicas;Casado;R$6,399;0;0;0;963;0;920;917;0
+442;Caryn;Blanchard;Lauro de Freitas;Bahia;12/05/58;Marketing;Viúvo;R$5,767;0;0;172;190;0;187;149;0
+443;Ruby;Woods;Jundiaí;SP;03/01/83;Financeiro;Divorciado;R$9,443;0;888;303;248;0;250;239;0
+444;Geoffrey;Weber;Londrina;PR;13/09/87;Serviço ao Cliente;Divorciado;R$7,933;0;0;878;835;0;824;825;0
+445;Breanna;Melendez;Ribeirão das Neves;Minas Gerais;25/04/67;Marketing;Viúvo;R$8,233;0;0;265;269;0;267;263;0
+446;Nathan;Benson;Ribeirão das Neves;Minas Gerais;13/01/67;Financeiro;Divorciado;R$7,738;875;396;745;364;0;361;364;0
+447;Charlotte;Cabrera;Sobral;Ceará;08/03/79;Serviço ao Cliente;Divorciado;R$9,338;878;378;22;22;0;16;15;0
+448;Lester;Morse;Cascavel;Paraná;31/08/41;Recursos Humanos;Casado;R$8,339;441;807;778;325;0;268;256;0
+449;Germane;Emerson;Uberlândia;Minas Gerais;20/05/16;Serviço ao Cliente;Casado;R$9,377;0;919;950;859;0;861;859;0
+450;Levi;Copeland;Uberaba;MG;09/07/46;Gerenciamento;Divorciado;R$5,455;0;0;945;950;0;952;946;0
+451;Kiona;Maxwell;Petrópolis;Rio de Janeiro;21/03/99;Recursos Humanos;Divorciado;R$9,059;0;0;0;935;0;935;937;0
+452;Samuel;Mccarthy;Sousa;PB;02/02/65;Relações Públicas;Viúvo;R$5,635;768;763;0;774;0;740;701;0
+453;Denton;England;Montes Claros;MG;16/02/63;Recursos Humanos;Viúvo;R$7,671;891;0;903;903;0;907;888;0
+454;Justine;Maxwell;Caxias do Sul;RS;06/01/08;Gerenciamento;Divorciado;R$9,788;583;583;583;496;583;499;487;583
+455;Price;Avila;Carapicuíba;São Paulo;21/01/00;Vendas;Divorciado;R$5,439;0;0;527;512;0;516;504;0
+456;Kane;Stewart;Goiânia;GO;14/02/82;Jurídico;Casado;R$5,809;721;0;636;200;0;188;195;0
+457;Richard;Fletcher;Diadema;São Paulo;22/04/02;Relações Públicas;Viúvo;R$7,159;0;734;535;527;0;545;526;0
+458;Alea;Burton;Maracanaú;Ceará;25/07/96;Pesquisa e Desenvolvimento;Viúvo;R$7,849;0;0;986;891;0;868;871;0
+459;Grant;Glenn;Santarém;Pará;17/06/68;Jurídico;Divorciado;R$7,286;61;429;46;46;0;65;33;0
+460;Jordan;Burch;Imperatriz;Maranhão;06/09/17;Pesquisa e Desenvolvimento;Viúvo;R$9,755;715;0;692;177;0;171;177;0
+461;Maisie;Pugh;Novo Hamburgo;RS;30/06/69;Marketing;Viúvo;R$9,024;0;0;251;205;0;200;204;247
+462;Craig;Rodriquez;Caxias do Sul;RS;21/06/16;Gerenciamento;Casado;R$9,092;0;0;948;883;0;794;763;0
+463;Reece;Mueller;Betim;MG;12/12/37;Serviço ao Cliente;Casado;R$6,009;0;0;0;957;0;957;957;0
+464;Tamara;Briggs;Vitória da Conquista;Bahia;12/04/06;Recursos Humanos;Casado;R$5,531;0;869;976;812;0;811;805;0
+465;Guinevere;Stephens;Canoas;Rio Grande do Sul;17/06/48;Recursos Humanos;Casado;R$6,590;0;0;973;917;0;926;912;0
+466;Reece;Ross;Itabuna;BA;12/07/84;Pesquisa e Desenvolvimento;Divorciado;R$5,238;953;0;925;868;0;866;867;0
+467;Sacha;Head;Timon;MA;02/07/34;Relações Públicas;Casado;R$8,407;0;0;0;0;0;956;953;0
+468;Noble;Bradford;São Gonçalo;Rio de Janeiro;24/05/08;Gerenciamento;Viúvo;R$6,314;0;0;696;590;0;578;576;0
+469;Angelica;Daugherty;Chapecó;SC;26/07/86;Serviço ao Cliente;Divorciado;R$5,468;0;0;765;765;0;711;714;0
+470;Celeste;Bird;Jundiaí;SP;07/06/58;Pesquisa e Desenvolvimento;Casado;R$8,393;0;145;126;119;0;125;123;0
+471;Zeus;Andrews;Ponta Grossa;PR;21/07/82;Relações Públicas;Viúvo;R$9,073;0;0;668;668;0;667;666;0
+472;Faith;Hartman;Santa Inês;MA;16/04/82;Relações Públicas;Viúvo;R$6,308;0;813;0;861;0;763;774;0
+473;Noah;Maddox;Mogi das Cruzes;São Paulo;09/02/73;Jurídico;Viúvo;R$7,890;591;591;497;493;591;500;495;591
+474;Jayme;Ellis;Carapicuíba;São Paulo;12/06/12;Pesquisa e Desenvolvimento;Viúvo;R$8,621;0;0;558;544;0;546;528;0
+475;Wynne;Hurley;Cabo de Santo Agostinho;Pernambuco;01/11/78;Pesquisa e Desenvolvimento;Divorciado;R$5,436;710;0;376;295;0;283;280;0
+476;Jacqueline;Hines;Guarulhos;SP;21/08/85;Jurídico;Casado;R$5,290;0;957;966;966;0;961;948;0
+477;Morgan;Mcdowell;Diadema;São Paulo;04/12/08;Recursos Humanos;Casado;R$9,584;826;0;335;246;0;248;245;0
+478;Akeem;Clay;Jundiaí;São Paulo;14/06/77;Recursos Humanos;Casado;R$8,307;0;790;627;577;0;592;578;0
+479;Tanya;Boyer;Jundiaí;São Paulo;31/03/66;Jurídico;Viúvo;R$5,856;0;0;865;840;0;817;823;0
+480;Harlan;Cannon;Porto Alegre;RS;16/06/02;Relações Públicas;Casado;R$8,164;0;0;700;561;0;565;558;0
+481;Dai;Tillman;Criciúma;SC;21/09/70;Gerenciamento;Solteiro;R$6,893;0;676;956;235;0;52;44;0
+482;Elijah;Peck;Mogi das Cruzes;São Paulo;02/11/13;Financeiro;Viúvo;R$9,776;0;650;615;605;0;603;601;0
+483;Ferdinand;Mendoza;São João de Meriti;Rio de Janeiro;20/10/90;Pesquisa e Desenvolvimento;Solteiro;R$8,254;820;0;787;730;0;743;730;0
+484;Nicholas;Flores;Montes Claros;Minas Gerais;21/11/07;Gerenciamento;Divorciado;R$7,508;505;556;514;487;556;462;457;556
+485;Reagan;Valdez;Recife;PE;07/09/64;Recursos Humanos;Solteiro;R$9,728;0;0;0;850;0;837;830;0
+486;Casey;Meadows;Osasco;São Paulo;04/08/35;Gerenciamento;Divorciado;R$6,796;0;885;513;513;0;542;517;0
+487;Elton;Olsen;Mauá;SP;06/03/58;Pesquisa e Desenvolvimento;Casado;R$7,551;523;523;424;424;523;427;430;523
+488;Brynne;Moran;Petrópolis;Rio de Janeiro;06/12/78;Serviço ao Cliente;Solteiro;R$9,912;0;0;751;685;0;675;678;0
+489;Kylynn;Bradley;Sobral;Ceará;25/03/46;Suporte Técnico;Casado;R$6,666;0;0;0;0;0;995;988;0
+490;Lewis;Bonner;Lauro de Freitas;BA;30/09/46;Serviço ao Cliente;Divorciado;R$5,350;603;978;315;300;0;290;291;0
+491;Wynter;Reyes;Governador Valadares;MG;11/03/36;Suporte Técnico;Divorciado;R$7,467;0;0;660;641;0;649;642;0
+492;Rina;Martinez;Fortaleza;Ceará;04/11/01;Financeiro;Solteiro;R$5,143;688;0;764;677;0;657;657;0
+493;Olympia;Randall;Marabá;Pará;01/09/47;Pesquisa e Desenvolvimento;Divorciado;R$8,848;0;0;453;379;0;334;332;0
+494;Kelly;Thornton;Mauá;SP;10/04/19;Vendas;Casado;R$9,203;0;0;67;17;0;11;11;111
+495;Trevor;Atkinson;Uberlândia;Minas Gerais;17/11/89;Suporte Técnico;Divorciado;R$9,658;678;0;638;556;0;552;549;0
+496;Shafira;Hooper;Petrolina;PE;18/02/78;Vendas;Divorciado;R$9,133;0;0;667;631;0;631;628;0
+497;Lester;Sexton;Piracicaba;SP;22/03/75;Recursos Humanos;Viúvo;R$7,425;0;0;661;546;0;548;554;0
+498;Edward;Ingram;Governador Valadares;MG;18/02/41;Pesquisa e Desenvolvimento;Solteiro;R$7,332;661;0;148;116;0;108;110;0
+499;Petra;Elliott;Maracanaú;CE;26/07/83;Gerenciamento;Viúvo;R$7,082;579;579;579;525;579;483;480;579
+500;Jennifer;Alvarado;Contagem;Minas Gerais;21/03/37;Marketing;Casado;R$9,604;0;672;405;86;0;84;72;0
+501;Preston;English;Sete Lagoas;Minas Gerais;07/09/97;Suporte Técnico;Viúvo;R$9,591;0;0;914;858;0;839;841;0
+502;Zia;Reid;Castanhal;Pará;21/08/75;Financeiro;Casado;R$9,679;705;0;410;410;0;390;382;0
+503;September;Whitney;Petrolina;PE;19/11/89;Vendas;Casado;R$9,724;0;0;1000;721;0;722;719;0
+504;Kane;Cleveland;Jaboatão dos Guararapes;PE;03/08/61;Gerenciamento;Divorciado;R$6,539;0;0;894;750;0;751;724;0
+505;Zelenia;Mcmillan;Londrina;Paraná;25/12/02;Suporte Técnico;Solteiro;R$8,454;0;819;395;252;0;225;221;0
+506;Suki;Wolf;Santa Luzia;MG;10/07/05;Vendas;Casado;R$9,193;0;0;415;391;0;392;395;0
+507;Nola;Lindsay;Campinas;São Paulo;15/07/85;Gerenciamento;Casado;R$9,468;0;0;644;624;0;627;634;0
+508;Chava;Morrow;Santa Inês;MA;27/10/73;Marketing;Viúvo;R$8,884;0;793;760;760;0;724;715;0
+509;Cherokee;Mccarthy;Santa Maria;RS;24/10/44;Serviço ao Cliente;Divorciado;R$8,725;0;344;434;343;0;295;295;0
+510;Richard;Fletcher;Diadema;São Paulo;22/04/02;Relações Públicas;Viúvo;R$7,159;520;520;435;427;520;445;426;520
+511;Harding;Williamson;Petrolina;Pernambuco;06/09/76;Suporte Técnico;Divorciado;R$9,750;0;0;0;0;0;0;0;0
+512;Abraham;Snider;Cametá;Pará;24/03/73;Pesquisa e Desenvolvimento;Casado;R$6,192;0;618;436;330;0;224;213;451
+513;Kelsey;Sharp;Ribeirão Preto;São Paulo;15/07/07;Relações Públicas;Casado;R$5,001;0;0;624;613;0;613;622;0
+514;Faith;Harrell;Imperatriz;Maranhão;01/02/71;Serviço ao Cliente;Viúvo;R$8,518;760;0;0;716;0;706;697;0
+515;Maryam;Kaufman;Gravataí;RS;09/08/69;Relações Públicas;Solteiro;R$8,508;0;890;900;747;0;749;741;0
+516;Ruby;Hernandez;Camaragibe;PE;19/12/79;Marketing;Divorciado;R$5,301;238;0;223;167;0;92;89;0
+517;Xyla;Page;Contagem;MG;30/05/38;Relações Públicas;Casado;R$7,435;0;176;71;72;0;87;71;0
+518;Austin;Sears;Pelotas;Rio Grande do Sul;14/09/11;Jurídico;Solteiro;R$6,669;0;0;735;345;0;340;337;0
+519;Barclay;Gibbs;Bacabal;MA;12/07/62;Jurídico;Divorciado;R$8,521;247;389;79;81;0;72;73;430
+520;Bianca;Mills;Ribeirão Preto;São Paulo;03/05/50;Marketing;Viúvo;R$8,557;0;0;676;625;0;648;629;0
+521;Lavinia;Gordon;Caruaru;PE;26/06/95;Serviço ao Cliente;Viúvo;R$8,709;0;0;750;604;0;586;586;0
+522;Darrel;Jimenez;Curitiba;Paraná;20/04/54;Marketing;Viúvo;R$8,636;932;0;476;127;0;126;127;0
+523;Kaye;Larsen;Montes Claros;MG;05/11/42;Gerenciamento;Viúvo;R$8,737;0;212;156;148;0;140;132;0
+524;Todd;Merritt;Carapicuíba;São Paulo;04/03/58;Pesquisa e Desenvolvimento;Divorciado;R$8,236;0;0;726;635;0;629;626;0
+525;Neil;Perkins;Campinas;São Paulo;27/12/89;Marketing;Solteiro;R$8,052;986;0;374;366;0;368;371;0
+526;Yen;Cobb;Balsas;Maranhão;23/06/58;Financeiro;Divorciado;R$7,429;0;0;0;766;0;720;720;0
+527;Axel;Fulton;Caruaru;PE;14/02/88;Suporte Técnico;Divorciado;R$7,043;315;0;485;45;0;74;24;0
+528;Honorato;Reeves;Uberaba;MG;20/06/65;Suporte Técnico;Divorciado;R$6,730;557;557;557;462;557;496;461;557
+529;Graiden;Patel;Piracicaba;SP;01/07/75;Marketing;Divorciado;R$6,733;106;341;29;40;303;26;30;0
+530;Chaney;Fleming;Divinópolis;Minas Gerais;21/09/53;Suporte Técnico;Casado;R$8,473;0;0;0;939;0;931;929;0
+531;Matthew;Fuentes;Cametá;PA;24/04/67;Serviço ao Cliente;Viúvo;R$8,628;0;974;954;553;0;543;541;0
+532;Elton;Olsen;Mauá;SP;06/03/58;Pesquisa e Desenvolvimento;Casado;R$7,551;0;739;524;524;0;527;530;0
+533;Avye;Oneal;Santa Luzia;MG;14/11/84;Marketing;Viúvo;R$5,291;0;0;377;302;0;305;301;0
+534;Miriam;Knight;Santa Maria;RS;07/10/91;Vendas;Divorciado;R$7,850;561;561;534;483;561;464;463;561
+535;Rebecca;Oconnor;Petrópolis;Rio de Janeiro;16/03/31;Jurídico;Solteiro;R$5,492;0;648;674;646;0;612;602;839
+536;Neville;Lawson;Açailândia;Maranhão;01/11/81;Vendas;Casado;R$8,469;656;0;771;602;0;606;607;0
+537;Yetta;Peters;Canoas;Rio Grande do Sul;16/06/74;Serviço ao Cliente;Viúvo;R$7,212;0;0;596;592;0;593;590;0
+538;Meghan;Frye;Mogi das Cruzes;SP;25/05/77;Relações Públicas;Viúvo;R$6,099;0;0;44;44;0;46;45;946
+539;Quin;Vega;Maringá;PR;05/03/44;Marketing;Solteiro;R$7,307;659;0;103;102;454;85;87;0
+540;Uriah;Conway;Bacabal;MA;09/02/35;Pesquisa e Desenvolvimento;Casado;R$6,328;0;0;247;188;0;149;128;0
+541;Brady;Wade;Colombo;PR;20/05/48;Pesquisa e Desenvolvimento;Viúvo;R$8,234;573;573;540;476;573;477;474;573
+542;Renee;Whitney;Rio Grande;RS;02/12/46;Pesquisa e Desenvolvimento;Solteiro;R$6,270;0;718;656;654;0;602;599;0
+543;Zenaida;Saunders;Mogi das Cruzes;SP;25/12/80;Gerenciamento;Casado;R$9,573;0;632;591;618;0;579;584;0
+544;Cadman;Bush;Balsas;Maranhão;26/05/48;Relações Públicas;Viúvo;R$6,149;0;0;333;340;0;331;324;0
+545;Ava;Berry;Ipatinga;Minas Gerais;25/11/99;Jurídico;Casado;R$8,817;0;0;430;284;0;296;283;0
+546;Nehru;Sanford;Carapicuíba;São Paulo;18/10/31;Gerenciamento;Solteiro;R$6,933;0;0;55;27;0;13;12;0
+547;Keely;Gonzales;Ribeirão Preto;SP;16/06/10;Recursos Humanos;Divorciado;R$5,730;0;939;738;739;0;733;733;0
+548;Orli;Saunders;Diadema;SP;13/12/54;Gerenciamento;Divorciado;R$7,867;0;0;702;642;0;642;633;0
+549;Ocean;Parker;Ribeirão Preto;São Paulo;08/06/77;Recursos Humanos;Divorciado;R$9,105;904;805;744;741;0;759;742;0
+550;Rinah;Gaines;Ananindeua;PA;01/09/73;Marketing;Divorciado;R$7,702;0;0;819;149;0;118;116;262
+551;Isaiah;Boyer;Camaçari;Bahia;18/12/85;Relações Públicas;Viúvo;R$8,400;0;809;522;528;0;520;511;0
+552;Mason;Elliott;Campinas;SP;22/07/62;Relações Públicas;Casado;R$5,688;0;0;872;777;0;771;771;0
+553;Ava;Gomez;Paulista;PE;06/05/59;Recursos Humanos;Viúvo;R$9,428;278;0;122;85;0;48;46;0
+554;Nora;Greer;Nova Iguaçu;Rio de Janeiro;28/07/69;Relações Públicas;Solteiro;R$5,933;0;0;856;845;0;851;837;0
+555;Christian;Hays;Guarulhos;São Paulo;14/06/87;Vendas;Viúvo;R$8,177;0;489;230;234;0;230;234;268
+556;Kimberly;Hopper;Jaboatão dos Guararapes;PE;09/08/87;Marketing;Solteiro;R$9,565;0;0;0;923;0;896;896;0
+557;Adrian;Haney;Diadema;SP;17/09/07;Gerenciamento;Viúvo;R$5,930;0;0;163;171;0;163;159;0
+558;Quentin;Ramirez;São João de Meriti;Rio de Janeiro;11/06/17;Gerenciamento;Solteiro;R$8,542;0;0;915;889;0;883;894;0
+559;Serina;Oneill;Blumenau;Santa Catarina;17/08/84;Jurídico;Viúvo;R$5,388;0;0;984;0;0;971;971;0
+560;Laith;Schroeder;Ponta Grossa;PR;30/10/98;Marketing;Divorciado;R$6,745;0;0;671;671;0;679;669;0
+561;Velma;Contreras;Rio de Janeiro;RJ;02/03/97;Relações Públicas;Casado;R$5,875;982;0;796;787;0;760;761;0
+562;Abra;Skinner;Uberlândia;MG;03/06/48;Vendas;Solteiro;R$6,471;0;0;800;780;0;756;749;0
+563;Shea;Young;Mauá;São Paulo;15/08/82;Financeiro;Solteiro;R$5,081;0;0;0;968;0;950;945;0
+564;Zia;Figueroa;Ribeirão Preto;São Paulo;17/03/02;Recursos Humanos;Divorciado;R$5,943;0;0;729;715;0;729;706;0
+565;Herrod;Terrell;Campinas;SP;10/09/99;Gerenciamento;Viúvo;R$7,534;0;846;286;230;0;251;223;0
+566;Ivor;Hobbs;Mogi das Cruzes;SP;25/02/31;Recursos Humanos;Divorciado;R$7,857;0;0;91;91;0;95;92;0
+567;Eagan;Camacho;Luziânia;Goiás;11/04/82;Pesquisa e Desenvolvimento;Casado;R$6,807;0;0;0;0;0;0;990;0
+568;Lance;Woods;Carapicuíba;SP;08/05/06;Gerenciamento;Viúvo;R$6,902;0;0;968;890;0;895;897;0
+569;Brenden;Beard;Belford Roxo;Rio de Janeiro;18/10/12;Serviço ao Cliente;Divorciado;R$8,122;0;0;975;930;0;912;895;0
+570;Flavia;Holden;Santa Rita;Paraíba;15/07/45;Gerenciamento;Solteiro;R$7,120;0;0;0;875;978;847;836;0
+571;Zephr;Pate;Ilhéus;BA;01/09/94;Jurídico;Divorciado;R$6,689;0;0;0;959;0;936;922;0
+572;Benedict;Glenn;Campina Grande;PB;28/03/16;Marketing;Viúvo;R$8,734;0;962;690;617;0;558;536;0
+573;Wesley;Mcbride;Ponta Grossa;Paraná;10/05/78;Jurídico;Casado;R$6,421;855;875;725;742;0;708;691;0
+574;Cullen;Nichols;Petrópolis;Rio de Janeiro;08/03/59;Recursos Humanos;Casado;R$6,176;402;622;371;460;0;397;375;0
+575;Henry;James;Ribeirão Preto;São Paulo;24/03/05;Pesquisa e Desenvolvimento;Casado;R$5,816;0;0;920;908;0;911;907;0
+576;Giacomo;Page;Caruaru;PE;15/11/98;Suporte Técnico;Casado;R$8,831;0;0;0;779;0;758;755;0
+577;Florence;Rowe;Mogi das Cruzes;SP;03/01/31;Relações Públicas;Divorciado;R$7,045;0;476;233;222;0;220;226;0
+578;Jared;Austin;Maracanaú;CE;06/06/52;Serviço ao Cliente;Viúvo;R$5,996;0;0;203;106;0;77;58;0
+579;Montana;Horton;Ribeirão das Neves;MG;16/07/87;Vendas;Viúvo;R$6,409;682;390;269;299;0;274;269;0
+580;Berk;Tillman;Ribeirão Preto;São Paulo;15/12/67;Gerenciamento;Viúvo;R$5,219;0;0;705;682;0;680;677;0
+581;Joseph;Terrell;Contagem;MG;05/09/67;Serviço ao Cliente;Solteiro;R$9,155;0;0;853;847;0;858;850;0
+582;Gretchen;Shaffer;Itabuna;Bahia;16/08/78;Vendas;Casado;R$6,561;0;0;217;217;0;218;218;0
+583;Yetta;Peters;Canoas;Rio Grande do Sul;16/06/74;Serviço ao Cliente;Viúvo;R$7,212;586;586;496;492;586;493;490;586
+584;Brooke;Mendoza;Canoas;RS;25/05/61;Recursos Humanos;Viúvo;R$7,904;0;728;486;158;0;164;145;0
+585;Leilani;Fitzgerald;Diadema;SP;10/02/03;Recursos Humanos;Viúvo;R$7,671;0;0;901;855;0;852;866;886
+586;Whoopi;Craig;Duque de Caxias;Rio de Janeiro;04/06/59;Vendas;Viúvo;R$8,279;0;912;808;599;0;594;591;0
+587;Kirby;Dudley;Santa Luzia;Minas Gerais;18/01/98;Vendas;Solteiro;R$8,086;0;0;386;386;0;388;378;0
+588;Sean;Blevins;Santa Luzia;MG;19/12/05;Marketing;Viúvo;R$6,644;672;0;630;530;0;526;516;0
+589;Jamalia;Hamilton;Governador Valadares;Minas Gerais;03/05/91;Financeiro;Casado;R$6,782;0;0;992;992;0;977;981;0
+590;Channing;Daniel;Osasco;São Paulo;22/02/91;Relações Públicas;Viúvo;R$5,021;0;0;884;792;0;799;794;0
+591;Gillian;Hebert;Maranguape;CE;06/02/40;Relações Públicas;Casado;R$5,155;769;0;603;579;0;601;566;0
+592;Diana;Huff;Juazeiro do Norte;Ceará;16/08/91;Jurídico;Viúvo;R$7,148;0;0;820;694;0;683;679;0
+593;Britanney;Kemp;Vitória da Conquista;BA;07/05/37;Financeiro;Divorciado;R$7,493;0;708;175;172;0;176;173;0
+594;Clayton;Morton;Sete Lagoas;Minas Gerais;19/02/02;Suporte Técnico;Viúvo;R$7,799;421;0;402;184;0;143;135;0
+595;Hayden;Farmer;Juazeiro;Bahia;22/05/35;Vendas;Viúvo;R$6,388;825;0;332;326;0;325;328;0
+596;Tamara;Sargent;Porto Alegre;RS;23/09/62;Marketing;Divorciado;R$5,882;801;757;883;761;0;770;748;0
+597;Marny;Mendoza;Piracicaba;SP;24/11/40;Recursos Humanos;Divorciado;R$8,274;0;142;62;58;0;59;59;0
+598;Leroy;Soto;Paço do Lumiar;MA;05/03/44;Financeiro;Viúvo;R$6,586;0;0;647;567;0;566;568;0
+599;Illiana;Carpenter;Uberlândia;MG;01/02/55;Financeiro;Viúvo;R$5,729;0;0;0;953;0;972;954;0
+600;Haley;Conley;Mauá;SP;04/07/87;Recursos Humanos;Solteiro;R$9,259;0;0;538;535;0;525;525;0
+601;Ignacia;Mccormick;Uberaba;MG;05/12/38;Vendas;Casado;R$9,569;0;898;457;250;0;242;243;0
+602;Cassandra;Kennedy;Campinas;SP;07/08/04;Financeiro;Viúvo;R$7,964;609;0;623;578;0;589;569;0
+603;Ina;Pacheco;Ribeirão Preto;São Paulo;13/02/04;Serviço ao Cliente;Solteiro;R$7,381;785;0;607;595;0;605;596;0
+604;Maxine;Johnson;Ribeirão Preto;São Paulo;16/11/01;Recursos Humanos;Divorciado;R$9,612;0;0;804;791;0;793;790;0
+605;Xander;Acevedo;Chapecó;Santa Catarina;21/03/84;Recursos Humanos;Casado;R$7,835;0;0;706;680;0;419;398;0
+606;Marshall;Logan;Gravataí;Rio Grande do Sul;27/06/73;Marketing;Divorciado;R$8,701;0;937;740;735;0;726;729;0
+607;Rooney;Owens;Barra do Corda;MA;10/10/91;Pesquisa e Desenvolvimento;Solteiro;R$5,473;0;786;657;647;0;625;620;0
+608;Callie;Glover;Joinville;Santa Catarina;07/09/30;Serviço ao Cliente;Solteiro;R$5,511;806;0;0;347;0;351;325;0
+609;Coby;Crane;Cabo de Santo Agostinho;Pernambuco;24/03/49;Pesquisa e Desenvolvimento;Divorciado;R$8,255;879;439;404;404;0;387;380;0
+610;Roanna;Patel;Piracicaba;SP;22/09/77;Recursos Humanos;Divorciado;R$9,380;0;0;346;346;0;347;345;0
+611;Castor;Burks;Codó;MA;08/11/01;Serviço ao Cliente;Viúvo;R$7,653;0;0;0;571;0;570;573;0
+612;Cullen;Castillo;Sete Lagoas;MG;05/09/62;Suporte Técnico;Casado;R$8,349;0;0;691;515;0;510;506;0
+613;Oprah;Mercado;Rio Verde;Goiás;21/02/06;Recursos Humanos;Divorciado;R$8,993;0;0;734;734;0;705;705;0
+614;Ralph;Greene;Governador Valadares;MG;28/04/09;Financeiro;Divorciado;R$8,199;0;0;640;640;0;636;636;0
+615;Velma;Stout;Marabá;PA;12/07/84;Gerenciamento;Casado;R$8,888;755;0;772;610;863;556;555;0
+616;Susan;Wagner;Londrina;PR;26/08/70;Suporte Técnico;Casado;R$5,017;818;0;480;440;0;402;396;0
+617;Jordan;Ross;Caxias;Maranhão;20/06/69;Serviço ao Cliente;Casado;R$8,637;0;863;0;0;0;832;829;0
+618;Keegan;Bennett;Cabo de Santo Agostinho;Pernambuco;13/06/07;Marketing;Divorciado;R$7,064;0;0;539;508;0;511;508;0
+619;Leilani;Burke;Juazeiro do Norte;CE;10/07/88;Marketing;Solteiro;R$5,609;46;948;232;54;0;19;9;431
+620;Shaine;Doyle;Ribeirão Preto;SP;29/07/33;Financeiro;Viúvo;R$6,612;0;0;338;339;0;344;331;0
+621;Stone;Roth;Chapadinha;MA;10/04/07;Serviço ao Cliente;Casado;R$6,524;0;663;344;333;0;292;294;0
+622;Nyssa;Bowers;Bacabal;Maranhão;21/02/34;Recursos Humanos;Casado;R$7,914;550;550;548;488;550;471;451;550
+623;Brennan;Parrish;Balsas;MA;30/11/37;Marketing;Viúvo;R$9,391;0;0;716;713;0;694;689;0
+624;Yardley;Richmond;Rio Grande;RS;21/03/35;Serviço ao Cliente;Solteiro;R$9,365;0;0;813;740;0;723;712;0
+625;Demetrius;Riddle;Diadema;SP;02/08/69;Recursos Humanos;Divorciado;R$5,524;664;0;193;176;0;210;175;383
+626;Dennis;Macdonald;Vitória da Conquista;Bahia;13/11/72;Serviço ao Cliente;Divorciado;R$6,911;0;915;652;582;0;585;571;0
+627;Ignacia;Santos;Vitória da Conquista;BA;23/06/62;Recursos Humanos;Solteiro;R$5,677;240;188;170;152;0;139;140;0
+628;Aquila;Ortiz;Governador Valadares;Minas Gerais;01/08/67;Jurídico;Viúvo;R$5,057;0;0;0;0;0;998;993;0
+629;Noble;Matthews;São José dos Pinhais;PR;19/01/65;Pesquisa e Desenvolvimento;Solteiro;R$6,361;474;961;0;103;0;104;104;0
+630;Clayton;Gillespie;Itabuna;BA;09/01/30;Jurídico;Casado;R$5,985;0;0;616;522;0;522;522;0
+631;Graiden;Sawyer;Maranguape;CE;17/08/01;Recursos Humanos;Casado;R$9,681;472;247;270;118;0;120;117;0
+632;Jason;Parsons;Diadema;SP;12/12/89;Recursos Humanos;Divorciado;R$9,057;535;535;495;438;535;441;438;535
+633;Cedric;Tyler;Paranaguá;Paraná;11/08/61;Relações Públicas;Divorciado;R$5,837;646;678;179;179;0;160;160;0
+634;Jane;Mckee;Águas Lindas de Goiás;GO;26/07/66;Recursos Humanos;Divorciado;R$6,557;0;0;432;830;0;370;367;0
+635;Wynter;Weber;Maranguape;Ceará;31/08/51;Pesquisa e Desenvolvimento;Solteiro;R$8,755;640;399;465;350;0;330;323;0
+636;Paloma;West;Ribeirão das Neves;Minas Gerais;28/08/65;Relações Públicas;Solteiro;R$5,562;0;0;348;313;0;302;296;0
+637;Cassandra;Chavez;Florianópolis;Santa Catarina;21/03/95;Jurídico;Divorciado;R$5,940;0;963;0;871;0;823;820;0
+638;Guy;Santana;Ribeirão Preto;SP;10/09/52;Recursos Humanos;Solteiro;R$8,177;719;0;276;276;0;280;272;0
+639;Yuri;Merrill;Sete Lagoas;Minas Gerais;06/11/41;Vendas;Solteiro;R$9,656;0;772;780;733;0;741;735;0
+640;Velma;Mathews;Cascavel;PR;07/02/96;Relações Públicas;Viúvo;R$9,187;0;0;0;0;0;991;984;0
+641;Raymond;Sharpe;Santa Luzia;MG;06/04/34;Vendas;Divorciado;R$6,228;0;0;0;846;0;826;812;0
+642;Hunter;Mcknight;Mogi das Cruzes;SP;06/06/63;Suporte Técnico;Divorciado;R$6,749;0;0;782;754;0;750;753;0
+643;Unity;Leach;Paulista;PE;21/07/08;Vendas;Viúvo;R$8,272;0;0;0;0;0;930;926;0
+644;Hasad;Scott;Niterói;Rio de Janeiro;29/08/00;Gerenciamento;Casado;R$9,341;0;996;0;983;0;943;947;0
+645;Abraham;Stuart;Caxias do Sul;RS;21/09/86;Gerenciamento;Casado;R$6,881;211;0;239;207;0;206;210;0
+646;Channing;Wheeler;Camaçari;Bahia;30/06/83;Vendas;Solteiro;R$6,731;791;349;277;280;0;285;277;0
+647;Shafira;Zamora;Osasco;SP;14/10/88;Pesquisa e Desenvolvimento;Solteiro;R$8,069;626;0;221;173;0;183;172;0
+648;Robert;Hampton;Maranguape;Ceará;16/12/42;Recursos Humanos;Solteiro;R$9,295;0;0;829;866;0;828;828;0
+649;Garth;Munoz;Mauá;São Paulo;20/02/32;Pesquisa e Desenvolvimento;Solteiro;R$8,407;802;0;246;227;0;236;230;951
+650;Lesley;Yang;Jundiaí;SP;01/07/75;Vendas;Solteiro;R$8,873;980;651;306;305;0;304;304;0
+651;Jason;Parsons;Diadema;SP;12/12/89;Recursos Humanos;Divorciado;R$9,057;0;0;595;538;0;541;538;0
+652;Kasper;May;Diadema;SP;01/09/12;Jurídico;Viúvo;R$8,358;0;0;849;825;0;855;831;0
+653;Pearl;Lowery;Valparaíso de Goiás;GO;28/07/51;Vendas;Viúvo;R$6,168;0;0;228;52;0;10;21;0
+654;Cullen;Castillo;Sete Lagoas;MG;05/09/62;Suporte Técnico;Casado;R$8,349;502;502;502;415;502;410;406;502
+655;Illiana;Ayers;Londrina;Paraná;30/07/65;Marketing;Casado;R$6,688;584;584;580;584;584;487;492;584
+656;Amity;Gilliam;Mauá;São Paulo;17/12/77;Financeiro;Viúvo;R$9,904;608;0;382;335;0;322;319;0
+657;Vernon;Clark;Olinda;Pernambuco;26/12/35;Financeiro;Solteiro;R$9,181;204;0;256;122;0;8;4;0
+658;Wing;Hardy;Bayeux;Paraíba;03/06/58;Serviço ao Cliente;Divorciado;R$6,236;0;382;995;255;0;158;148;0
+659;Blaze;Watson;Goiânia;Goiás;29/04/39;Financeiro;Divorciado;R$8,334;0;0;649;649;0;645;638;0
+660;Harding;Vazquez;Timon;Maranhão;17/01/56;Serviço ao Cliente;Viúvo;R$5,100;1000;0;340;47;0;36;36;0
+661;Giselle;Underwood;Santa Maria;Rio Grande do Sul;04/09/99;Gerenciamento;Casado;R$7,567;0;0;561;586;0;549;545;0
+662;Inga;Cabrera;Osasco;São Paulo;04/12/10;Serviço ao Cliente;Solteiro;R$8,169;0;0;394;380;0;393;385;0
+663;Hedda;Barr;Ponta Grossa;PR;19/05/82;Jurídico;Solteiro;R$7,265;0;0;683;688;0;677;673;0
+664;Lev;Hatfield;Itabuna;BA;05/08/05;Gerenciamento;Casado;R$7,719;0;0;202;202;0;205;205;0
+665;Kalia;Maynard;Águas Lindas de Goiás;Goiás;19/03/52;Recursos Humanos;Casado;R$7,623;0;0;0;876;0;875;878;0
+666;Emma;Marquez;João Pessoa;Paraíba;15/06/31;Relações Públicas;Viúvo;R$9,713;0;0;329;266;0;260;258;0
+667;Philip;Miller;Uberaba;MG;24/08/59;Pesquisa e Desenvolvimento;Casado;R$7,203;0;0;943;660;0;643;646;0
+668;Pandora;Barron;Recife;Pernambuco;18/06/18;Pesquisa e Desenvolvimento;Divorciado;R$5,794;842;0;828;533;0;513;509;0
+669;Abbot;Pennington;Campinas;SP;04/02/78;Financeiro;Divorciado;R$7,335;426;966;398;384;0;375;376;0
+670;Quinn;Page;Piracicaba;SP;24/08/87;Vendas;Divorciado;R$9,872;517;517;441;419;517;433;419;517
+671;Zena;Underwood;Fortaleza;CE;30/04/54;Marketing;Solteiro;R$9,575;0;442;645;166;0;121;124;0
+672;Nita;Pope;Gravataí;RS;07/01/58;Vendas;Casado;R$8,700;736;658;278;239;0;227;225;0
+673;Velma;Stanley;Divinópolis;Minas Gerais;10/02/30;Suporte Técnico;Casado;R$6,740;453;0;237;241;0;244;231;0
+674;Guy;Serrano;Guarulhos;São Paulo;04/01/81;Gerenciamento;Casado;R$5,168;0;0;741;723;0;721;723;0
+675;Dakota;Marks;Divinópolis;Minas Gerais;11/01/61;Jurídico;Divorciado;R$8,293;0;669;879;630;0;619;615;0
+676;Amber;Hardy;Itajaí;SC;09/04/94;Pesquisa e Desenvolvimento;Solteiro;R$8,868;0;144;186;39;0;27;27;0
+677;Uriel;Hoover;Osasco;São Paulo;18/03/39;Relações Públicas;Solteiro;R$9,288;0;0;666;615;0;621;614;0
+678;Malik;Alexander;São Gonçalo;RJ;21/12/48;Relações Públicas;Viúvo;R$6,951;0;968;474;153;0;152;157;0
+679;Margaret;Ochoa;Contagem;MG;21/09/03;Vendas;Casado;R$9,137;0;0;922;867;0;867;858;0
+680;Isabella;Anderson;Osasco;SP;19/10/03;Vendas;Viúvo;R$6,445;168;0;143;140;0;162;138;0
+681;Giselle;Forbes;Diadema;SP;02/07/97;Suporte Técnico;Casado;R$5,587;442;0;384;362;0;395;361;0
+682;Lewis;Guy;Maranguape;Ceará;19/07/00;Financeiro;Solteiro;R$6,423;854;0;694;645;0;616;604;0
+683;Nelle;Wynn;Vitória da Conquista;BA;15/02/47;Gerenciamento;Casado;R$5,564;0;0;653;727;0;653;655;0
+684;Holmes;Kramer;Carapicuíba;SP;08/03/76;Gerenciamento;Viúvo;R$7,391;869;0;59;59;0;60;68;0
+685;Cruz;Knapp;Petrópolis;Rio de Janeiro;12/12/53;Gerenciamento;Solteiro;R$9,232;0;917;600;600;0;620;600;0
+686;Serina;William;São Gonçalo;Rio de Janeiro;20/06/55;Recursos Humanos;Divorciado;R$7,660;870;0;963;862;0;859;862;0
+687;Drake;Allen;Ilhéus;Bahia;25/04/61;Gerenciamento;Solteiro;R$9,147;0;0;921;925;0;908;919;0
+688;Zephania;Powell;Anápolis;GO;15/11/50;Gerenciamento;Viúvo;R$9,329;266;0;90;113;0;53;53;0
+689;Kaitlin;Floyd;Valparaíso de Goiás;Goiás;07/08/75;Marketing;Divorciado;R$6,433;0;0;910;432;0;234;233;0
+690;Deirdre;Meyers;Ribeirão Preto;São Paulo;01/01/12;Vendas;Casado;R$7,448;712;367;373;378;0;377;368;0
+691;Jared;Shields;Juiz de Fora;Minas Gerais;06/07/85;Jurídico;Casado;R$8,668;54;0;51;69;0;12;10;0
+692;Vaughan;Gonzales;Santa Maria;Rio Grande do Sul;22/07/73;Suporte Técnico;Solteiro;R$7,543;804;729;542;542;0;540;537;0
+693;Rahim;Jordan;Londrina;PR;02/05/45;Pesquisa e Desenvolvimento;Viúvo;R$7,124;884;802;584;643;0;598;581;0
+694;Herman;Browning;Montes Claros;MG;05/07/36;Suporte Técnico;Viúvo;R$6,660;0;0;0;914;0;910;916;0
+695;Mollie;Brennan;Rio de Janeiro;Rio de Janeiro;03/01/94;Vendas;Solteiro;R$8,906;560;560;560;472;560;461;462;560
+696;Gwendolyn;Carter;Campinas;SP;30/03/57;Gerenciamento;Casado;R$9,881;0;0;304;303;0;298;290;0
+697;Fletcher;Drake;Sete Lagoas;MG;09/09/74;Relações Públicas;Solteiro;R$6,685;758;0;134;97;0;90;95;0
+698;James;Boone;Abaetetuba;Pará;07/09/70;Pesquisa e Desenvolvimento;Viúvo;R$7,200;0;0;672;663;0;639;630;0
+699;Hedda;Cobb;Canoas;RS;24/04/39;Suporte Técnico;Solteiro;R$5,012;596;596;586;498;596;502;498;596
+700;Heidi;Chan;Divinópolis;MG;08/12/11;Financeiro;Viúvo;R$6,407;0;880;260;240;0;238;242;0
+701;Thaddeus;Bright;Juazeiro;BA;20/05/74;Marketing;Viúvo;R$6,518;896;0;609;521;0;515;514;0
+702;Maxine;Estrada;Ilhéus;Bahia;10/01/93;Jurídico;Viúvo;R$7,402;789;0;727;616;0;588;585;0
+703;Cora;Spencer;Carapicuíba;SP;27/01/51;Financeiro;Solteiro;R$5,359;703;0;168;88;0;115;76;0
+704;Jenette;Crosby;Maringá;PR;06/08/88;Vendas;Casado;R$6,160;0;904;998;837;0;850;839;0
+705;Abbot;Case;Juiz de Fora;Minas Gerais;08/08/00;Marketing;Viúvo;R$8,269;526;526;487;437;526;429;427;526
+706;Frances;Jarvis;Balsas;MA;23/03/93;Pesquisa e Desenvolvimento;Casado;R$7,573;567;567;488;469;567;473;472;567
+707;Price;Avila;Carapicuíba;São Paulo;21/01/00;Vendas;Divorciado;R$5,439;503;503;427;412;503;416;404;503
+708;Gavin;Crane;Cabo de Santo Agostinho;PE;25/02/66;Vendas;Casado;R$7,749;0;0;743;585;0;560;542;0
+709;Xantha;Hardy;Mauá;SP;19/12/39;Financeiro;Divorciado;R$7,320;538;538;477;441;538;454;440;538
+710;Ina;Pacheco;Ribeirão Preto;São Paulo;13/02/04;Serviço ao Cliente;Solteiro;R$7,381;593;593;544;495;593;514;496;593
+711;Cassandra;Kennedy;Campinas;SP;07/08/04;Financeiro;Viúvo;R$7,964;568;568;546;478;568;489;469;568
+712;Gareth;Duffy;Campinas;São Paulo;26/09/04;Vendas;Solteiro;R$7,672;0;673;362;316;0;312;313;0
+713;Madonna;Porter;Colombo;PR;15/02/44;Suporte Técnico;Divorciado;R$5,522;0;0;573;573;0;544;544;0
+714;Garrett;Sims;Parauapebas;PA;10/08/06;Vendas;Divorciado;R$9,335;0;0;663;678;0;626;611;0
+715;Grant;Huff;Carapicuíba;São Paulo;26/08/05;Pesquisa e Desenvolvimento;Solteiro;R$5,908;874;677;75;65;0;67;62;0
+716;Fletcher;Hood;Mauá;SP;03/04/47;Suporte Técnico;Viúvo;R$6,085;0;0;786;762;0;766;759;0
+717;Simon;Gates;Sobral;Ceará;24/08/68;Relações Públicas;Casado;R$9,567;0;712;236;203;0;191;182;0
+718;Kendall;Castaneda;Barra do Corda;Maranhão;30/05/51;Recursos Humanos;Viúvo;R$8,951;0;0;310;161;0;136;121;0
+719;Rigel;Kinney;Piracicaba;SP;22/08/83;Recursos Humanos;Viúvo;R$5,824;0;0;341;259;0;252;249;885
+720;Aphrodite;Singleton;Campinas;SP;13/05/35;Marketing;Divorciado;R$8,497;735;409;140;117;0;112;112;0
+721;Brendan;Hines;Sete Lagoas;MG;07/05/11;Serviço ao Cliente;Casado;R$7,608;991;0;964;964;0;974;958;0
+722;September;Shelton;Maracanaú;Ceará;11/05/75;Vendas;Solteiro;R$9,040;718;0;375;267;0;215;212;0
+723;Kelsey;Hull;Nova Iguaçu;RJ;11/01/66;Relações Públicas;Divorciado;R$9,548;607;0;192;160;0;155;155;0
+724;Kaseem;Rocha;Londrina;Paraná;14/08/71;Relações Públicas;Casado;R$5,482;707;0;216;216;0;197;197;0
+725;Nash;Jacobson;João Pessoa;Paraíba;18/03/36;Recursos Humanos;Solteiro;R$9,633;0;839;875;690;0;341;333;0
+726;Beck;Manning;Santa Maria;Rio Grande do Sul;07/06/46;Vendas;Viúvo;R$8,795;0;0;887;656;0;610;609;0
+727;Quin;Payne;Porto Alegre;Rio Grande do Sul;18/06/69;Marketing;Casado;R$7,952;0;0;747;724;0;710;707;0
+728;Isabella;Parker;Nova Iguaçu;RJ;17/06/98;Gerenciamento;Casado;R$9,316;0;0;836;811;0;812;813;0
+729;Denton;Hess;Carapicuíba;São Paulo;21/12/05;Recursos Humanos;Casado;R$8,577;0;0;0;994;0;0;987;0
+730;Vielka;Mueller;Campinas;São Paulo;18/12/58;Pesquisa e Desenvolvimento;Solteiro;R$7,005;305;953;38;29;0;38;32;0
+731;Susan;Chen;Belém;Pará;08/04/87;Recursos Humanos;Solteiro;R$5,582;0;0;842;819;0;820;819;0
+732;Cora;Mack;Blumenau;Santa Catarina;01/06/31;Recursos Humanos;Viúvo;R$8,070;0;834;871;759;0;704;708;0
+733;Alec;Melton;Camaçari;BA;04/11/92;Jurídico;Casado;R$9,336;0;0;589;589;0;528;523;0
+734;Aurelia;Weber;Juazeiro;BA;05/08/51;Relações Públicas;Casado;R$5,707;0;822;411;411;0;400;402;0
+735;Fatima;Bowman;Mogi das Cruzes;São Paulo;30/04/18;Serviço ao Cliente;Divorciado;R$6,465;0;0;748;623;0;622;617;0
+736;Cruz;Knapp;Petrópolis;Rio de Janeiro;12/12/53;Gerenciamento;Solteiro;R$9,232;599;599;500;500;599;512;500;599
+737;Jillian;Daugherty;Santa Luzia;Minas Gerais;20/03/81;Jurídico;Viúvo;R$8,248;0;706;810;638;0;647;635;0
+738;Castor;Burks;Codó;MA;08/11/01;Serviço ao Cliente;Viúvo;R$7,653;569;569;569;471;569;470;473;569
+739;Mark;Kerr;Piracicaba;São Paulo;19/01/36;Serviço ao Cliente;Casado;R$5,450;308;0;57;31;0;35;31;0
+740;Adara;Marsh;Ribeirão das Neves;Minas Gerais;08/03/72;Suporte Técnico;Viúvo;R$7,131;0;0;293;281;0;277;276;0
+741;Nicholas;Vaughan;Contagem;Minas Gerais;08/08/36;Relações Públicas;Viúvo;R$8,603;456;505;462;414;505;407;407;505
+742;Phelan;Hunter;Guarulhos;SP;02/08/41;Vendas;Solteiro;R$5,835;0;463;715;231;0;232;232;708
+743;Imani;Strickland;Santa Luzia;Minas Gerais;24/01/69;Relações Públicas;Divorciado;R$5,057;0;428;388;405;0;391;387;992
+744;William;Michael;Campinas;SP;16/04/80;Jurídico;Casado;R$9,692;0;0;767;675;0;661;656;0
+745;Farrah;Cain;Juazeiro;BA;28/04/65;Financeiro;Solteiro;R$6,306;0;449;324;277;0;273;274;0
+746;Howard;Oneil;Campina Grande;PB;01/09/02;Suporte Técnico;Casado;R$8,179;0;688;429;429;0;148;154;0
+747;Emery;Tate;Carapicuíba;São Paulo;19/01/59;Serviço ao Cliente;Divorciado;R$7,839;0;0;403;309;0;323;314;0
+748;Victor;Bird;Santa Rita;PB;08/12/77;Jurídico;Viúvo;R$8,136;634;940;617;146;0;159;147;0
+749;Hannah;Cain;Açailândia;Maranhão;08/08/47;Gerenciamento;Divorciado;R$9,564;549;549;494;450;549;453;452;549
+750;Ralph;Curry;Salvador;BA;13/09/52;Vendas;Solteiro;R$5,927;633;0;280;272;0;265;262;0
+751;Irene;Maynard;Ilhéus;Bahia;05/12/37;Serviço ao Cliente;Casado;R$6,496;839;634;190;82;0;82;78;0
+752;Nicholas;Vaughan;Contagem;Minas Gerais;08/08/36;Relações Públicas;Viúvo;R$8,603;556;0;562;514;0;507;507;0
+753;Jordan;Nolan;Guarulhos;São Paulo;30/12/89;Pesquisa e Desenvolvimento;Viúvo;R$8,750;824;0;719;719;0;728;722;0
+754;Griffin;Stephens;Carapicuíba;São Paulo;19/12/66;Marketing;Casado;R$6,282;0;907;559;566;0;581;559;0
+755;Holly;Estrada;Jundiaí;SP;28/09/98;Vendas;Divorciado;R$7,187;0;482;238;174;0;178;174;0
+756;Nissim;Boyd;Cabo de Santo Agostinho;PE;15/11/49;Jurídico;Casado;R$7,175;0;0;806;806;0;792;780;0
+757;Michael;Good;Duque de Caxias;Rio de Janeiro;24/11/87;Marketing;Solteiro;R$7,639;984;0;811;831;0;816;811;0
+758;Mark;Huffman;Chapecó;Santa Catarina;07/08/58;Recursos Humanos;Solteiro;R$6,050;0;0;397;314;0;316;309;0
+759;Kaseem;Head;Piracicaba;SP;03/02/86;Gerenciamento;Casado;R$8,359;0;773;762;729;0;719;717;0
+760;Violet;Rutledge;Caucaia;CE;29/12/31;Relações Públicas;Casado;R$9,928;642;0;776;375;0;367;359;0
+761;Hadassah;Holman;Sobral;CE;05/10/46;Financeiro;Solteiro;R$5,401;0;0;987;764;0;753;740;0
+762;Griffin;Lindsay;Petrópolis;RJ;09/03/68;Gerenciamento;Solteiro;R$6,217;458;623;201;32;0;25;19;0
+763;Willa;Gonzalez;Caucaia;Ceará;06/07/00;Marketing;Divorciado;R$8,648;0;0;0;936;0;924;910;0
+764;Thaddeus;Gould;Jundiaí;São Paulo;09/06/94;Recursos Humanos;Viúvo;R$8,042;0;0;0;927;0;932;930;0
+765;Noah;Craft;Uberlândia;Minas Gerais;08/06/35;Suporte Técnico;Divorciado;R$8,917;0;0;746;659;0;640;640;0
+766;Demetrius;Welch;Feira de Santana;Bahia;15/06/85;Suporte Técnico;Divorciado;R$9,064;0;0;720;697;0;681;667;0
+767;Remedios;Wise;Cametá;Pará;16/09/94;Vendas;Solteiro;R$6,921;0;924;211;138;0;81;80;0
+768;Venus;Glenn;Juazeiro;BA;10/07/34;Gerenciamento;Solteiro;R$5,270;0;0;0;976;0;963;965;0
+769;Chaney;Wood;Juazeiro;Bahia;27/08/62;Gerenciamento;Viúvo;R$5,626;928;0;272;273;0;276;265;0
+770;Oleg;Wheeler;Osasco;São Paulo;21/04/99;Jurídico;Solteiro;R$9,226;691;844;360;360;0;383;351;0
+771;Shannon;Herring;Governador Valadares;MG;14/12/72;Financeiro;Viúvo;R$9,498;380;0;287;260;0;272;251;0
+772;Allegra;Gibbs;São João de Meriti;Rio de Janeiro;26/03/44;Jurídico;Divorciado;R$7,828;0;925;728;728;0;730;716;0
+773;Melodie;Clay;Ipatinga;Minas Gerais;22/01/73;Suporte Técnico;Divorciado;R$9,745;0;0;0;816;0;797;797;892
+774;Rhonda;West;Cabo de Santo Agostinho;PE;09/10/63;Serviço ao Cliente;Divorciado;R$8,340;0;293;279;242;0;256;228;0
+775;Faith;Clements;Belo Horizonte;MG;07/09/78;Pesquisa e Desenvolvimento;Solteiro;R$6,505;692;637;284;104;0;102;102;0
+776;Sheila;Horne;Diadema;São Paulo;06/04/44;Relações Públicas;Viúvo;R$8,083;0;0;978;902;0;915;903;0
+777;Barry;Reese;Feira de Santana;Bahia;10/08/05;Relações Públicas;Casado;R$6,588;0;611;337;198;0;202;199;0
+778;Dakota;Spence;Niterói;RJ;11/04/04;Financeiro;Viúvo;R$9,487;612;0;695;298;0;223;217;0
+779;Megan;Chandler;Guarulhos;SP;26/07/12;Recursos Humanos;Solteiro;R$7,073;452;0;80;53;0;57;55;0
+780;Marvin;Owens;Mauá;São Paulo;29/07/74;Recursos Humanos;Casado;R$5,493;0;0;807;789;0;789;788;0
+781;Nolan;Peck;Mauá;São Paulo;14/10/67;Pesquisa e Desenvolvimento;Solteiro;R$9,835;0;597;637;591;0;580;588;0
+782;MacKenzie;Garza;Lauro de Freitas;Bahia;01/06/10;Marketing;Casado;R$7,107;0;0;959;0;0;938;936;0
+783;Thor;Wong;Itajaí;Santa Catarina;24/01/87;Pesquisa e Desenvolvimento;Solteiro;R$6,724;0;0;794;703;0;701;688;0
+784;Kelsie;Holden;Contagem;MG;14/08/12;Gerenciamento;Solteiro;R$6,813;0;833;709;611;0;574;564;0
+785;Roary;Atkins;Itajaí;Santa Catarina;30/09/68;Recursos Humanos;Casado;R$8,211;0;848;389;397;0;353;350;0
+786;Rahim;Sanders;Osasco;SP;18/05/15;Pesquisa e Desenvolvimento;Casado;R$5,520;0;0;0;885;0;902;885;0
+787;Haley;Chaney;Uberlândia;Minas Gerais;20/05/13;Financeiro;Solteiro;R$8,744;424;0;86;71;0;75;75;0
+788;Deacon;Leblanc;Jundiaí;SP;20/04/85;Vendas;Divorciado;R$8,209;342;931;117;109;0;103;96;0
+789;Petra;Elliott;Maracanaú;CE;26/07/83;Gerenciamento;Viúvo;R$7,082;0;767;752;639;0;583;580;0
+790;Aline;Oneil;Campina Grande;Paraíba;11/06/82;Gerenciamento;Divorciado;R$5,362;0;860;795;795;0;707;693;0
+791;Serina;Mcfadden;Anápolis;Goiás;05/06/03;Recursos Humanos;Divorciado;R$7,632;967;0;880;873;0;873;872;0
+792;Chelsea;Tran;Cascavel;Paraná;11/07/60;Relações Públicas;Divorciado;R$7,518;0;0;839;785;0;784;783;0
+793;Uriel;Webster;Mauá;São Paulo;27/04/02;Vendas;Solteiro;R$5,851;613;0;208;191;0;180;180;0
+794;Leigh;Kirkland;Jundiaí;SP;29/01/48;Relações Públicas;Casado;R$7,535;0;0;312;312;852;311;311;433
+795;Dante;Rodgers;Uberlândia;MG;27/08/78;Suporte Técnico;Divorciado;R$6,698;0;0;847;810;0;804;802;0
+796;Justine;Maxwell;Caxias do Sul;RS;06/01/08;Gerenciamento;Divorciado;R$9,788;0;933;670;596;0;599;587;0
+797;Yeo;Palmer;Mauá;São Paulo;27/06/85;Pesquisa e Desenvolvimento;Viúvo;R$8,902;774;0;758;705;0;709;702;0
+798;Oprah;Carter;Aparecida de Goiânia;GO;14/11/93;Gerenciamento;Divorciado;R$5,026;704;286;830;262;0;263;264;400
+799;Hilel;Warner;Juazeiro;BA;08/11/44;Gerenciamento;Divorciado;R$5,225;837;837;399;337;0;335;339;0
+800;Russell;Gallagher;Diadema;São Paulo;17/03/35;Gerenciamento;Viúvo;R$6,175;0;0;359;338;375;369;340;0
+801;August;Mccormick;Divinópolis;Minas Gerais;05/08/53;Marketing;Casado;R$5,863;0;0;918;918;0;904;900;0
+802;Vance;Dixon;Rio de Janeiro;RJ;29/03/32;Recursos Humanos;Solteiro;R$5,129;0;0;930;805;0;801;804;0
+803;Zephr;Holland;São Luís;Maranhão;05/11/14;Gerenciamento;Divorciado;R$9,419;921;0;0;824;0;833;822;0
+804;Camille;Wyatt;Lauro de Freitas;Bahia;24/08/63;Relações Públicas;Solteiro;R$7,638;0;0;929;906;0;860;854;0
+805;Vincent;Nichols;Jaboatão dos Guararapes;Pernambuco;11/07/04;Serviço ao Cliente;Casado;R$5,335;0;0;634;667;0;644;623;861
+806;Althea;Carver;São João de Meriti;Rio de Janeiro;19/04/32;Recursos Humanos;Divorciado;R$6,915;0;954;882;882;0;865;863;0
+807;Melanie;Bell;Crato;CE;07/06/01;Vendas;Solteiro;R$6,120;0;695;352;352;0;275;275;0
+808;Clark;Tucker;Mogi das Cruzes;São Paulo;20/03/77;Recursos Humanos;Casado;R$7,690;0;900;42;38;0;45;34;0
+809;Tanya;Rowe;Curitiba;PR;25/11/51;Jurídico;Viúvo;R$8,835;576;576;576;480;576;482;479;576
+810;Dylan;Bartlett;Piracicaba;São Paulo;28/06/02;Financeiro;Divorciado;R$6,278;0;0;0;978;0;983;980;0
+811;Alyssa;Estrada;Feira de Santana;Bahia;01/02/34;Serviço ao Cliente;Viúvo;R$7,696;0;173;128;128;0;114;111;0
+812;Dieter;Duke;Paço do Lumiar;Maranhão;29/07/75;Relações Públicas;Viúvo;R$6,060;0;0;353;310;0;179;179;0
+813;James;Welch;Montes Claros;Minas Gerais;19/08/92;Serviço ao Cliente;Viúvo;R$8,482;629;664;543;526;0;531;515;0
+814;Isabella;Clarke;Carapicuíba;São Paulo;29/04/54;Gerenciamento;Divorciado;R$8,823;805;0;305;169;0;189;169;0
+815;Avye;Farmer;Bacabal;Maranhão;31/01/56;Pesquisa e Desenvolvimento;Casado;R$7,097;299;324;114;120;0;86;82;0
+816;Lucas;Price;Nova Iguaçu;Rio de Janeiro;13/07/05;Recursos Humanos;Casado;R$8,983;0;0;646;220;0;231;211;0
+817;Kimberley;Blackwell;Contagem;Minas Gerais;13/02/79;Financeiro;Divorciado;R$5,346;0;0;0;928;0;925;924;0
+818;Dahlia;Keith;Juiz de Fora;MG;13/08/86;Relações Públicas;Casado;R$6,965;0;666;241;237;0;217;215;0
+819;Macy;Stephens;Divinópolis;MG;24/04/39;Relações Públicas;Solteiro;R$9,020;0;458;313;265;496;271;261;0
+820;Yen;Crawford;Ilhéus;Bahia;22/06/01;Suporte Técnico;Viúvo;R$5,611;716;0;326;197;0;208;192;0
+821;Callie;Case;Cabo de Santo Agostinho;PE;20/08/35;Pesquisa e Desenvolvimento;Divorciado;R$8,249;897;0;864;828;0;807;810;0
+822;Catherine;Washington;Caxias;Maranhão;17/02/16;Suporte Técnico;Solteiro;R$7,037;978;0;824;771;0;769;770;0
+823;Sebastian;Wise;Campinas;SP;03/05/31;Serviço ao Cliente;Viúvo;R$8,224;0;0;0;0;0;993;992;0
+824;Hedda;Cobb;Canoas;RS;24/04/39;Suporte Técnico;Solteiro;R$5,012;671;716;654;598;0;609;598;0
+825;Abdul;Gross;Bacabal;Maranhão;02/06/62;Recursos Humanos;Solteiro;R$5,495;990;0;550;549;0;550;560;0
+826;Heather;Boyle;Lauro de Freitas;BA;14/05/53;Suporte Técnico;Casado;R$8,111;0;0;0;962;0;976;968;0
+827;Vladimir;Stafford;Gravataí;RS;04/01/08;Gerenciamento;Solteiro;R$5,879;0;0;974;973;0;962;961;0
+828;Ina;Herrera;Guarapuava;Paraná;20/02/30;Recursos Humanos;Casado;R$6,010;963;0;802;839;0;786;786;0
+829;Mercedes;Baird;Camaragibe;PE;26/08/85;Gerenciamento;Casado;R$9,580;0;0;620;406;0;372;370;0
+830;Ulric;Randolph;Marabá;Pará;30/01/07;Recursos Humanos;Solteiro;R$9,442;368;0;330;211;0;174;165;0
+831;Aphrodite;Hood;Pelotas;Rio Grande do Sul;30/10/10;Recursos Humanos;Solteiro;R$7,485;0;758;0;757;0;738;737;0
+832;Guy;Booth;Florianópolis;SC;18/08/03;Jurídico;Divorciado;R$9,775;268;0;314;389;0;281;266;0
+833;Jeremy;Hays;Camaçari;BA;24/03/46;Financeiro;Divorciado;R$6,417;0;0;697;601;0;595;610;743
+834;May;Velazquez;Gravataí;Rio Grande do Sul;26/12/56;Serviço ao Cliente;Viúvo;R$9,875;0;0;0;0;0;0;995;0
+835;Travis;Shaw;Juiz de Fora;MG;25/06/06;Marketing;Divorciado;R$9,290;949;0;213;64;0;56;56;0
+836;Silas;Roth;Parauapebas;Pará;18/07/93;Jurídico;Solteiro;R$8,806;0;774;971;672;0;671;671;0
+837;Porter;Mcclain;Olinda;Pernambuco;01/09/14;Relações Públicas;Divorciado;R$7,668;0;0;892;991;0;899;879;0
+838;Kelsie;Beach;Parauapebas;PA;13/01/03;Vendas;Casado;R$9,870;462;0;93;93;0;32;17;0
+839;Marshall;Bullock;São Gonçalo;Rio de Janeiro;02/01/03;Vendas;Casado;R$7,501;724;0;845;712;0;718;700;0
+840;Clinton;Meadows;Guarulhos;SP;10/08/47;Gerenciamento;Casado;R$5,824;0;0;941;888;0;888;887;0
+841;Joelle;Williamson;Castanhal;Pará;26/04/32;Suporte Técnico;Casado;R$6,368;510;510;418;418;510;430;413;510
+842;Abdul;Gross;Bacabal;Maranhão;02/06/62;Recursos Humanos;Solteiro;R$5,495;548;548;450;449;548;450;460;548
+843;Alexander;Singleton;Novo Hamburgo;RS;24/06/66;Jurídico;Divorciado;R$7,425;0;0;592;555;0;521;512;541
+844;Rebecca;Oconnor;Petrópolis;Rio de Janeiro;16/03/31;Jurídico;Solteiro;R$5,492;600;600;581;560;600;506;501;600
+845;Galvin;Hunter;Jaboatão dos Guararapes;Pernambuco;28/01/94;Serviço ao Cliente;Divorciado;R$9,985;742;0;622;620;0;569;570;0
+846;Thor;Rodriguez;Petrópolis;RJ;01/05/62;Marketing;Viúvo;R$8,867;686;0;599;684;0;584;582;0
+847;Hyatt;Larson;Gravataí;RS;01/04/37;Gerenciamento;Divorciado;R$7,809;367;911;207;194;0;196;196;0
+848;Quemby;Guzman;Ribeirão Preto;SP;13/04/16;Gerenciamento;Solteiro;R$9,577;0;932;444;374;0;412;377;0
+849;Illiana;Ayers;Londrina;Paraná;30/07/65;Marketing;Casado;R$6,688;950;0;822;683;0;587;592;0
+850;Pandora;Woodward;São Luís;Maranhão;23/07/90;Gerenciamento;Casado;R$9,077;400;0;821;79;0;62;64;776
+851;Flynn;Page;Mogi das Cruzes;SP;02/04/41;Financeiro;Casado;R$7,360;0;417;191;193;0;204;181;0
+852;Dustin;Barton;Juiz de Fora;Minas Gerais;16/07/91;Relações Públicas;Divorciado;R$7,230;0;0;426;258;697;247;244;0
+853;Brian;Chase;Bayeux;PB;09/07/12;Gerenciamento;Viúvo;R$8,309;0;0;0;0;0;0;0;0
+854;Elvis;Hampton;Mogi das Cruzes;SP;06/05/50;Recursos Humanos;Solteiro;R$7,271;396;827;400;328;0;329;329;0
+855;Grant;Mccarthy;Duque de Caxias;RJ;23/12/72;Pesquisa e Desenvolvimento;Viúvo;R$8,674;0;0;0;895;0;881;876;0
+856;Wynter;Donaldson;Lauro de Freitas;BA;26/01/42;Serviço ao Cliente;Solteiro;R$9,038;320;955;198;175;0;175;178;0
+857;Priscilla;Holloway;Mauá;São Paulo;02/02/62;Vendas;Casado;R$9,752;0;0;318;304;0;303;298;0
+858;Brady;Wade;Colombo;PR;20/05/48;Pesquisa e Desenvolvimento;Viúvo;R$8,234;0;753;742;576;0;577;574;0
+859;Hashim;Salinas;Itajaí;SC;06/01/85;Gerenciamento;Casado;R$9,252;0;0;0;979;0;979;972;0
+860;Cara;Travis;Criciúma;SC;21/02/81;Gerenciamento;Solteiro;R$5,246;0;0;0;984;0;985;983;0
+861;Fritz;Barnett;Ribeirão das Neves;Minas Gerais;16/07/35;Serviço ao Cliente;Solteiro;R$7,793;0;0;834;763;0;757;746;0
+862;Carter;Barrera;Paulista;Pernambuco;01/01/04;Relações Públicas;Divorciado;R$5,274;0;0;129;124;0;132;130;0
+863;Jasper;Hubbard;Maringá;PR;05/06/92;Vendas;Divorciado;R$6,956;0;0;361;110;0;133;107;0
+864;Dara;Moran;Petrópolis;Rio de Janeiro;18/10/17;Serviço ao Cliente;Divorciado;R$6,539;0;398;298;322;0;300;300;721
+865;Octavius;Michael;Petrópolis;Rio de Janeiro;18/07/79;Financeiro;Casado;R$6,401;914;655;370;334;0;328;326;0
+866;Rahim;Jordan;Londrina;PR;02/05/45;Pesquisa e Desenvolvimento;Viúvo;R$7,124;580;580;484;540;580;498;481;580
+867;Jolie;Kemp;Betim;Minas Gerais;08/07/76;Jurídico;Viúvo;R$5,835;0;0;763;731;0;714;710;0
+868;Erasmus;Mcconnell;Sete Lagoas;MG;22/05/54;Recursos Humanos;Divorciado;R$7,409;0;0;87;49;0;50;51;0
+869;Hannah;Cain;Açailândia;Maranhão;08/08/47;Gerenciamento;Divorciado;R$9,564;0;892;594;550;0;553;552;0
+870;Grady;Huber;Uberlândia;MG;10/03/66;Gerenciamento;Viúvo;R$8,825;0;0;858;853;0;878;849;0
+871;Nigel;Wyatt;Diadema;SP;23/07/84;Marketing;Divorciado;R$9,891;0;851;420;398;0;385;386;0
+872;Keely;Huber;Campos dos Goytacazes;RJ;09/06/71;Vendas;Divorciado;R$5,214;729;847;204;182;0;169;167;654
+873;Neville;Lawson;Açailândia;Maranhão;01/11/81;Vendas;Casado;R$8,469;594;594;549;531;594;503;502;594
+874;Eric;Irwin;Balsas;Maranhão;30/12/57;Serviço ao Cliente;Casado;R$5,609;531;531;467;445;531;436;433;531
+875;Lacota;Shepherd;Salvador;Bahia;15/05/69;Recursos Humanos;Divorciado;R$6,442;0;938;368;324;0;282;288;0
+876;Wesley;Lewis;Mogi das Cruzes;SP;25/09/97;Jurídico;Solteiro;R$7,788;0;0;860;860;0;871;861;0
+877;Lionel;Strickland;Feira de Santana;Bahia;23/11/31;Jurídico;Viúvo;R$5,852;528;528;528;470;528;437;429;528
+878;Alexander;Singleton;Novo Hamburgo;RS;24/06/66;Jurídico;Divorciado;R$7,425;509;509;492;455;509;421;412;441
+879;Bevis;Glass;Juazeiro;BA;02/08/18;Marketing;Casado;R$8,657;0;0;28;33;0;51;29;73
+880;Isaac;Craig;Aparecida de Goiânia;GO;20/03/17;Serviço ao Cliente;Casado;R$8,972;0;0;0;949;0;913;913;941
+881;Thaddeus;Bright;Juazeiro;BA;20/05/74;Marketing;Viúvo;R$6,518;511;511;511;421;511;415;414;511
+882;Tana;Moses;Maringá;Paraná;26/08/44;Jurídico;Casado;R$5,759;0;0;0;0;0;0;0;0
+883;Nyssa;Bowers;Bacabal;Maranhão;21/02/34;Recursos Humanos;Casado;R$7,914;0;0;0;588;0;571;551;0
+884;Sara;Schroeder;Campinas;São Paulo;20/06/78;Serviço ao Cliente;Viúvo;R$9,458;670;668;655;648;0;674;647;0
+885;Adam;Gregory;Bragança;PA;17/05/85;Suporte Técnico;Casado;R$6,499;994;0;165;165;0;186;156;0
+886;Shoshana;Shannon;Duque de Caxias;RJ;23/05/56;Recursos Humanos;Solteiro;R$5,754;0;0;874;815;0;818;816;0
+887;Akeem;Clay;Jundiaí;São Paulo;14/06/77;Recursos Humanos;Casado;R$8,307;575;575;501;477;575;492;478;575
+888;Brendan;Kirkland;Mogi das Cruzes;SP;21/12/80;Jurídico;Casado;R$7,025;262;306;107;94;0;97;93;0
+889;Mollie;Brennan;Rio de Janeiro;Rio de Janeiro;03/01/94;Vendas;Solteiro;R$8,906;0;0;684;572;0;561;562;0
+890;Eden;Keller;Osasco;SP;08/05/59;Suporte Técnico;Divorciado;R$7,718;0;0;171;157;0;146;144;0
+891;Xandra;Perry;Petrópolis;Rio de Janeiro;01/01/84;Marketing;Solteiro;R$6,348;0;710;297;204;0;221;202;0
+892;Joshua;Yang;Barra do Corda;Maranhão;11/06/54;Financeiro;Solteiro;R$7,793;0;0;940;673;0;689;658;745
+893;Samuel;Schroeder;Ribeirão Preto;São Paulo;07/08/18;Financeiro;Casado;R$5,894;699;217;159;139;0;138;146;0
+894;Oleg;Luna;Sete Lagoas;MG;20/07/56;Suporte Técnico;Casado;R$6,696;0;0;731;709;0;693;696;0
+895;Serena;Delgado;Santa Inês;MA;26/11/57;Recursos Humanos;Divorciado;R$9,955;571;571;571;554;571;475;483;571
+896;Isabelle;Townsend;Caxias do Sul;Rio Grande do Sul;26/03/17;Vendas;Viúvo;R$7,759;228;231;205;56;0;7;7;34
+897;Mira;Dickson;Piracicaba;SP;20/07/73;Financeiro;Viúvo;R$6,982;0;0;380;359;0;358;354;0
+898;Veda;Rivers;Osasco;São Paulo;29/07/17;Financeiro;Casado;R$7,370;566;566;512;475;566;468;467;566
+899;Fiona;Klein;Cabo de Santo Agostinho;Pernambuco;19/10/55;Financeiro;Solteiro;R$9,215;0;0;991;877;0;887;869;0
+900;Darrel;Guzman;Santa Maria;Rio Grande do Sul;06/12/42;Recursos Humanos;Solteiro;R$9,737;0;0;0;948;0;933;940;0
+901;Ori;Stark;Maranguape;Ceará;27/10/93;Jurídico;Casado;R$7,192;0;0;0;946;0;947;942;0
+902;Dana;Flowers;Governador Valadares;MG;07/10/66;Recursos Humanos;Viúvo;R$8,753;0;0;662;669;0;670;662;0
+903;Lewis;Hardin;Luziânia;GO;05/11/10;Suporte Técnico;Solteiro;R$5,346;0;0;949;912;0;856;855;922
+904;Elvis;Benson;Maracanaú;CE;06/08/02;Vendas;Casado;R$8,822;0;896;479;425;0;403;397;0
+905;Neil;Farrell;Maracanaú;Ceará;01/03/94;Financeiro;Solteiro;R$9,240;0;0;0;987;0;0;991;0
+906;Yvette;Galloway;Parauapebas;Pará;06/01/45;Jurídico;Viúvo;R$7,530;0;0;0;0;0;992;975;0
+907;Gavin;Crane;Cabo de Santo Agostinho;PE;25/02/66;Vendas;Casado;R$7,749;539;539;504;485;539;460;442;539
+908;Lacey;Phillips;Paulista;PE;25/04/70;Jurídico;Casado;R$9,973;506;506;433;439;506;409;410;506
+909;Juliet;Sweeney;Petrópolis;Rio de Janeiro;06/04/49;Suporte Técnico;Divorciado;R$8,143;0;916;831;808;0;800;799;0
+910;Germane;Townsend;Diadema;SP;05/11/05;Recursos Humanos;Casado;R$8,176;858;0;243;233;0;233;240;0
+911;Ifeoma;Freeman;Sobral;Ceará;22/10/03;Marketing;Divorciado;R$8,610;0;0;737;289;0;299;271;0
+912;Giselle;Underwood;Santa Maria;Rio Grande do Sul;04/09/99;Gerenciamento;Casado;R$7,567;542;542;461;486;542;449;445;542
+913;Martena;Carver;Maracanaú;CE;17/03/35;Financeiro;Casado;R$5,907;0;862;396;396;0;379;379;0
+914;Dennis;Macdonald;Vitória da Conquista;Bahia;13/11/72;Serviço ao Cliente;Divorciado;R$6,911;570;570;570;482;570;485;471;570
+915;Zahir;Alvarez;Paulista;Pernambuco;12/10/62;Vendas;Casado;R$7,535;533;533;506;463;533;439;439;533
+916;Irene;Jacobson;Cascavel;Paraná;10/06/82;Suporte Técnico;Casado;R$5,492;0;0;931;878;0;841;853;0
+917;Graiden;Baldwin;São João de Meriti;Rio de Janeiro;31/05/36;Jurídico;Casado;R$5,435;572;572;572;474;572;476;475;572
+918;Maxine;Estrada;Ilhéus;Bahia;10/01/93;Jurídico;Viúvo;R$7,402;582;582;582;507;582;488;485;582
+919;Clementine;Mays;Novo Hamburgo;Rio Grande do Sul;24/02/70;Jurídico;Casado;R$5,524;0;0;390;390;0;406;388;0
+920;Cynthia;Robles;Feira de Santana;Bahia;18/10/51;Suporte Técnico;Casado;R$6,436;865;0;197;147;0;134;137;0
+921;Velma;Mccarthy;Camaragibe;PE;09/06/63;Financeiro;Viúvo;R$5,347;225;292;369;226;0;228;227;0
+922;Thaddeus;Benson;Curitiba;PR;01/02/09;Marketing;Solteiro;R$9,108;926;0;0;931;0;897;906;0
+923;Shellie;Carroll;Guarulhos;São Paulo;23/10/61;Vendas;Casado;R$8,897;0;0;803;783;0;803;784;0
+924;Maryam;Mayer;Ribeirão Preto;São Paulo;19/11/88;Recursos Humanos;Casado;R$8,414;740;0;328;318;0;317;317;0
+925;Madonna;Porter;Colombo;PR;15/02/44;Suporte Técnico;Divorciado;R$5,522;540;540;473;473;540;444;444;540
+926;Hamish;Kidd;Caucaia;Ceará;10/10/66;Recursos Humanos;Viúvo;R$5,497;0;0;350;320;0;308;299;0
+927;Cooper;Baldwin;Maranguape;CE;10/10/97;Serviço ao Cliente;Casado;R$7,657;0;472;320;274;0;288;273;0
+928;Galvin;Brady;Colombo;Paraná;12/05/99;Jurídico;Divorciado;R$7,579;0;0;0;778;0;744;747;0
+929;Wylie;Morrow;São José;SC;28/11/48;Recursos Humanos;Solteiro;R$7,994;0;0;0;970;0;796;796;0
+930;Natalie;Moody;Paço do Lumiar;Maranhão;07/12/32;Recursos Humanos;Casado;R$7,101;0;0;454;431;0;362;357;0
+931;Mikayla;Eaton;Belford Roxo;RJ;05/11/35;Recursos Humanos;Viúvo;R$5,800;830;0;108;108;0;106;105;0
+932;Keane;Casey;Castanhal;Pará;12/01/96;Jurídico;Casado;R$6,192;551;551;510;510;551;472;453;551
+933;Halee;Harrison;Guarapuava;Paraná;13/06/65;Gerenciamento;Divorciado;R$6,686;0;0;0;998;0;960;963;0
+934;Hayley;Santos;Codó;MA;09/08/87;Jurídico;Divorciado;R$8,841;0;0;469;247;894;235;189;0
+935;Hunter;Haynes;Guarapuava;PR;22/09/95;Jurídico;Solteiro;R$5,407;418;345;127;395;0;145;113;0
+936;Declan;Myers;Vitória da Conquista;Bahia;28/11/58;Gerenciamento;Viúvo;R$8,385;0;0;801;664;0;654;654;0
+937;Kyla;Blankenship;São José;Santa Catarina;06/10/70;Recursos Humanos;Viúvo;R$5,796;0;0;793;794;0;774;760;0
+938;Kylee;Chan;Anápolis;Goiás;21/12/01;Serviço ao Cliente;Solteiro;R$9,976;0;0;0;910;0;891;882;0
+939;Ashton;Cherry;Ilhéus;Bahia;18/06/42;Gerenciamento;Divorciado;R$6,743;0;0;868;832;0;821;817;0
+940;Sawyer;Marks;Betim;MG;29/12/01;Relações Públicas;Divorciado;R$9,076;0;0;708;691;0;684;672;0
+941;Jenna;Fox;Caucaia;Ceará;23/04/42;Pesquisa e Desenvolvimento;Casado;R$7,558;0;783;357;603;0;352;352;0
+942;Jayme;Ellis;Carapicuíba;São Paulo;12/06/12;Pesquisa e Desenvolvimento;Viúvo;R$8,621;527;527;458;444;527;446;428;527
+943;Dalton;Howell;Campinas;SP;07/11/88;Gerenciamento;Solteiro;R$8,540;0;419;212;143;0;157;150;0
+944;Frances;Jarvis;Balsas;MA;23/03/93;Pesquisa e Desenvolvimento;Casado;R$7,573;0;0;588;569;0;573;572;0
+945;Laura;Burke;Caxias do Sul;Rio Grande do Sul;20/11/70;Marketing;Casado;R$8,246;0;0;961;955;0;973;951;0
+946;Wendy;Parsons;Campinas;SP;26/02/77;Recursos Humanos;Viúvo;R$7,570;0;435;363;373;0;364;381;0
+947;Amena;Booker;Porto Alegre;RS;09/11/76;Serviço ao Cliente;Casado;R$6,040;0;0;455;189;0;167;163;0
+948;Bethany;Rios;Balsas;MA;25/12/68;Jurídico;Solteiro;R$8,165;0;0;431;393;0;336;336;0
+949;Victor;Maynard;Jaboatão dos Guararapes;PE;09/10/81;Relações Públicas;Casado;R$8,890;0;873;721;718;0;646;641;0
+950;Lavinia;Ortega;Mogi das Cruzes;São Paulo;28/04/45;Relações Públicas;Solteiro;R$7,872;485;385;219;208;0;192;200;0
+951;Rosalyn;Espinoza;Maracanaú;Ceará;12/12/86;Jurídico;Solteiro;R$6,088;0;0;769;820;0;764;754;787
+952;Mikayla;Foreman;Aparecida de Goiânia;GO;22/10/91;Suporte Técnico;Solteiro;R$8,111;856;0;912;854;0;838;832;959
+953;Shannon;Grant;Piracicaba;São Paulo;24/10/11;Relações Públicas;Divorciado;R$6,688;915;0;387;382;0;386;384;484
+954;Benjamin;Scott;Porto Alegre;RS;19/03/80;Marketing;Divorciado;R$7,483;0;0;0;0;0;999;1000;0
+955;Erich;Walter;Petrópolis;Rio de Janeiro;12/05/42;Vendas;Casado;R$8,648;961;0;933;893;0;900;891;909
+956;Dawn;Wilcox;Camaçari;Bahia;28/02/58;Gerenciamento;Divorciado;R$7,568;0;0;275;263;0;257;257;0
+957;Colt;Ortega;Lauro de Freitas;BA;13/09/10;Marketing;Solteiro;R$8,720;0;0;601;399;0;401;391;0
+958;Oscar;Diaz;Lauro de Freitas;Bahia;07/08/66;Suporte Técnico;Divorciado;R$9,660;0;0;288;253;0;262;253;0
+959;Oren;Finch;Lauro de Freitas;Bahia;12/01/51;Serviço ao Cliente;Solteiro;R$9,379;0;0;851;848;0;846;833;0
+960;Yeo;Roth;Santa Rita;PB;09/10/44;Recursos Humanos;Viúvo;R$7,998;0;946;833;995;0;785;775;0
+961;Forrest;Alston;Uberlândia;Minas Gerais;30/03/97;Pesquisa e Desenvolvimento;Casado;R$9,433;0;301;317;115;0;101;91;0
+962;Hasad;Frederick;Crato;CE;18/11/13;Recursos Humanos;Solteiro;R$6,564;525;525;525;465;525;435;434;525
+963;Vaughan;Wall;Mogi das Cruzes;São Paulo;23/02/45;Recursos Humanos;Divorciado;R$8,671;169;0;176;159;0;142;143;0
+964;Griffin;Stephens;Carapicuíba;São Paulo;19/12/66;Marketing;Casado;R$6,282;558;558;459;466;558;481;459;558
+965;Seth;Knapp;Santa Maria;Rio Grande do Sul;14/02/49;Gerenciamento;Casado;R$5,749;0;0;932;924;0;919;918;0
+966;Ayanna;Roth;Juazeiro do Norte;Ceará;24/05/10;Recursos Humanos;Divorciado;R$6,099;0;0;0;986;0;965;949;0
+967;Kenyon;Schultz;Camaçari;BA;20/10/03;Vendas;Solteiro;R$8,369;492;0;253;199;0;198;183;0
+968;Trevor;Mcbride;Ribeirão Preto;São Paulo;07/06/59;Relações Públicas;Casado;R$9,227;0;0;927;926;0;949;928;0
+969;Wanda;Clayton;Feira de Santana;BA;16/07/81;Gerenciamento;Solteiro;R$9,523;918;394;428;385;0;373;373;0
+970;Hasad;Frederick;Crato;CE;18/11/13;Recursos Humanos;Solteiro;R$6,564;942;656;693;565;0;535;534;0
+971;Alice;Hogan;Carapicuíba;SP;23/02/77;Suporte Técnico;Viúvo;R$9,875;0;0;843;849;0;843;842;993
+972;Nichole;Franks;Ribeirão das Neves;MG;30/01/71;Recursos Humanos;Solteiro;R$7,219;0;0;0;0;0;969;966;0
+973;Bruce;Garza;Paulista;Pernambuco;13/11/44;Gerenciamento;Viúvo;R$8,875;0;929;167;214;0;131;131;0
+974;Keegan;Bennett;Cabo de Santo Agostinho;Pernambuco;13/06/07;Marketing;Divorciado;R$7,064;504;504;439;408;504;411;408;504
+975;Ronan;Sweeney;Curitiba;PR;05/05/38;Pesquisa e Desenvolvimento;Divorciado;R$6,302;675;797;688;651;0;658;648;0
+976;Cedric;Andrews;Nova Iguaçu;Rio de Janeiro;18/11/88;Relações Públicas;Casado;R$8,057;0;665;805;674;0;650;650;0
+977;Kathleen;Monroe;Camaragibe;Pernambuco;12/09/74;Gerenciamento;Solteiro;R$5,051;0;0;722;622;0;623;627;0
+978;Lionel;Strickland;Feira de Santana;Bahia;23/11/31;Jurídico;Viúvo;R$5,852;0;0;664;570;0;537;529;0
+979;Amethyst;Sheppard;Campina Grande;Paraíba;12/06/94;Gerenciamento;Viúvo;R$7,104;0;829;0;833;0;798;798;0
+980;Mikayla;Mccall;Nova Iguaçu;RJ;06/04/88;Suporte Técnico;Divorciado;R$5,978;0;999;990;874;0;903;857;0
+981;Casey;Meadows;Osasco;São Paulo;04/08/35;Gerenciamento;Divorciado;R$6,796;512;512;413;413;512;442;417;512
+982;Gregory;King;Águas Lindas de Goiás;Goiás;30/07/91;Financeiro;Divorciado;R$5,111;0;0;873;619;0;538;535;0
+983;Fuller;Puckett;Petrópolis;RJ;31/07/75;Gerenciamento;Casado;R$6,783;0;0;322;301;0;301;306;0
+984;Pandora;Vasquez;Belém;Pará;16/02/00;Financeiro;Viúvo;R$9,747;0;0;897;897;0;848;843;0
+985;Castor;Mays;Piracicaba;SP;30/07/80;Gerenciamento;Solteiro;R$7,759;469;383;248;67;0;68;63;0
+986;Amity;Talley;Salvador;BA;10/09/67;Pesquisa e Desenvolvimento;Solteiro;R$8,160;0;0;848;609;0;614;613;0
+987;Brandon;Hardy;Mauá;São Paulo;09/01/74;Marketing;Casado;R$5,991;0;438;392;387;0;384;383;0
+988;Kirestin;Hartman;Juiz de Fora;Minas Gerais;09/04/39;Marketing;Divorciado;R$6,033;0;760;659;612;0;617;589;0
+989;Nita;Coffey;Ponta Grossa;PR;09/02/56;Financeiro;Divorciado;R$6,981;0;0;814;802;0;737;738;0
+990;Adam;Strong;Ribeirão Preto;São Paulo;02/01/87;Relações Públicas;Casado;R$6,296;0;0;0;0;0;0;998;0
+991;Ciara;Bean;Blumenau;Santa Catarina;19/11/56;Gerenciamento;Solteiro;R$5,911;0;0;703;686;0;690;684;0
+992;Hedy;Logan;Paranaguá;Paraná;17/08/85;Serviço ao Cliente;Divorciado;R$9,325;0;0;0;952;0;953;939;0
+993;Xavier;Frederick;Ilhéus;BA;19/06/92;Pesquisa e Desenvolvimento;Divorciado;R$7,033;0;918;906;869;0;874;870;0
+994;Neil;Nguyen;Guarapuava;Paraná;08/02/88;Vendas;Solteiro;R$9,008;363;0;785;361;0;339;327;0
+995;Ezekiel;Walter;Blumenau;Santa Catarina;06/09/63;Marketing;Solteiro;R$8,682;0;889;254;74;0;71;67;0
+996;Hop;Bennett;Bragança;PA;02/02/54;Gerenciamento;Solteiro;R$7,446;861;404;0;436;0;168;171;0
+997;Cynthia;Mccoy;Jundiaí;São Paulo;12/04/05;Recursos Humanos;Casado;R$6,874;0;0;908;872;0;870;873;0
+998;Ivana;Conway;Guarulhos;São Paulo;04/11/34;Suporte Técnico;Solteiro;R$6,502;0;125;227;107;0;96;84;0
+999;Anika;Mckay;Anápolis;Goiás;15/03/84;Jurídico;Divorciado;R$9,582;698;0;870;636;0;630;621;0
+1000;Jorden;Mccarthy;São João de Meriti;RJ;19/03/36;Relações Públicas;Viúvo;R$6,088;0;874;815;796;0;791;791;0

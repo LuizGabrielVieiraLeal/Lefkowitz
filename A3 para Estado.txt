@@ -1,0 +1,1001 @@
+ED;ID;Estado
+1;657;Pernambuco
+2;335;PR
+3;896;Rio Grande do Sul
+4;619;CE
+5;226;Ceará
+6;691;Minas Gerais
+7;653;GO
+8;266;SP
+9;546;São Paulo
+10;494;SP
+11;838;PA
+12;199;Rio de Janeiro
+13;762;RJ
+14;447;Ceará
+15;130;Maranhão
+16;72;SC
+17;88;SP
+18;371;PR
+19;276;Rio de Janeiro
+20;676;SC
+21;106;Paraíba
+22;223;Ceará
+23;527;PE
+24;529;SP
+25;82;Santa Catarina
+26;879;BA
+27;730;São Paulo
+28;61;Bahia
+29;739;São Paulo
+30;459;Pará
+31;808;São Paulo
+32;432;RJ
+33;253;BA
+34;395;PB
+35;660;Maranhão
+36;382;MG
+37;296;MA
+38;216;São Paulo
+39;481;SC
+40;334;SP
+41;385;Rio de Janeiro
+42;538;SP
+43;406;Bahia
+44;57;SP
+45;553;PE
+46;74;Pará
+47;260;Maranhão
+48;868;MG
+49;171;MG
+50;779;SP
+51;835;MG
+52;688;GO
+53;13;SP
+54;578;CE
+55;161;São Paulo
+56;437;Rio Grande do Sul
+57;597;SP
+58;684;SP
+59;73;SP
+60;850;Maranhão
+61;715;São Paulo
+62;985;SP
+63;995;Santa Catarina
+64;517;MG
+65;328;São Paulo
+66;519;MA
+67;38;SP
+68;75;São Paulo
+69;787;Minas Gerais
+70;34;São Paulo
+71;500;Minas Gerais
+72;53;MG
+73;320;RJ
+74;275;Santa Catarina
+75;703;SP
+76;767;Pará
+77;751;Bahia
+78;210;São Paulo
+79;815;Maranhão
+80;998;São Paulo
+81;424;MA
+82;248;Bahia
+83;321;RS
+84;539;PR
+85;516;PE
+86;961;Minas Gerais
+87;697;MG
+88;166;SP
+89;566;SP
+90;413;Goiás
+91;888;SP
+92;135;Rio de Janeiro
+93;304;PA
+94;788;SP
+95;330;Paraná
+96;234;MA
+97;219;MG
+98;410;Rio de Janeiro
+99;323;Rio Grande do Sul
+100;931;RJ
+101;775;MG
+102;629;PR
+103;863;PR
+104;498;MG
+105;811;Bahia
+106;631;CE
+107;273;São Paulo
+108;96;RJ
+109;720;SP
+110;935;PR
+111;373;São Paulo
+112;550;PA
+113;165;GO
+114;204;MA
+115;431;Minas Gerais
+116;113;MG
+117;470;SP
+118;671;CE
+119;39;SP
+120;718;Maranhão
+121;522;Paraná
+122;862;Pernambuco
+123;79;MA
+124;420;Pernambuco
+125;540;MA
+126;396;SP
+127;286;Paraná
+128;920;Bahia
+129;973;Pernambuco
+130;131;Paraná
+131;523;MG
+132;52;São Paulo
+133;218;Paraná
+134;594;Minas Gerais
+135;680;SP
+136;627;BA
+137;893;São Paulo
+138;67;Pará
+139;963;São Paulo
+140;943;SP
+141;105;RJ
+142;584;RS
+143;890;SP
+144;658;Paraíba
+145;748;PB
+146;746;PB
+147;442;Bahia
+148;71;MG
+149;156;PA
+150;388;Pará
+151;678;RJ
+152;249;BA
+153;723;RJ
+154;885;PA
+155;633;Paraná
+156;327;MG
+157;557;SP
+158;947;RS
+159;380;São Paulo
+160;230;RJ
+161;460;Maranhão
+162;872;RJ
+163;237;São Paulo
+164;830;Pará
+165;996;PA
+166;428;CE
+167;398;PE
+168;814;São Paulo
+169;143;São Paulo
+170;593;BA
+171;647;SP
+172;856;BA
+173;755;SP
+174;625;SP
+175;183;BA
+176;851;SP
+177;812;Maranhão
+178;793;São Paulo
+179;329;Paraná
+180;967;BA
+181;717;Ceará
+182;43;RJ
+183;173;CE
+184;366;Minas Gerais
+185;456;GO
+186;80;Santa Catarina
+187;378;Goiás
+188;934;MA
+189;847;RS
+190;820;Bahia
+191;950;São Paulo
+192;350;RJ
+193;252;SP
+194;461;RS
+195;724;Paraná
+196;383;Rio de Janeiro
+197;777;Bahia
+198;294;Bahia
+199;664;BA
+200;167;GO
+201;891;Rio de Janeiro
+202;355;BA
+203;722;Ceará
+204;63;Rio de Janeiro
+205;645;RS
+206;240;RJ
+207;145;RS
+208;110;São Paulo
+209;778;RJ
+210;816;Rio de Janeiro
+211;512;Pará
+212;18;SP
+213;818;MG
+214;169;Pernambuco
+215;582;Bahia
+216;505;Paraná
+217;318;Bahia
+218;672;RS
+219;577;SP
+220;85;Rio de Janeiro
+221;259;São Paulo
+222;565;SP
+223;921;PE
+224;649;São Paulo
+225;673;Minas Gerais
+226;774;PE
+227;555;São Paulo
+228;27;Goiás
+229;689;Goiás
+230;742;SP
+231;910;SP
+232;238;CE
+233;66;SP
+234;381;São Paulo
+235;97;SC
+236;423;CE
+237;700;MG
+238;443;SP
+239;148;RS
+240;601;MG
+241;852;Minas Gerais
+242;221;PE
+243;477;São Paulo
+244;958;Bahia
+245;436;RS
+246;209;São Paulo
+247;197;MA
+248;719;SP
+249;357;Santa Catarina
+250;771;MG
+251;430;Rio Grande do Sul
+252;448;Paraná
+253;956;Bahia
+254;29;SC
+255;666;Paraíba
+256;351;PE
+257;798;GO
+258;445;Minas Gerais
+259;76;SP
+260;819;MG
+261;750;BA
+262;422;GO
+263;769;Bahia
+264;832;SC
+265;579;MG
+266;104;Paraíba
+267;911;Ceará
+268;638;SP
+269;740;Minas Gerais
+270;927;CE
+271;213;Pernambuco
+272;745;BA
+273;7;Bahia
+274;807;CE
+275;646;Bahia
+276;139;SP
+277;40;BA
+278;426;Rio Grande do Sul
+279;475;Pernambuco
+280;875;Bahia
+281;545;Minas Gerais
+282;49;Rio de Janeiro
+283;292;Rio Grande do Sul
+284;37;Minas Gerais
+285;407;PE
+286;696;SP
+287;287;Minas Gerais
+288;490;BA
+289;926;Ceará
+290;621;MA
+291;325;PE
+292;509;RS
+293;636;Minas Gerais
+294;857;São Paulo
+295;172;Pernambuco
+296;84;Paraíba
+297;864;Rio de Janeiro
+298;983;RJ
+299;533;MG
+300;44;BA
+301;157;RJ
+302;375;MG
+303;650;SP
+304;56;São Paulo
+305;279;SP
+306;794;SP
+307;747;São Paulo
+308;758;Santa Catarina
+309;712;São Paulo
+310;3;Maranhão
+311;364;BA
+312;331;SP
+313;425;Minas Gerais
+314;278;Santa Catarina
+315;91;BA
+316;924;São Paulo
+317;370;Minas Gerais
+318;656;São Paulo
+319;544;Maranhão
+320;635;Ceará
+321;200;RJ
+322;865;Rio de Janeiro
+323;608;Santa Catarina
+324;595;Bahia
+325;994;Paraná
+326;391;Bahia
+327;854;SP
+328;620;SP
+329;725;Paraíba
+330;493;Pará
+331;297;PE
+332;799;BA
+333;948;MA
+334;147;Rio de Janeiro
+335;800;São Paulo
+336;518;Rio Grande do Sul
+337;272;BA
+338;384;São Paulo
+339;345;SP
+340;379;Maranhão
+341;610;SP
+342;178;Maranhão
+343;118;RS
+344;206;Maranhão
+345;123;Rio Grande do Sul
+346;897;SP
+347;785;Santa Catarina
+348;403;Minas Gerais
+349;770;São Paulo
+350;941;Ceará
+351;212;GO
+352;175;CE
+353;930;Maranhão
+354;126;Bahia
+355;117;BA
+356;392;Bahia
+357;760;CE
+358;446;Minas Gerais
+359;681;SP
+360;245;São Paulo
+361;108;Paraná
+362;946;SP
+363;525;São Paulo
+364;412;Minas Gerais
+365;634;GO
+366;690;São Paulo
+367;89;PE
+368;152;BA
+369;829;PE
+370;574;Rio de Janeiro
+371;389;RJ
+372;969;BA
+373;848;SP
+374;669;SP
+375;913;CE
+376;609;Pernambuco
+377;587;Minas Gerais
+378;662;São Paulo
+379;502;Pará
+380;953;São Paulo
+381;280;MG
+382;987;São Paulo
+383;919;Rio Grande do Sul
+384;871;SP
+385;957;BA
+386;743;Minas Gerais
+387;338;São Paulo
+388;506;MG
+389;309;SC
+390;160;Rio Grande do Sul
+391;305;MG
+392;102;São Paulo
+393;353;MA
+394;189;São Paulo
+395;616;PR
+396;904;CE
+397;605;Santa Catarina
+398;62;SP
+399;734;BA
+400;205;São Paulo
+401;109;São Paulo
+402;654;MG
+403;707;São Paulo
+404;974;Pernambuco
+405;741;Minas Gerais
+406;908;PE
+407;247;Bahia
+408;243;Pernambuco
+409;878;RS
+410;841;Pará
+411;881;BA
+412;981;São Paulo
+413;233;São Paulo
+414;344;Minas Gerais
+415;427;MG
+416;348;RJ
+417;670;SP
+418;255;Pará
+419;269;SP
+420;510;São Paulo
+421;24;BA
+422;363;BA
+423;487;SP
+424;81;SP
+425;962;CE
+426;705;Minas Gerais
+427;942;São Paulo
+428;877;Bahia
+429;421;PB
+430;324;MG
+431;874;Maranhão
+432;285;Goiás
+433;915;Pernambuco
+434;368;Rio Grande do Sul
+435;632;SP
+436;251;PA
+437;263;Minas Gerais
+438;709;SP
+439;907;PE
+440;925;PR
+441;141;SP
+442;912;Rio Grande do Sul
+443;313;MG
+444;170;São Paulo
+445;277;Maranhão
+446;306;SP
+447;132;Minas Gerais
+448;842;Maranhão
+449;749;Maranhão
+450;622;Maranhão
+451;932;Pará
+452;367;SP
+453;168;PA
+454;122;MA
+455;361;RS
+456;484;Minas Gerais
+457;528;MG
+458;964;São Paulo
+459;12;SP
+460;695;Rio de Janeiro
+461;534;RS
+462;340;MG
+463;17;Pernambuco
+464;144;SC
+465;232;CE
+466;898;São Paulo
+467;706;MA
+468;711;SP
+469;738;MA
+470;914;Bahia
+471;895;MA
+472;917;Rio de Janeiro
+473;541;PR
+474;236;Rio de Janeiro
+475;887;São Paulo
+476;809;PR
+477;343;São Paulo
+478;151;SP
+479;499;CE
+480;866;PR
+481;19;RJ
+482;918;Bahia
+483;454;RS
+484;655;Paraná
+485;433;PE
+486;583;Rio Grande do Sul
+487;440;Minas Gerais
+488;415;Maranhão
+489;203;BA
+490;231;Rio de Janeiro
+491;473;São Paulo
+492;336;Rio Grande do Sul
+493;710;São Paulo
+494;873;Maranhão
+495;51;São Paulo
+496;699;RS
+497;365;São Paulo
+498;10;RS
+499;736;Rio de Janeiro
+500;844;Rio de Janeiro
+501;290;São Paulo
+502;612;MG
+503;455;São Paulo
+504;618;Pernambuco
+505;752;Minas Gerais
+506;250;PE
+507;551;Bahia
+508;668;Pernambuco
+509;843;RS
+510;417;Pará
+511;701;BA
+512;486;São Paulo
+513;358;São Paulo
+514;813;Minas Gerais
+515;588;MG
+516;77;RJ
+517;405;SP
+518;435;Pará
+519;119;SP
+520;457;São Paulo
+521;630;BA
+522;733;BA
+523;532;SP
+524;600;SP
+525;970;CE
+526;295;Minas Gerais
+527;474;São Paulo
+528;978;Bahia
+529;572;PB
+530;155;MG
+531;92;Maranhão
+532;982;Goiás
+533;312;Pernambuco
+534;692;Rio Grande do Sul
+535;651;SP
+536;531;PA
+537;149;Minas Gerais
+538;311;SP
+539;708;PE
+540;713;PR
+541;497;SP
+542;661;Rio Grande do Sul
+543;58;MG
+544;386;São Paulo
+545;47;Maranhão
+546;193;SP
+547;495;Minas Gerais
+548;825;Maranhão
+549;869;Maranhão
+550;883;Maranhão
+551;21;Pará
+552;207;SP
+553;615;PA
+554;598;MA
+555;480;RS
+556;270;Minas Gerais
+557;184;MG
+558;754;São Paulo
+559;15;SP
+560;889;Rio de Janeiro
+561;35;RS
+562;784;MG
+563;845;Pernambuco
+564;33;SC
+565;591;CE
+566;177;São Paulo
+567;944;MA
+568;602;SP
+569;611;MA
+570;626;Bahia
+571;83;MA
+572;314;Rio de Janeiro
+573;858;PR
+574;468;Rio de Janeiro
+575;478;São Paulo
+576;163;PR
+577;781;São Paulo
+578;543;SP
+579;789;CE
+580;693;PR
+581;846;RJ
+582;702;Bahia
+583;796;RS
+584;849;Paraná
+585;521;PE
+586;537;Rio Grande do Sul
+587;988;Minas Gerais
+588;346;Maranhão
+589;833;BA
+590;586;Rio de Janeiro
+591;307;São Paulo
+592;217;Rio Grande do Sul
+593;603;São Paulo
+594;536;Maranhão
+595;416;São Paulo
+596;824;RS
+597;482;São Paulo
+598;542;RS
+599;685;Rio de Janeiro
+600;535;Rio de Janeiro
+601;356;BA
+602;387;Maranhão
+603;682;Ceará
+604;419;PE
+605;23;São Paulo
+606;726;Rio Grande do Sul
+607;513;São Paulo
+608;986;BA
+609;202;BA
+610;714;PA
+611;258;MG
+612;675;Minas Gerais
+613;677;São Paulo
+614;607;MA
+615;735;São Paulo
+616;20;Bahia
+617;127;PB
+618;54;SP
+619;999;Goiás
+620;977;Pernambuco
+621;254;SP
+622;805;Pernambuco
+623;507;São Paulo
+624;520;São Paulo
+625;524;São Paulo
+626;496;PE
+627;60;SP
+628;46;SP
+629;698;Pará
+630;737;Minas Gerais
+631;16;PE
+632;548;SP
+633;614;MG
+634;949;PE
+635;136;São Paulo
+636;659;Goiás
+637;115;São Paulo
+638;765;Minas Gerais
+639;112;CE
+640;491;MG
+641;667;MG
+642;140;SP
+643;975;PR
+644;884;São Paulo
+645;492;Ceará
+646;976;Rio de Janeiro
+647;303;MA
+648;198;São Paulo
+649;120;Goiás
+650;289;SP
+651;301;PR
+652;683;BA
+653;936;Bahia
+654;55;RS
+655;744;SP
+656;208;Rio Grande do Sul
+657;892;Maranhão
+658;59;RS
+659;438;Minas Gerais
+660;902;MG
+661;98;São Paulo
+662;116;Minas Gerais
+663;836;Pará
+664;766;Bahia
+665;471;PR
+666;196;São Paulo
+667;114;Pernambuco
+668;560;PR
+669;940;MG
+670;322;Rio Grande do Sul
+671;663;PR
+672;28;Pará
+673;153;Maranhão
+674;488;Rio de Janeiro
+675;129;SP
+676;580;São Paulo
+677;592;Ceará
+678;242;PA
+679;159;SP
+680;991;Santa Catarina
+681;362;Goiás
+682;354;São Paulo
+683;573;Paraná
+684;42;RJ
+685;298;Rio de Janeiro
+686;783;Santa Catarina
+687;623;MA
+688;30;PR
+689;267;Minas Gerais
+690;790;Paraíba
+691;894;MG
+692;514;Maranhão
+693;241;CE
+694;399;Ceará
+695;390;RJ
+696;839;Rio de Janeiro
+697;429;Bahia
+698;22;RJ
+699;452;PB
+700;727;Rio Grande do Sul
+701;797;São Paulo
+702;11;SP
+703;732;Santa Catarina
+704;613;Goiás
+705;564;São Paulo
+706;469;SC
+707;759;SP
+708;867;Minas Gerais
+709;225;MG
+710;158;Bahia
+711;624;RS
+712;310;Rio de Janeiro
+713;508;MA
+714;772;Rio de Janeiro
+715;753;São Paulo
+716;526;Maranhão
+717;377;MG
+718;503;PE
+719;674;São Paulo
+720;333;Bahia
+721;504;PE
+722;308;Pernambuco
+723;31;São Paulo
+724;606;Rio Grande do Sul
+725;36;PR
+726;393;São Paulo
+727;284;BA
+728;483;Rio de Janeiro
+729;547;SP
+730;190;Rio de Janeiro
+731;639;Minas Gerais
+732;411;PR
+733;319;Minas Gerais
+734;229;Goiás
+735;831;Rio Grande do Sul
+736;989;PR
+737;761;CE
+738;549;São Paulo
+739;211;SP
+740;515;RS
+741;191;São Paulo
+742;928;Paraná
+743;107;Pernambuco
+744;70;São Paulo
+745;861;Minas Gerais
+746;562;MG
+747;596;RS
+748;642;SP
+749;25;BA
+750;576;PE
+751;154;RJ
+752;951;Ceará
+753;94;RJ
+754;48;SP
+755;561;RJ
+756;192;SP
+757;262;Rio Grande do Sul
+758;716;SP
+759;937;Santa Catarina
+760;472;MA
+761;462;RS
+762;404;SP
+763;317;Minas Gerais
+764;138;CE
+765;222;SC
+766;822;Maranhão
+767;552;SP
+768;244;São Paulo
+769;374;CE
+770;268;SC
+771;360;Maranhão
+772;300;Pará
+773;256;Pernambuco
+774;960;PB
+775;302;Bahia
+776;288;CE
+777;194;SP
+778;792;Paraná
+779;756;PE
+780;195;MG
+781;923;São Paulo
+782;264;SP
+783;95;São Paulo
+784;347;SP
+785;828;Paraná
+786;780;São Paulo
+787;1000;RJ
+788;394;Minas Gerais
+789;604;São Paulo
+790;773;Minas Gerais
+791;590;São Paulo
+792;257;São Paulo
+793;929;SC
+794;164;Santa Catarina
+795;979;Paraíba
+796;802;RJ
+797;909;Rio de Janeiro
+798;180;BA
+799;227;SP
+800;795;MG
+801;464;Bahia
+802;186;PR
+803;68;SP
+804;439;SP
+805;728;RJ
+806;821;PE
+807;5;São Paulo
+808;757;Rio de Janeiro
+809;479;São Paulo
+810;641;MG
+811;886;RJ
+812;939;Bahia
+813;133;Rio Grande do Sul
+814;111;PR
+815;182;RJ
+816;397;Minas Gerais
+817;637;Santa Catarina
+818;731;Pará
+819;125;Pará
+820;326;Ceará
+821;803;Maranhão
+822;444;PR
+823;652;SP
+824;617;Maranhão
+825;239;SP
+826;187;SP
+827;648;Ceará
+828;485;PE
+829;214;CE
+830;952;GO
+831;282;Rio de Janeiro
+832;959;Bahia
+833;570;Paraíba
+834;271;Minas Gerais
+835;704;PR
+836;554;Rio de Janeiro
+837;274;PR
+838;501;Minas Gerais
+839;916;Paraná
+840;283;São Paulo
+841;971;SP
+842;984;Pará
+843;93;São Paulo
+844;179;São Paulo
+845;8;Rio de Janeiro
+846;581;MG
+847;870;MG
+848;337;Bahia
+849;585;SP
+850;299;PE
+851;804;Bahia
+852;26;Rio de Janeiro
+853;679;MG
+854;903;GO
+855;876;SP
+856;980;RJ
+857;686;Rio de Janeiro
+858;449;Minas Gerais
+859;142;Minas Gerais
+860;316;SP
+861;162;MA
+862;806;Rio de Janeiro
+863;466;BA
+864;899;Pernambuco
+865;997;São Paulo
+866;458;Ceará
+867;2;MG
+868;993;BA
+869;121;BA
+870;791;Goiás
+871;14;Santa Catarina
+872;181;São Paulo
+873;665;Goiás
+874;855;RJ
+875;434;Paraíba
+876;188;Goiás
+877;837;Pernambuco
+878;339;Paraná
+879;150;MG
+880;938;Goiás
+881;64;SP
+882;558;Rio de Janeiro
+883;359;RS
+884;786;SP
+885;840;SP
+886;453;MG
+887;65;Rio Grande do Sul
+888;568;SP
+889;955;Rio de Janeiro
+890;9;SP
+891;293;Ceará
+892;185;PE
+893;569;Rio de Janeiro
+894;556;PE
+895;124;RJ
+896;922;PR
+897;291;Pará
+898;801;Minas Gerais
+899;349;MA
+900;418;Rio Grande do Sul
+901;776;São Paulo
+902;100;São Paulo
+903;694;MG
+904;69;São Paulo
+905;575;São Paulo
+906;687;Bahia
+907;465;Rio Grande do Sul
+908;414;São Paulo
+909;763;Ceará
+910;103;Goiás
+911;342;SP
+912;880;GO
+913;224;RS
+914;6;MG
+915;441;RJ
+916;146;BA
+917;965;Rio Grande do Sul
+918;32;Minas Gerais
+919;401;São Paulo
+920;968;São Paulo
+921;571;BA
+922;817;Minas Gerais
+923;643;PE
+924;369;Rio Grande do Sul
+925;400;Bahia
+926;764;São Paulo
+927;315;São Paulo
+928;530;Minas Gerais
+929;782;Bahia
+930;402;Rio de Janeiro
+931;176;PR
+932;900;Rio Grande do Sul
+933;451;Rio de Janeiro
+934;87;Santa Catarina
+935;265;Rio de Janeiro
+936;901;Ceará
+937;992;Paraná
+938;90;PA
+939;235;Minas Gerais
+940;50;MA
+941;174;São Paulo
+942;644;Rio de Janeiro
+943;450;MG
+944;563;São Paulo
+945;99;Minas Gerais
+946;966;Ceará
+947;476;SP
+948;945;Rio Grande do Sul
+949;352;GO
+950;599;MG
+951;467;MA
+952;933;Paraná
+953;463;MG
+954;332;PA
+955;41;Rio Grande do Sul
+956;128;Santa Catarina
+957;721;MG
+958;101;GO
+959;826;BA
+960;827;RS
+961;1;Rio Grande do Sul
+962;768;BA
+963;372;RJ
+964;78;MG
+965;972;MG
+966;228;SP
+967;559;Santa Catarina
+968;137;São Paulo
+969;376;GO
+970;859;SC
+971;906;Pará
+972;589;Minas Gerais
+973;341;RS
+974;281;Rio Grande do Sul
+975;408;RJ
+976;261;BA
+977;810;São Paulo
+978;86;São Paulo
+979;860;SC
+980;215;São Paulo
+981;729;São Paulo
+982;640;PR
+983;246;Rio de Janeiro
+984;134;SC
+985;201;CE
+986;905;Ceará
+987;489;Ceará
+988;567;Goiás
+989;823;SP
+990;4;RJ
+991;409;Pernambuco
+992;628;Minas Gerais
+993;834;Rio Grande do Sul
+994;990;São Paulo
+995;45;PB
+996;954;RS
+997;853;PB
+998;882;Paraná
+999;220;Rio de Janeiro
+1000;511;Pernambuco

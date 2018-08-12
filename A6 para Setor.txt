@@ -1,0 +1,1001 @@
+ED;ID;Setor;Prox.Setor
+1;657;Financeiro;8
+8;266;Financeiro;15
+15;130;Financeiro;17
+17;88;Financeiro;28
+28;61;Financeiro;40
+40;334;Financeiro;47
+47;260;Financeiro;69
+69;787;Financeiro;75
+75;703;Financeiro;115
+115;431;Financeiro;123
+123;79;Financeiro;124
+124;420;Financeiro;137
+137;893;Financeiro;138
+138;67;Financeiro;141
+141;105;Financeiro;170
+170;593;Financeiro;176
+176;851;Financeiro;204
+204;63;Financeiro;209
+209;778;Financeiro;223
+223;921;Financeiro;228
+228;27;Financeiro;237
+237;700;Financeiro;238
+238;443;Financeiro;250
+250;771;Financeiro;272
+272;745;Financeiro;273
+273;7;Financeiro;278
+278;426;Financeiro;291
+291;325;Financeiro;318
+318;656;Financeiro;322
+322;865;Financeiro;328
+328;620;Financeiro;344
+344;206;Financeiro;346
+346;897;Financeiro;358
+358;446;Financeiro;361
+361;108;Financeiro;374
+374;669;Financeiro;375
+375;913;Financeiro;379
+379;502;Financeiro;390
+390;160;Financeiro;394
+394;189;Financeiro;432
+432;285;Financeiro;438
+438;709;Financeiro;454
+454;122;Financeiro;466
+466;898;Financeiro;468
+468;711;Financeiro;489
+489;203;Financeiro;495
+495;51;Financeiro;497
+497;365;Financeiro;532
+532;982;Financeiro;538
+538;311;Financeiro;554
+554;598;Financeiro;566
+566;177;Financeiro;568
+568;602;Financeiro;589
+589;833;Financeiro;595
+595;416;Financeiro;597
+597;482;Financeiro;603
+603;682;Financeiro;616
+616;20;Financeiro;633
+633;614;Financeiro;636
+636;659;Financeiro;645
+645;492;Financeiro;657
+657;892;Financeiro;689
+689;267;Financeiro;698
+698;22;Financeiro;702
+702;11;Financeiro;716
+716;526;Financeiro;720
+720;333;Financeiro;725
+725;36;Financeiro;734
+734;229;Financeiro;736
+736;989;Financeiro;737
+737;761;Financeiro;753
+753;94;Financeiro;754
+754;48;Financeiro;819
+819;125;Financeiro;825
+825;239;Financeiro;842
+842;984;Financeiro;848
+848;337;Financeiro;864
+864;899;Financeiro;887
+887;65;Financeiro;922
+922;817;Financeiro;925
+925;400;Financeiro;944
+944;563;Financeiro;950
+950;599;Financeiro;972
+972;589;Financeiro;977
+977;810;Financeiro;983
+983;246;Financeiro;984
+984;134;Financeiro;986
+986;905;Financeiro;0
+9;546;Gerenciamento;13
+13;762;Gerenciamento;25
+25;82;Gerenciamento;34
+34;395;Gerenciamento;39
+39;481;Gerenciamento;52
+52;688;Gerenciamento;53
+53;13;Gerenciamento;58
+58;684;Gerenciamento;60
+60;850;Gerenciamento;62
+62;985;Gerenciamento;68
+68;75;Gerenciamento;88
+88;166;Gerenciamento;98
+98;410;Gerenciamento;113
+113;165;Gerenciamento;127
+127;286;Gerenciamento;129
+129;973;Gerenciamento;131
+131;523;Gerenciamento;140
+140;943;Gerenciamento;157
+157;557;Gerenciamento;163
+163;237;Gerenciamento;165
+165;996;Gerenciamento;168
+168;814;Gerenciamento;189
+189;847;Gerenciamento;196
+196;383;Gerenciamento;199
+199;664;Gerenciamento;205
+205;645;Gerenciamento;206
+206;240;Gerenciamento;212
+212;18;Gerenciamento;222
+222;565;Gerenciamento;251
+251;430;Gerenciamento;253
+253;956;Gerenciamento;257
+257;798;Gerenciamento;263
+263;769;Gerenciamento;276
+276;139;Gerenciamento;286
+286;696;Gerenciamento;298
+298;983;Gerenciamento;301
+301;157;Gerenciamento;332
+332;799;Gerenciamento;335
+335;800;Gerenciamento;369
+369;829;Gerenciamento;372
+372;969;Gerenciamento;373
+373;848;Gerenciamento;412
+412;981;Gerenciamento;442
+442;912;Gerenciamento;449
+449;749;Gerenciamento;453
+453;168;Gerenciamento;456
+456;484;Gerenciamento;462
+462;340;Gerenciamento;474
+474;236;Gerenciamento;478
+478;151;Gerenciamento;479
+479;499;Gerenciamento;483
+483;454;Gerenciamento;499
+499;736;Gerenciamento;512
+512;486;Gerenciamento;542
+542;661;Gerenciamento;549
+549;869;Gerenciamento;553
+553;615;Gerenciamento;556
+556;270;Gerenciamento;562
+562;784;Gerenciamento;574
+574;468;Gerenciamento;578
+578;543;Gerenciamento;579
+579;789;Gerenciamento;583
+583;796;Gerenciamento;599
+599;685;Gerenciamento;620
+620;977;Gerenciamento;623
+623;507;Gerenciamento;627
+627;60;Gerenciamento;632
+632;548;Gerenciamento;642
+642;140;Gerenciamento;652
+652;683;Gerenciamento;653
+653;936;Gerenciamento;654
+654;55;Gerenciamento;662
+662;116;Gerenciamento;666
+666;196;Gerenciamento;673
+673;153;Gerenciamento;676
+676;580;Gerenciamento;680
+680;991;Gerenciamento;690
+690;790;Gerenciamento;707
+707;759;Gerenciamento;719
+719;674;Gerenciamento;721
+721;504;Gerenciamento;751
+751;154;Gerenciamento;761
+761;462;Gerenciamento;794
+794;164;Gerenciamento;795
+795;979;Gerenciamento;798
+798;180;Gerenciamento;805
+805;728;Gerenciamento;812
+812;939;Gerenciamento;821
+821;803;Gerenciamento;833
+833;570;Gerenciamento;847
+847;870;Gerenciamento;878
+878;339;Gerenciamento;879
+879;150;Gerenciamento;882
+882;558;Gerenciamento;883
+883;359;Gerenciamento;885
+885;840;Gerenciamento;888
+888;568;Gerenciamento;895
+895;124;Gerenciamento;906
+906;687;Gerenciamento;908
+908;414;Gerenciamento;917
+917;965;Gerenciamento;919
+919;401;Gerenciamento;939
+939;235;Gerenciamento;942
+942;644;Gerenciamento;943
+943;450;Gerenciamento;952
+952;933;Gerenciamento;960
+960;827;Gerenciamento;962
+962;768;Gerenciamento;963
+963;372;Gerenciamento;970
+970;859;Gerenciamento;979
+979;860;Gerenciamento;985
+985;201;Gerenciamento;990
+990;4;Gerenciamento;997
+997;853;Gerenciamento;0
+6;691;Jurídico;12
+12;199;Jurídico;30
+30;459;Jurídico;65
+65;328;Jurídico;66
+66;519;Jurídico;72
+72;53;Jurídico;91
+91;888;Jurídico;97
+97;219;Jurídico;110
+110;935;Jurídico;145
+145;748;Jurídico;159
+159;380;Jurídico;166
+166;428;Jurídico;185
+185;456;Jurídico;188
+188;934;Jurídico;235
+235;97;Jurídico;245
+245;436;Jurídico;254
+254;29;Jurídico;264
+264;832;Jurídico;281
+281;545;Jurídico;296
+296;84;Jurídico;314
+314;278;Jurídico;333
+333;948;Jurídico;336
+336;518;Jurídico;340
+340;379;Jurídico;349
+349;770;Jurídico;383
+383;919;Jurídico;406
+406;908;Jurídico;409
+409;878;Jurídico;421
+421;24;Jurídico;422
+422;363;Jurídico;428
+428;877;Jurídico;437
+437;263;Jurídico;451
+451;932;Jurídico;472
+472;917;Jurídico;476
+476;809;Jurídico;482
+482;918;Jurídico;488
+488;415;Jurídico;491
+491;473;Jurídico;500
+500;844;Jurídico;506
+506;250;Jurídico;509
+509;843;Jurídico;521
+521;630;Jurídico;522
+522;733;Jurídico;528
+528;978;Jurídico;537
+537;149;Jurídico;551
+551;21;Jurídico;572
+572;314;Jurídico;576
+576;163;Jurídico;582
+582;702;Jurídico;588
+588;346;Jurídico;591
+591;307;Jurídico;600
+600;535;Jurídico;612
+612;675;Jurídico;619
+619;999;Jurídico;630
+630;737;Jurídico;647
+647;303;Jurídico;655
+655;744;Jurídico;661
+661;98;Jurídico;663
+663;836;Jurídico;671
+671;663;Jurídico;677
+677;592;Jurídico;683
+683;573;Jurídico;708
+708;867;Jurídico;714
+714;772;Jurídico;730
+730;190;Jurídico;742
+742;928;Jurídico;744
+744;70;Jurídico;752
+752;951;Jurídico;764
+764;138;Jurídico;765
+765;222;Jurídico;779
+779;756;Jurídico;792
+792;257;Jurídico;809
+809;479;Jurídico;817
+817;637;Jurídico;823
+823;652;Jurídico;855
+855;876;Jurídico;871
+871;14;Jurídico;921
+921;571;Jurídico;936
+936;901;Jurídico;947
+947;476;Jurídico;961
+961;1;Jurídico;966
+966;228;Jurídico;967
+967;559;Jurídico;971
+971;906;Jurídico;992
+992;628;Jurídico;998
+998;882;Jurídico;0
+4;619;Marketing;19
+19;276;Marketing;24
+24;529;Marketing;26
+26;879;Marketing;51
+51;835;Marketing;56
+56;437;Marketing;63
+63;995;Marketing;71
+71;500;Marketing;84
+84;539;Marketing;85
+85;516;Marketing;92
+92;135;Marketing;109
+109;720;Marketing;112
+112;550;Marketing;118
+118;671;Marketing;121
+121;522;Marketing;126
+126;396;Marketing;130
+130;131;Marketing;147
+147;442;Marketing;187
+187;378;Marketing;194
+194;461;Marketing;200
+200;167;Marketing;201
+201;891;Marketing;221
+221;259;Marketing;229
+229;689;Marketing;234
+234;381;Marketing;249
+249;357;Marketing;258
+258;445;Marketing;267
+267;911;Marketing;299
+299;533;Marketing;305
+305;279;Marketing;326
+326;391;Marketing;360
+360;245;Marketing;363
+363;525;Marketing;368
+368;152;Marketing;381
+381;280;Marketing;382
+382;987;Marketing;384
+384;871;Marketing;385
+385;957;Marketing;401
+401;109;Marketing;404
+404;974;Marketing;411
+411;881;Marketing;415
+415;427;Marketing;426
+426;705;Marketing;429
+429;421;Marketing;458
+458;964;Marketing;481
+481;19;Marketing;484
+484;655;Marketing;487
+487;440;Marketing;501
+501;290;Marketing;504
+504;618;Marketing;511
+511;701;Marketing;515
+515;588;Marketing;526
+526;295;Marketing;529
+529;572;Marketing;558
+558;754;Marketing;581
+581;846;Marketing;584
+584;849;Marketing;587
+587;988;Marketing;617
+617;127;Marketing;624
+624;520;Marketing;648
+648;198;Marketing;668
+668;560;Marketing;679
+679;159;Marketing;685
+685;298;Marketing;687
+687;623;Marketing;694
+694;399;Marketing;695
+695;390;Marketing;700
+700;727;Marketing;710
+710;158;Marketing;713
+713;508;Marketing;724
+724;606;Marketing;726
+726;393;Marketing;739
+739;211;Marketing;747
+747;596;Marketing;770
+770;268;Marketing;802
+802;186;Marketing;808
+808;757;Marketing;816
+816;397;Marketing;834
+834;271;Marketing;845
+845;8;Marketing;869
+869;121;Marketing;890
+890;9;Marketing;894
+894;556;Marketing;896
+896;922;Marketing;897
+897;291;Marketing;898
+898;801;Marketing;904
+904;69;Marketing;909
+909;763;Marketing;924
+924;369;Marketing;927
+927;315;Marketing;929
+929;782;Marketing;938
+938;90;Marketing;948
+948;945;Marketing;973
+973;341;Marketing;996
+996;954;Marketing;999
+999;220;Marketing;0
+18;371;Pesquisa e Desenvolvimento;20
+20;676;Pesquisa e Desenvolvimento;27
+27;730;Pesquisa e Desenvolvimento;38
+38;216;Pesquisa e Desenvolvimento;44
+44;57;Pesquisa e Desenvolvimento;49
+49;171;Pesquisa e Desenvolvimento;61
+61;715;Pesquisa e Desenvolvimento;67
+67;38;Pesquisa e Desenvolvimento;78
+78;210;Pesquisa e Desenvolvimento;79
+79;815;Pesquisa e Desenvolvimento;86
+86;961;Pesquisa e Desenvolvimento;101
+101;775;Pesquisa e Desenvolvimento;102
+102;629;Pesquisa e Desenvolvimento;104
+104;498;Pesquisa e Desenvolvimento;108
+108;96;Pesquisa e Desenvolvimento;117
+117;470;Pesquisa e Desenvolvimento;125
+125;540;Pesquisa e Desenvolvimento;149
+149;156;Pesquisa e Desenvolvimento;156
+156;327;Pesquisa e Desenvolvimento;161
+161;460;Pesquisa e Desenvolvimento;171
+171;647;Pesquisa e Desenvolvimento;183
+183;173;Pesquisa e Desenvolvimento;184
+184;366;Pesquisa e Desenvolvimento;211
+211;512;Pesquisa e Desenvolvimento;224
+224;649;Pesquisa e Desenvolvimento;236
+236;423;Pesquisa e Desenvolvimento;246
+246;209;Pesquisa e Desenvolvimento;279
+279;475;Pesquisa e Desenvolvimento;283
+283;292;Pesquisa e Desenvolvimento;310
+310;3;Pesquisa e Desenvolvimento;320
+320;635;Pesquisa e Desenvolvimento;330
+330;493;Pesquisa e Desenvolvimento;334
+334;147;Pesquisa e Desenvolvimento;337
+337;272;Pesquisa e Desenvolvimento;350
+350;941;Pesquisa e Desenvolvimento;352
+352;175;Pesquisa e Desenvolvimento;376
+376;609;Pesquisa e Desenvolvimento;387
+387;338;Pesquisa e Desenvolvimento;389
+389;309;Pesquisa e Desenvolvimento;408
+408;243;Pesquisa e Desenvolvimento;413
+413;233;Pesquisa e Desenvolvimento;418
+418;255;Pesquisa e Desenvolvimento;423
+423;487;Pesquisa e Desenvolvimento;427
+427;942;Pesquisa e Desenvolvimento;446
+446;306;Pesquisa e Desenvolvimento;467
+467;706;Pesquisa e Desenvolvimento;473
+473;541;Pesquisa e Desenvolvimento;477
+477;343;Pesquisa e Desenvolvimento;480
+480;866;Pesquisa e Desenvolvimento;498
+498;10;Pesquisa e Desenvolvimento;508
+508;668;Pesquisa e Desenvolvimento;513
+513;358;Pesquisa e Desenvolvimento;518
+518;435;Pesquisa e Desenvolvimento;523
+523;532;Pesquisa e Desenvolvimento;527
+527;474;Pesquisa e Desenvolvimento;546
+546;193;Pesquisa e Desenvolvimento;567
+567;944;Pesquisa e Desenvolvimento;573
+573;858;Pesquisa e Desenvolvimento;577
+577;781;Pesquisa e Desenvolvimento;580
+580;693;Pesquisa e Desenvolvimento;598
+598;542;Pesquisa e Desenvolvimento;602
+602;387;Pesquisa e Desenvolvimento;604
+604;419;Pesquisa e Desenvolvimento;608
+608;986;Pesquisa e Desenvolvimento;614
+614;607;Pesquisa e Desenvolvimento;625
+625;524;Pesquisa e Desenvolvimento;629
+629;698;Pesquisa e Desenvolvimento;639
+639;112;Pesquisa e Desenvolvimento;641
+641;667;Pesquisa e Desenvolvimento;643
+643;975;Pesquisa e Desenvolvimento;658
+658;59;Pesquisa e Desenvolvimento;686
+686;783;Pesquisa e Desenvolvimento;701
+701;797;Pesquisa e Desenvolvimento;709
+709;225;Pesquisa e Desenvolvimento;712
+712;310;Pesquisa e Desenvolvimento;715
+715;753;Pesquisa e Desenvolvimento;728
+728;483;Pesquisa e Desenvolvimento;743
+743;107;Pesquisa e Desenvolvimento;773
+773;256;Pesquisa e Desenvolvimento;776
+776;288;Pesquisa e Desenvolvimento;788
+788;394;Pesquisa e Desenvolvimento;806
+806;821;Pesquisa e Desenvolvimento;807
+807;5;Pesquisa e Desenvolvimento;863
+863;466;Pesquisa e Desenvolvimento;866
+866;458;Pesquisa e Desenvolvimento;868
+868;993;Pesquisa e Desenvolvimento;874
+874;855;Pesquisa e Desenvolvimento;881
+881;64;Pesquisa e Desenvolvimento;884
+884;786;Pesquisa e Desenvolvimento;902
+902;100;Pesquisa e Desenvolvimento;905
+905;575;Pesquisa e Desenvolvimento;911
+911;342;Pesquisa e Desenvolvimento;918
+918;32;Pesquisa e Desenvolvimento;975
+975;408;Pesquisa e Desenvolvimento;988
+988;567;Pesquisa e Desenvolvimento;0
+31;808;Recursos Humanos;45
+45;553;Recursos Humanos;48
+48;868;Recursos Humanos;50
+50;779;Recursos Humanos;57
+57;597;Recursos Humanos;59
+59;73;Recursos Humanos;73
+73;320;Recursos Humanos;89
+89;566;Recursos Humanos;95
+95;330;Recursos Humanos;99
+99;323;Recursos Humanos;100
+100;931;Recursos Humanos;106
+106;631;Recursos Humanos;120
+120;718;Recursos Humanos;136
+136;627;Recursos Humanos;139
+139;963;Recursos Humanos;142
+142;584;Recursos Humanos;164
+164;830;Recursos Humanos;174
+174;625;Recursos Humanos;210
+210;816;Recursos Humanos;231
+231;910;Recursos Humanos;233
+233;66;Recursos Humanos;239
+239;148;Recursos Humanos;243
+243;477;Recursos Humanos;248
+248;719;Recursos Humanos;252
+252;448;Recursos Humanos;268
+268;638;Recursos Humanos;280
+280;875;Recursos Humanos;282
+282;49;Recursos Humanos;287
+287;287;Recursos Humanos;289
+289;926;Recursos Humanos;308
+308;758;Recursos Humanos;316
+316;924;Recursos Humanos;317
+317;370;Recursos Humanos;327
+327;854;Recursos Humanos;329
+329;725;Recursos Humanos;341
+341;610;Recursos Humanos;347
+347;785;Recursos Humanos;353
+353;930;Recursos Humanos;362
+362;946;Recursos Humanos;364
+364;412;Recursos Humanos;365
+365;634;Recursos Humanos;370
+370;574;Recursos Humanos;397
+397;605;Recursos Humanos;419
+419;269;Recursos Humanos;424
+424;81;Recursos Humanos;425
+425;962;Recursos Humanos;435
+435;632;Recursos Humanos;441
+441;141;Recursos Humanos;448
+448;842;Recursos Humanos;450
+450;622;Recursos Humanos;471
+471;895;Recursos Humanos;475
+475;887;Recursos Humanos;492
+492;336;Recursos Humanos;519
+519;119;Recursos Humanos;524
+524;600;Recursos Humanos;525
+525;970;Recursos Humanos;535
+535;651;Recursos Humanos;541
+541;497;Recursos Humanos;548
+548;825;Recursos Humanos;550
+550;883;Recursos Humanos;571
+571;83;Recursos Humanos;575
+575;478;Recursos Humanos;592
+592;217;Recursos Humanos;618
+618;54;Recursos Humanos;628
+628;46;Recursos Humanos;637
+637;115;Recursos Humanos;656
+656;208;Recursos Humanos;660
+660;902;Recursos Humanos;670
+670;322;Recursos Humanos;672
+672;28;Recursos Humanos;703
+703;732;Recursos Humanos;704
+704;613;Recursos Humanos;705
+705;564;Recursos Humanos;729
+729;547;Recursos Humanos;733
+733;319;Recursos Humanos;735
+735;831;Recursos Humanos;738
+738;549;Recursos Humanos;759
+759;937;Recursos Humanos;774
+774;960;Recursos Humanos;785
+785;828;Recursos Humanos;786
+786;780;Recursos Humanos;789
+789;604;Recursos Humanos;793
+793;929;Recursos Humanos;796
+796;802;Recursos Humanos;801
+801;464;Recursos Humanos;811
+811;886;Recursos Humanos;818
+818;731;Recursos Humanos;820
+820;326;Recursos Humanos;827
+827;648;Recursos Humanos;828
+828;485;Recursos Humanos;837
+837;274;Recursos Humanos;840
+840;283;Recursos Humanos;849
+849;585;Recursos Humanos;852
+852;26;Recursos Humanos;857
+857;686;Recursos Humanos;859
+859;142;Recursos Humanos;862
+862;806;Recursos Humanos;865
+865;997;Recursos Humanos;870
+870;791;Recursos Humanos;873
+873;665;Recursos Humanos;875
+875;434;Recursos Humanos;886
+886;453;Recursos Humanos;907
+907;465;Recursos Humanos;926
+926;764;Recursos Humanos;932
+932;900;Recursos Humanos;933
+933;451;Recursos Humanos;935
+935;265;Recursos Humanos;945
+945;99;Recursos Humanos;946
+946;966;Recursos Humanos;965
+965;972;Recursos Humanos;969
+969;376;Recursos Humanos;978
+978;86;Recursos Humanos;981
+981;729;Recursos Humanos;0
+21;106;Relações Públicas;33
+33;253;Relações Públicas;37
+37;296;Relações Públicas;42
+42;538;Relações Públicas;46
+46;74;Relações Públicas;64
+64;517;Relações Públicas;87
+87;697;Relações Públicas;90
+90;413;Relações Públicas;93
+93;304;Relações Públicas;107
+107;273;Relações Públicas;111
+111;373;Relações Públicas;122
+122;862;Relações Públicas;132
+132;52;Relações Públicas;150
+150;388;Relações Públicas;151
+151;678;Relações Públicas;152
+152;249;Relações Públicas;153
+153;723;Relações Públicas;155
+155;633;Relações Públicas;160
+160;230;Relações Públicas;177
+177;812;Relações Públicas;179
+179;329;Relações Públicas;181
+181;717;Relações Públicas;191
+191;950;Relações Públicas;192
+192;350;Relações Públicas;193
+193;252;Relações Públicas;195
+195;724;Relações Públicas;197
+197;777;Relações Públicas;202
+202;355;Relações Públicas;213
+213;818;Relações Públicas;217
+217;318;Relações Públicas;219
+219;577;Relações Públicas;220
+220;85;Relações Públicas;241
+241;852;Relações Públicas;247
+247;197;Relações Públicas;255
+255;666;Relações Públicas;260
+260;819;Relações Públicas;271
+271;213;Relações Públicas;293
+293;636;Relações Públicas;302
+302;375;Relações Públicas;306
+306;794;Relações Públicas;311
+311;364;Relações Públicas;313
+313;425;Relações Públicas;319
+319;544;Relações Públicas;331
+331;297;Relações Públicas;345
+345;123;Relações Públicas;357
+357;760;Relações Públicas;367
+367;89;Relações Públicas;380
+380;953;Relações Públicas;386
+386;743;Relações Públicas;391
+391;305;Relações Públicas;399
+399;734;Relações Públicas;400
+400;205;Relações Públicas;405
+405;741;Relações Públicas;407
+407;247;Relações Públicas;420
+420;510;Relações Públicas;445
+445;277;Relações Públicas;455
+455;361;Relações Públicas;465
+465;232;Relações Públicas;505
+505;752;Relações Públicas;507
+507;551;Relações Públicas;520
+520;457;Relações Públicas;545
+545;47;Relações Públicas;555
+555;480;Relações Públicas;565
+565;591;Relações Públicas;601
+601;356;Relações Públicas;607
+607;513;Relações Públicas;613
+613;677;Relações Públicas;621
+621;254;Relações Públicas;634
+634;949;Relações Públicas;646
+646;976;Relações Públicas;650
+650;289;Relações Públicas;659
+659;438;Relações Públicas;665
+665;471;Relações Públicas;667
+667;114;Relações Públicas;669
+669;940;Relações Públicas;684
+684;42;Relações Públicas;697
+697;429;Relações Públicas;699
+699;452;Relações Públicas;740
+740;515;Relações Públicas;749
+749;25;Relações Públicas;755
+755;561;Relações Públicas;760
+760;472;Relações Públicas;763
+763;317;Relações Públicas;767
+767;552;Relações Públicas;771
+771;360;Relações Públicas;772
+772;300;Relações Públicas;778
+778;792;Relações Públicas;784
+784;347;Relações Públicas;787
+787;1000;Relações Públicas;791
+791;590;Relações Públicas;799
+799;227;Relações Públicas;814
+814;111;Relações Públicas;836
+836;554;Relações Públicas;851
+851;804;Relações Públicas;860
+860;316;Relações Públicas;877
+877;837;Relações Públicas;899
+899;349;Relações Públicas;901
+901;776;Relações Públicas;915
+915;441;Relações Públicas;920
+920;968;Relações Públicas;949
+949;352;Relações Públicas;951
+951;467;Relações Públicas;956
+956;128;Relações Públicas;958
+958;101;Relações Públicas;982
+982;640;Relações Públicas;991
+991;409;Relações Públicas;994
+994;990;Relações Públicas;0
+2;335;Serviço ao Cliente;14
+14;447;Serviço ao Cliente;16
+16;72;Serviço ao Cliente;29
+29;739;Serviço ao Cliente;35
+35;660;Serviço ao Cliente;36
+36;382;Serviço ao Cliente;43
+43;406;Serviço ao Cliente;54
+54;578;Serviço ao Cliente;77
+77;751;Serviço ao Cliente;82
+82;248;Serviço ao Cliente;105
+105;811;Serviço ao Cliente;114
+114;204;Serviço ao Cliente;144
+144;658;Serviço ao Cliente;158
+158;947;Serviço ao Cliente;167
+167;398;Serviço ao Cliente;172
+172;856;Serviço ao Cliente;175
+175;183;Serviço ao Cliente;182
+182;43;Serviço ao Cliente;207
+207;145;Serviço ao Cliente;226
+226;774;Serviço ao Cliente;256
+256;351;Serviço ao Cliente;270
+270;927;Serviço ao Cliente;288
+288;490;Serviço ao Cliente;290
+290;621;Serviço ao Cliente;292
+292;509;Serviço ao Cliente;295
+295;172;Serviço ao Cliente;297
+297;864;Serviço ao Cliente;300
+300;44;Serviço ao Cliente;307
+307;747;Serviço ao Cliente;323
+323;608;Serviço ao Cliente;351
+351;212;Serviço ao Cliente;355
+355;117;Serviço ao Cliente;371
+371;389;Serviço ao Cliente;378
+378;662;Serviço ao Cliente;393
+393;353;Serviço ao Cliente;398
+398;62;Serviço ao Cliente;414
+414;344;Serviço ao Cliente;431
+431;874;Serviço ao Cliente;436
+436;251;Serviço ao Cliente;443
+443;313;Serviço ao Cliente;459
+459;12;Serviço ao Cliente;463
+463;17;Serviço ao Cliente;469
+469;738;Serviço ao Cliente;470
+470;914;Serviço ao Cliente;485
+485;433;Serviço ao Cliente;486
+486;583;Serviço ao Cliente;493
+493;710;Serviço ao Cliente;514
+514;813;Serviço ao Cliente;531
+531;92;Serviço ao Cliente;536
+536;531;Serviço ao Cliente;543
+543;58;Serviço ao Cliente;559
+559;15;Serviço ao Cliente;563
+563;845;Serviço ao Cliente;569
+569;611;Serviço ao Cliente;570
+570;626;Serviço ao Cliente;585
+585;521;Serviço ao Cliente;586
+586;537;Serviço ao Cliente;593
+593;603;Serviço ao Cliente;605
+605;23;Serviço ao Cliente;611
+611;258;Serviço ao Cliente;615
+615;735;Serviço ao Cliente;622
+622;805;Serviço ao Cliente;644
+644;884;Serviço ao Cliente;674
+674;488;Serviço ao Cliente;675
+675;129;Serviço ao Cliente;692
+692;514;Serviço ao Cliente;706
+706;469;Serviço ao Cliente;711
+711;624;Serviço ao Cliente;723
+723;31;Serviço ao Cliente;732
+732;411;Serviço ao Cliente;745
+745;861;Serviço ao Cliente;757
+757;262;Serviço ao Cliente;768
+768;244;Serviço ao Cliente;777
+777;194;Serviço ao Cliente;780
+780;195;Serviço ao Cliente;782
+782;264;Serviço ao Cliente;813
+813;133;Serviço ao Cliente;822
+822;444;Serviço ao Cliente;824
+824;617;Serviço ao Cliente;832
+832;959;Serviço ao Cliente;846
+846;581;Serviço ao Cliente;858
+858;449;Serviço ao Cliente;861
+861;162;Serviço ao Cliente;876
+876;188;Serviço ao Cliente;880
+880;938;Serviço ao Cliente;891
+891;293;Serviço ao Cliente;892
+892;185;Serviço ao Cliente;893
+893;569;Serviço ao Cliente;912
+912;880;Serviço ao Cliente;913
+913;224;Serviço ao Cliente;916
+916;146;Serviço ao Cliente;937
+937;992;Serviço ao Cliente;953
+953;463;Serviço ao Cliente;957
+957;721;Serviço ao Cliente;974
+974;281;Serviço ao Cliente;989
+989;823;Serviço ao Cliente;993
+993;834;Serviço ao Cliente;0
+5;226;Suporte Técnico;22
+22;223;Suporte Técnico;23
+23;527;Suporte Técnico;74
+74;275;Suporte Técnico;80
+80;998;Suporte Técnico;96
+96;234;Suporte Técnico;116
+116;113;Suporte Técnico;119
+119;39;Suporte Técnico;128
+128;920;Suporte Técnico;134
+134;594;Suporte Técnico;143
+143;890;Suporte Técnico;146
+146;746;Suporte Técnico;148
+148;71;Suporte Técnico;154
+154;885;Suporte Técnico;186
+186;80;Suporte Técnico;190
+190;820;Suporte Técnico;208
+208;110;Suporte Técnico;214
+214;169;Suporte Técnico;216
+216;505;Suporte Técnico;225
+225;673;Suporte Técnico;244
+244;958;Suporte Técnico;262
+262;422;Suporte Técnico;266
+266;104;Suporte Técnico;269
+269;740;Suporte Técnico;277
+277;40;Suporte Técnico;284
+284;37;Suporte Técnico;338
+338;384;Suporte Técnico;342
+342;178;Suporte Técnico;343
+343;118;Suporte Técnico;356
+356;392;Suporte Técnico;359
+359;681;Suporte Técnico;395
+395;616;Suporte Técnico;402
+402;654;Suporte Técnico;410
+410;841;Suporte Técnico;430
+430;324;Suporte Técnico;434
+434;368;Suporte Técnico;440
+440;925;Suporte Técnico;444
+444;170;Suporte Técnico;447
+447;132;Suporte Técnico;452
+452;367;Suporte Técnico;457
+457;528;Suporte Técnico;496
+496;699;Suporte Técnico;502
+502;612;Suporte Técnico;510
+510;417;Suporte Técnico;530
+530;155;Suporte Técnico;534
+534;692;Suporte Técnico;540
+540;713;Suporte Técnico;544
+544;386;Suporte Técnico;547
+547;495;Suporte Técnico;552
+552;207;Suporte Técnico;557
+557;184;Suporte Técnico;596
+596;824;Suporte Técnico;609
+609;202;Suporte Técnico;635
+635;136;Suporte Técnico;638
+638;765;Suporte Técnico;640
+640;491;Suporte Técnico;649
+649;120;Suporte Técnico;651
+651;301;Suporte Técnico;664
+664;766;Suporte Técnico;681
+681;362;Suporte Técnico;682
+682;354;Suporte Técnico;688
+688;30;Suporte Técnico;691
+691;894;Suporte Técnico;693
+693;241;Suporte Técnico;717
+717;377;Suporte Técnico;748
+748;642;Suporte Técnico;750
+750;576;Suporte Técnico;758
+758;716;Suporte Técnico;766
+766;822;Suporte Técnico;769
+769;374;Suporte Técnico;783
+783;95;Suporte Técnico;790
+790;773;Suporte Técnico;797
+797;909;Suporte Técnico;800
+800;795;Suporte Técnico;804
+804;439;Suporte Técnico;815
+815;182;Suporte Técnico;829
+829;214;Suporte Técnico;830
+830;952;Suporte Técnico;838
+838;501;Suporte Técnico;839
+839;916;Suporte Técnico;841
+841;971;Suporte Técnico;843
+843;93;Suporte Técnico;844
+844;179;Suporte Técnico;854
+854;903;Suporte Técnico;856
+856;980;Suporte Técnico;903
+903;694;Suporte Técnico;910
+910;103;Suporte Técnico;928
+928;530;Suporte Técnico;931
+931;176;Suporte Técnico;954
+954;332;Suporte Técnico;959
+959;826;Suporte Técnico;976
+976;261;Suporte Técnico;980
+980;215;Suporte Técnico;987
+987;489;Suporte Técnico;995
+995;45;Suporte Técnico;1000
+1000;511;Suporte Técnico;0
+3;896;Vendas;7
+7;653;Vendas;10
+10;494;Vendas;11
+11;838;Vendas;32
+32;432;Vendas;41
+41;385;Vendas;55
+55;161;Vendas;70
+70;34;Vendas;76
+76;767;Vendas;81
+81;424;Vendas;83
+83;321;Vendas;94
+94;788;Vendas;103
+103;863;Vendas;133
+133;218;Vendas;135
+135;680;Vendas;162
+162;872;Vendas;169
+169;143;Vendas;173
+173;755;Vendas;178
+178;793;Vendas;180
+180;967;Vendas;198
+198;294;Vendas;203
+203;722;Vendas;215
+215;582;Vendas;218
+218;672;Vendas;227
+227;555;Vendas;230
+230;742;Vendas;232
+232;238;Vendas;240
+240;601;Vendas;242
+242;221;Vendas;259
+259;76;Vendas;261
+261;750;Vendas;265
+265;579;Vendas;274
+274;807;Vendas;275
+275;646;Vendas;285
+285;407;Vendas;294
+294;857;Vendas;303
+303;650;Vendas;304
+304;56;Vendas;309
+309;712;Vendas;312
+312;331;Vendas;315
+315;91;Vendas;321
+321;200;Vendas;324
+324;595;Vendas;325
+325;994;Vendas;339
+339;345;Vendas;348
+348;403;Vendas;354
+354;126;Vendas;366
+366;690;Vendas;377
+377;587;Vendas;388
+388;506;Vendas;392
+392;102;Vendas;396
+396;904;Vendas;403
+403;707;Vendas;416
+416;348;Vendas;417
+417;670;Vendas;433
+433;915;Vendas;439
+439;907;Vendas;460
+460;695;Vendas;461
+461;534;Vendas;464
+464;144;Vendas;490
+490;231;Vendas;494
+494;873;Vendas;503
+503;455;Vendas;516
+516;77;Vendas;517
+517;405;Vendas;533
+533;312;Vendas;539
+539;708;Vendas;560
+560;889;Vendas;561
+561;35;Vendas;564
+564;33;Vendas;590
+590;586;Vendas;594
+594;536;Vendas;606
+606;726;Vendas;610
+610;714;Vendas;626
+626;496;Vendas;631
+631;16;Vendas;678
+678;242;Vendas;696
+696;839;Vendas;718
+718;503;Vendas;722
+722;308;Vendas;727
+727;284;Vendas;731
+731;639;Vendas;741
+741;191;Vendas;746
+746;562;Vendas;756
+756;192;Vendas;762
+762;404;Vendas;775
+775;302;Vendas;781
+781;923;Vendas;803
+803;68;Vendas;810
+810;641;Vendas;826
+826;187;Vendas;831
+831;282;Vendas;835
+835;704;Vendas;850
+850;299;Vendas;853
+853;679;Vendas;867
+867;2;Vendas;872
+872;181;Vendas;889
+889;955;Vendas;900
+900;418;Vendas;914
+914;6;Vendas;923
+923;643;Vendas;930
+930;402;Vendas;934
+934;87;Vendas;940
+940;50;Vendas;941
+941;174;Vendas;955
+955;41;Vendas;964
+964;78;Vendas;968
+968;137;Vendas;0

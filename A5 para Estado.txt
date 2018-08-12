@@ -1,0 +1,27 @@
+Estado;Qtd;Prim
+BA;47;26
+Bahia;45;28
+CE;28;4
+Ceará;23;5
+GO;15;7
+Goiás;18;90
+MA;29;37
+MG;64;36
+Maranhão;37;15
+Minas Gerais;62;6
+PA;14;11
+PB;10;34
+PE;33;23
+PR;32;2
+Paraná;23;95
+Paraíba;10;21
+Pará;24;30
+Pernambuco;27;1
+RJ;40;13
+RS;35;83
+Rio Grande do Sul;37;3
+Rio de Janeiro;52;12
+SC;16;16
+SP;125;8
+Santa Catarina;20;25
+São Paulo;134;9

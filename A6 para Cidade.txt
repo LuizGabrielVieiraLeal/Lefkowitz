@@ -1,0 +1,1001 @@
+ED;ID;Cidade;Prox.Cidade
+629;698;Abaetetuba;672
+672;28;Abaetetuba;0
+112;550;Ananindeua;819
+819;125;Ananindeua;0
+52;688;Anápolis;90
+90;413;Anápolis;113
+113;165;Anápolis;262
+262;422;Anápolis;619
+619;999;Anápolis;870
+870;791;Anápolis;880
+880;938;Anápolis;0
+187;378;Aparecida de Goiânia;200
+200;167;Aparecida de Goiânia;257
+257;798;Aparecida de Goiânia;830
+830;952;Aparecida de Goiânia;912
+912;880;Aparecida de Goiânia;0
+123;79;Açailândia;449
+449;749;Açailândia;494
+494;873;Açailândia;549
+549;869;Açailândia;594
+594;536;Açailândia;771
+771;360;Açailândia;861
+861;162;Açailândia;0
+66;519;Bacabal;79
+79;815;Bacabal;114
+114;204;Bacabal;125
+125;540;Bacabal;247
+247;197;Bacabal;342
+342;178;Bacabal;448
+448;842;Bacabal;450
+450;622;Bacabal;548
+548;825;Bacabal;550
+550;883;Bacabal;0
+47;260;Balsas;96
+96;234;Balsas;319
+319;544;Balsas;333
+333;948;Balsas;431
+431;874;Balsas;467
+467;706;Balsas;488
+488;415;Balsas;531
+531;92;Balsas;567
+567;944;Balsas;588
+588;346;Balsas;602
+602;387;Balsas;687
+687;623;Balsas;716
+716;526;Balsas;0
+37;296;Barra do Corda;81
+81;424;Barra do Corda;120
+120;718;Barra do Corda;310
+310;3;Barra do Corda;393
+393;353;Barra do Corda;614
+614;607;Barra do Corda;657
+657;892;Barra do Corda;940
+940;50;Barra do Corda;0
+144;658;Bayeux;995
+995;45;Bayeux;997
+997;853;Bayeux;0
+100;931;Belford Roxo;108
+108;96;Belford Roxo;196
+196;383;Belford Roxo;321
+321;200;Belford Roxo;893
+893;569;Belford Roxo;975
+975;408;Belford Roxo;0
+101;775;Belo Horizonte;284
+284;37;Belo Horizonte;302
+302;375;Belo Horizonte;364
+364;412;Belo Horizonte;391
+391;305;Belo Horizonte;859
+859;142;Belo Horizonte;0
+818;731;Belém;842
+842;984;Belém;897
+897;291;Belém;0
+116;113;Betim;381
+381;280;Betim;669
+669;940;Betim;708
+708;867;Betim;763
+763;317;Betim;953
+953;463;Betim;0
+63;995;Blumenau;254
+254;29;Blumenau;680
+680;991;Blumenau;703
+703;732;Blumenau;871
+871;14;Blumenau;967
+967;559;Blumenau;984
+984;134;Blumenau;0
+154;885;Bragança;165
+165;996;Bragança;0
+226;774;Cabo de Santo Agostinho;279
+279;475;Cabo de Santo Agostinho;376
+376;609;Cabo de Santo Agostinho;404
+404;974;Cabo de Santo Agostinho;439
+439;907;Cabo de Santo Agostinho;504
+504;618;Cabo de Santo Agostinho;539
+539;708;Cabo de Santo Agostinho;743
+743;107;Cabo de Santo Agostinho;773
+773;256;Cabo de Santo Agostinho;779
+779;756;Cabo de Santo Agostinho;806
+806;821;Cabo de Santo Agostinho;864
+864;899;Cabo de Santo Agostinho;991
+991;409;Cabo de Santo Agostinho;0
+34;395;Cajazeiras;266
+266;104;Cajazeiras;296
+296;84;Cajazeiras;0
+85;516;Camaragibe;223
+223;921;Camaragibe;369
+369;829;Camaragibe;620
+620;977;Camaragibe;722
+722;308;Camaragibe;0
+180;967;Camaçari;253
+253;956;Camaçari;275
+275;646;Camaçari;277
+277;40;Camaçari;300
+300;44;Camaçari;311
+311;364;Camaçari;354
+354;126;Camaçari;355
+355;117;Camaçari;407
+407;247;Camaçari;422
+422;363;Camaçari;489
+489;203;Camaçari;507
+507;551;Camaçari;522
+522;733;Camaçari;589
+589;833;Camaçari;697
+697;429;Camaçari;710
+710;158;Camaçari;869
+869;121;Camaçari;916
+916;146;Camaçari;0
+76;767;Cametá;211
+211;512;Cametá;436
+436;251;Cametá;536
+536;531;Cametá;954
+954;332;Cametá;0
+146;746;Campina Grande;429
+429;421;Campina Grande;529
+529;572;Campina Grande;690
+690;790;Campina Grande;795
+795;979;Campina Grande;0
+27;730;Campinas;38
+38;216;Campinas;40
+40;334;Campinas;109
+109;720;Campinas;140
+140;943;Campinas;212
+212;18;Campinas;222
+222;565;Campinas;286
+286;696;Campinas;304
+304;56;Campinas;309
+309;712;Campinas;362
+362;946;Campinas;363
+363;525;Campinas;374
+374;669;Campinas;398
+398;62;Campinas;446
+446;306;Campinas;468
+468;711;Campinas;546
+546;193;Campinas;568
+568;602;Campinas;623
+623;507;Campinas;644
+644;884;Campinas;655
+655;744;Campinas;767
+767;552;Campinas;872
+872;181;Campinas;902
+902;100;Campinas;989
+989;823;Campinas;0
+162;872;Campos dos Goytacazes;204
+204;63;Campos dos Goytacazes;301
+301;157;Campos dos Goytacazes;416
+416;348;Campos dos Goytacazes;516
+516;77;Campos dos Goytacazes;698
+698;22;Campos dos Goytacazes;730
+730;190;Campos dos Goytacazes;753
+753;94;Campos dos Goytacazes;0
+99;323;Canoas;142
+142;584;Canoas;486
+486;583;Canoas;496
+496;699;Canoas;586
+586;537;Canoas;596
+596;824;Canoas;654
+654;55;Canoas;658
+658;59;Canoas;907
+907;465;Canoas;973
+973;341;Canoas;0
+9;546;Carapicuíba;55
+55;161;Carapicuíba;58
+58;684;Carapicuíba;59
+59;73;Carapicuíba;61
+61;715;Carapicuíba;75
+75;703;Carapicuíba;168
+168;814;Carapicuíba;305
+305;279;Carapicuíba;307
+307;747;Carapicuíba;403
+403;707;Carapicuíba;427
+427;942;Carapicuíba;458
+458;964;Carapicuíba;459
+459;12;Carapicuíba;503
+503;455;Carapicuíba;527
+527;474;Carapicuíba;558
+558;754;Carapicuíba;559
+559;15;Carapicuíba;605
+605;23;Carapicuíba;621
+621;254;Carapicuíba;625
+625;524;Carapicuíba;726
+726;393;Carapicuíba;739
+739;211;Carapicuíba;754
+754;48;Carapicuíba;841
+841;971;Carapicuíba;843
+843;93;Carapicuíba;888
+888;568;Carapicuíba;968
+968;137;Carapicuíba;981
+981;729;Carapicuíba;0
+23;527;Caruaru;485
+485;433;Caruaru;585
+585;521;Caruaru;750
+750;576;Caruaru;0
+130;131;Cascavel;252
+252;448;Cascavel;778
+778;792;Cascavel;839
+839;916;Cascavel;931
+931;176;Cascavel;982
+982;640;Cascavel;0
+138;67;Castanhal;149
+149;156;Castanhal;379
+379;502;Castanhal;410
+410;841;Castanhal;418
+418;255;Castanhal;451
+451;932;Castanhal;510
+510;417;Castanhal;518
+518;435;Castanhal;551
+551;21;Castanhal;678
+678;242;Castanhal;0
+5;226;Caucaia;289
+289;926;Caucaia;350
+350;941;Caucaia;357
+357;760;Caucaia;776
+776;288;Caucaia;909
+909;763;Caucaia;0
+445;277;Caxias;545
+545;47;Caxias;766
+766;822;Caxias;824
+824;617;Caxias;0
+3;896;Caxias do Sul;205
+205;645;Caxias do Sul;239
+239;148;Caxias do Sul;483
+483;454;Caxias do Sul;583
+583;796;Caxias do Sul;670
+670;322;Caxias do Sul;761
+761;462;Caxias do Sul;948
+948;945;Caxias do Sul;961
+961;1;Caxias do Sul;0
+290;621;Chapadinha;344
+344;206;Chapadinha;0
+16;72;Chapecó;74
+74;275;Chapecó;308
+308;758;Chapecó;397
+397;605;Chapecó;706
+706;469;Chapecó;765
+765;222;Chapecó;0
+188;934;Codó;469
+469;738;Codó;569
+569;611;Codó;0
+440;925;Colombo;473
+473;541;Colombo;540
+540;713;Colombo;573
+573;858;Colombo;742
+742;928;Colombo;0
+64;517;Contagem;71
+71;500;Contagem;405
+405;741;Contagem;462
+462;340;Contagem;505
+505;752;Contagem;562
+562;784;Contagem;709
+709;225;Contagem;733
+733;319;Contagem;846
+846;581;Contagem;853
+853;679;Contagem;922
+922;817;Contagem;0
+274;807;Crato;352
+352;175;Crato;425
+425;962;Crato;525
+525;970;Crato;693
+693;241;Crato;891
+891;293;Crato;985
+985;201;Crato;0
+39;481;Criciúma;956
+956;128;Criciúma;979
+979;860;Criciúma;0
+121;522;Curitiba;476
+476;809;Curitiba;576
+576;163;Curitiba;643
+643;975;Curitiba;688
+688;30;Curitiba;896
+896;922;Curitiba;0
+78;210;Diadema;157
+157;557;Diadema;163
+163;237;Diadema;174
+174;625;Diadema;193
+193;252;Diadema;231
+231;910;Diadema;243
+243;477;Diadema;335
+335;800;Diadema;359
+359;681;Diadema;384
+384;871;Diadema;420
+420;510;Diadema;435
+435;632;Diadema;495
+495;51;Diadema;520
+520;457;Diadema;535
+535;651;Diadema;595
+595;416;Diadema;618
+618;54;Diadema;632
+632;548;Diadema;702
+702;11;Diadema;823
+823;652;Diadema;849
+849;585;Diadema;901
+901;776;Diadema;978
+978;86;Diadema;980
+980;215;Diadema;0
+36;382;Divinópolis;225
+225;673;Divinópolis;237
+237;700;Divinópolis;260
+260;819;Divinópolis;313
+313;425;Divinópolis;437
+437;263;Divinópolis;537
+537;149;Divinópolis;612
+612;675;Divinópolis;879
+879;150;Divinópolis;898
+898;801;Divinópolis;918
+918;32;Divinópolis;928
+928;530;Divinópolis;0
+12;199;Duque de Caxias;282
+282;49;Duque de Caxias;490
+490;231;Duque de Caxias;590
+590;586;Duque de Caxias;808
+808;757;Duque de Caxias;811
+811;886;Duque de Caxias;874
+874;855;Duque de Caxias;0
+105;811;Feira de Santana;128
+128;920;Feira de Santana;197
+197;777;Feira de Santana;337
+337;272;Feira de Santana;372
+372;969;Feira de Santana;428
+428;877;Feira de Santana;528
+528;978;Feira de Santana;664
+664;766;Feira de Santana;720
+720;333;Feira de Santana;0
+264;832;Florianópolis;314
+314;278;Florianópolis;770
+770;268;Florianópolis;817
+817;637;Florianópolis;0
+118;671;Fortaleza;645
+645;492;Fortaleza;764
+764;138;Fortaleza;0
+732;411;Foz do Iguaçu;0
+185;456;Goiânia;636
+636;659;Goiânia;649
+649;120;Goiânia;969
+969;376;Goiânia;0
+104;498;Governador Valadares;148
+148;71;Governador Valadares;184
+184;366;Governador Valadares;250
+250;771;Governador Valadares;287
+287;287;Governador Valadares;633
+633;614;Governador Valadares;640
+640;491;Governador Valadares;660
+660;902;Governador Valadares;662
+662;116;Governador Valadares;816
+816;397;Governador Valadares;972
+972;589;Governador Valadares;992
+992;628;Governador Valadares;0
+189;847;Gravataí;207
+207;145;Gravataí;218
+218;672;Gravataí;278
+278;426;Gravataí;343
+343;118;Gravataí;345
+345;123;Gravataí;724
+724;606;Gravataí;740
+740;515;Gravataí;900
+900;418;Gravataí;924
+924;369;Gravataí;960
+960;827;Gravataí;974
+974;281;Gravataí;993
+993;834;Gravataí;0
+110;935;Guarapuava;127
+127;286;Guarapuava;325
+325;994;Guarapuava;785
+785;828;Guarapuava;802
+802;186;Guarapuava;837
+837;274;Guarapuava;952
+952;933;Guarapuava;0
+50;779;Guarulhos;80
+80;998;Guarulhos;227
+227;555;Guarulhos;230
+230;742;Guarulhos;715
+715;753;Guarulhos;719
+719;674;Guarulhos;741
+741;191;Guarulhos;777
+777;194;Guarulhos;781
+781;923;Guarulhos;803
+803;68;Guarulhos;825
+825;239;Guarulhos;844
+844;179;Guarulhos;881
+881;64;Guarulhos;885
+885;840;Guarulhos;941
+941;174;Guarulhos;947
+947;476;Guarulhos;966
+966;228;Guarulhos;0
+77;751;Ilhéus;190
+190;820;Ilhéus;326
+326;391;Ilhéus;482
+482;918;Ilhéus;582
+582;702;Ilhéus;727
+727;284;Ilhéus;749
+749;25;Ilhéus;798
+798;180;Ilhéus;812
+812;939;Ilhéus;868
+868;993;Ilhéus;906
+906;687;Ilhéus;921
+921;571;Ilhéus;0
+15;130;Imperatriz;161
+161;460;Imperatriz;692
+692;514;Imperatriz;0
+281;545;Ipatinga;430
+430;324;Ipatinga;530
+530;155;Ipatinga;689
+689;267;Ipatinga;790
+790;773;Ipatinga;0
+152;249;Itabuna;199
+199;664;Itabuna;202
+202;355;Itabuna;215
+215;582;Itabuna;217
+217;318;Itabuna;273
+273;7;Itabuna;421
+421;24;Itabuna;521
+521;630;Itabuna;616
+616;20;Itabuna;863
+863;466;Itabuna;925
+925;400;Itabuna;0
+20;676;Itajaí;186
+186;80;Itajaí;249
+249;357;Itajaí;347
+347;785;Itajaí;389
+389;309;Itajaí;464
+464;144;Itajaí;564
+564;33;Itajaí;686
+686;783;Itajaí;794
+794;164;Itajaí;934
+934;87;Itajaí;970
+970;859;Itajaí;0
+183;173;Itapipoca;0
+463;17;Jaboatão dos Guararapes;563
+563;845;Jaboatão dos Guararapes;622
+622;805;Jaboatão dos Guararapes;634
+634;949;Jaboatão dos Guararapes;721
+721;504;Jaboatão dos Guararapes;894
+894;556;Jaboatão dos Guararapes;0
+25;82;Joinville;235
+235;97;Joinville;323
+323;608;Joinville;0
+255;666;João Pessoa;329
+329;725;João Pessoa;875
+875;434;João Pessoa;0
+26;879;Juazeiro;28
+28;61;Juazeiro;263
+263;769;Juazeiro;272
+272;745;Juazeiro;324
+324;595;Juazeiro;332
+332;799;Juazeiro;399
+399;734;Juazeiro;411
+411;881;Juazeiro;511
+511;701;Juazeiro;609
+609;202;Juazeiro;775
+775;302;Juazeiro;962
+962;768;Juazeiro;0
+4;619;Juazeiro do Norte;232
+232;238;Juazeiro do Norte;639
+639;112;Juazeiro do Norte;677
+677;592;Juazeiro do Norte;820
+820;326;Juazeiro do Norte;946
+946;966;Juazeiro do Norte;0
+6;691;Juiz de Fora;51
+51;835;Juiz de Fora;213
+213;818;Juiz de Fora;241
+241;852;Juiz de Fora;426
+426;705;Juiz de Fora;487
+487;440;Juiz de Fora;526
+526;295;Juiz de Fora;587
+587;988;Juiz de Fora;659
+659;438;Juiz de Fora;717
+717;377;Juiz de Fora;0
+94;788;Jundiaí;117
+117;470;Jundiaí;126
+126;396;Jundiaí;169
+169;143;Jundiaí;173
+173;755;Jundiaí;238
+238;443;Jundiaí;303
+303;650;Jundiaí;306
+306;794;Jundiaí;312
+312;331;Jundiaí;401
+401;109;Jundiaí;419
+419;269;Jundiaí;452
+452;367;Jundiaí;475
+475;887;Jundiaí;501
+501;290;Jundiaí;519
+519;119;Jundiaí;552
+552;207;Jundiaí;575
+575;478;Jundiaí;627
+627;60;Jundiaí;628
+628;46;Jundiaí;635
+635;136;Jundiaí;642
+642;140;Jundiaí;679
+679;159;Jundiaí;723
+723;31;Jundiaí;799
+799;227;Jundiaí;809
+809;479;Jundiaí;865
+865;997;Jundiaí;908
+908;414;Jundiaí;926
+926;764;Jundiaí;0
+147;442;Lauro de Freitas;172
+172;856;Lauro de Freitas;198
+198;294;Lauro de Freitas;244
+244;958;Lauro de Freitas;288
+288;490;Lauro de Freitas;315
+315;91;Lauro de Freitas;356
+356;392;Lauro de Freitas;385
+385;957;Lauro de Freitas;601
+601;356;Lauro de Freitas;832
+832;959;Lauro de Freitas;851
+851;804;Lauro de Freitas;929
+929;782;Lauro de Freitas;959
+959;826;Lauro de Freitas;0
+195;724;Londrina;216
+216;505;Londrina;395
+395;616;Londrina;480
+480;866;Londrina;484
+484;655;Londrina;580
+580;693;Londrina;584
+584;849;Londrina;822
+822;444;Londrina;878
+878;339;Londrina;0
+681;362;Luziânia;854
+854;903;Luziânia;949
+949;352;Luziânia;988
+988;567;Luziânia;0
+150;388;Marabá;164
+164;830;Marabá;330
+330;493;Marabá;453
+453;168;Marabá;553
+553;615;Marabá;772
+772;300;Marabá;938
+938;90;Marabá;0
+54;578;Maracanaú;203
+203;722;Maracanaú;375
+375;913;Maracanaú;396
+396;904;Maracanaú;479
+479;499;Maracanaú;579
+579;789;Maracanaú;752
+752;951;Maracanaú;769
+769;374;Maracanaú;866
+866;458;Maracanaú;986
+986;905;Maracanaú;0
+106;631;Maranguape;270
+270;927;Maranguape;320
+320;635;Maranguape;465
+465;232;Maranguape;565
+565;591;Maranguape;603
+603;682;Maranguape;694
+694;399;Maranguape;827
+827;648;Maranguape;829
+829;214;Maranguape;936
+936;901;Maranguape;0
+18;371;Maringá;84
+84;539;Maringá;103
+103;863;Maringá;361
+361;108;Maringá;835
+835;704;Maringá;998
+998;882;Maringá;0
+10;494;Mauá;67
+67;38;Mauá;68
+68;75;Mauá;111
+111;373;Mauá;178
+178;793;Mauá;208
+208;110;Mauá;224
+224;649;Mauá;246
+246;209;Mauá;294
+294;857;Mauá;318
+318;656;Mauá;382
+382;987;Mauá;392
+392;102;Mauá;423
+423;487;Mauá;424
+424;81;Mauá;438
+438;709;Mauá;477
+477;343;Mauá;523
+523;532;Mauá;524
+524;600;Mauá;538
+538;311;Mauá;577
+577;781;Mauá;637
+637;115;Mauá;648
+648;198;Mauá;650
+650;289;Mauá;701
+701;797;Mauá;758
+758;716;Mauá;786
+786;780;Mauá;807
+807;5;Mauá;911
+911;342;Mauá;944
+944;563;Mauá;0
+31;808;Mogi das Cruzes;42
+42;538;Mogi das Cruzes;44
+44;57;Mogi das Cruzes;53
+53;13;Mogi das Cruzes;89
+89;566;Mogi das Cruzes;91
+91;888;Mogi das Cruzes;107
+107;273;Mogi das Cruzes;139
+139;963;Mogi das Cruzes;176
+176;851;Mogi das Cruzes;191
+191;950;Mogi das Cruzes;219
+219;577;Mogi das Cruzes;233
+233;66;Mogi das Cruzes;234
+234;381;Mogi das Cruzes;327
+327;854;Mogi das Cruzes;400
+400;205;Mogi das Cruzes;478
+478;151;Mogi das Cruzes;491
+491;473;Mogi das Cruzes;497
+497;365;Mogi das Cruzes;578
+578;543;Mogi das Cruzes;591
+591;307;Mogi das Cruzes;597
+597;482;Mogi das Cruzes;615
+615;735;Mogi das Cruzes;748
+748;642;Mogi das Cruzes;782
+782;264;Mogi das Cruzes;783
+783;95;Mogi das Cruzes;840
+840;283;Mogi das Cruzes;855
+855;876;Mogi das Cruzes;860
+860;316;Mogi das Cruzes;0
+131;523;Montes Claros;156
+156;327;Montes Claros;414
+414;344;Montes Claros;443
+443;313;Montes Claros;456
+456;484;Montes Claros;514
+514;813;Montes Claros;543
+543;58;Montes Claros;556
+556;270;Montes Claros;788
+788;394;Montes Claros;886
+886;453;Montes Claros;903
+903;694;Montes Claros;0
+141;105;Niterói;209
+209;778;Niterói;695
+695;390;Niterói;895
+895;124;Niterói;942
+942;644;Niterói;0
+73;320;Nova Iguaçu;153
+153;723;Nova Iguaçu;192
+192;350;Nova Iguaçu;210
+210;816;Nova Iguaçu;646
+646;976;Nova Iguaçu;805
+805;728;Nova Iguaçu;836
+836;554;Nova Iguaçu;856
+856;980;Nova Iguaçu;990
+990;4;Nova Iguaçu;999
+999;220;Nova Iguaçu;0
+194;461;Novo Hamburgo;251
+251;430;Novo Hamburgo;383
+383;919;Novo Hamburgo;390
+390;160;Novo Hamburgo;409
+409;878;Novo Hamburgo;492
+492;336;Novo Hamburgo;509
+509;843;Novo Hamburgo;592
+592;217;Novo Hamburgo;757
+757;262;Novo Hamburgo;0
+1;657;Olinda;256
+256;351;Olinda;271
+271;213;Olinda;285
+285;407;Olinda;291
+291;325;Olinda;367
+367;89;Olinda;850
+850;299;Olinda;877
+877;837;Olinda;892
+892;185;Olinda;0
+17;88;Osasco;70
+70;34;Osasco;88
+88;166;Osasco;119
+119;39;Osasco;135
+135;680;Osasco;143
+143;890;Osasco;171
+171;647;Osasco;221
+221;259;Osasco;349
+349;770;Osasco;360
+360;245;Osasco;378
+378;662;Osasco;394
+394;189;Osasco;412
+412;981;Osasco;413
+413;233;Osasco;466
+466;898;Osasco;512
+512;486;Osasco;513
+513;358;Osasco;566
+566;177;Osasco;613
+613;677;Osasco;666
+666;196;Osasco;682
+682;354;Osasco;768
+768;244;Osasco;791
+791;590;Osasco;884
+884;786;Osasco;0
+155;633;Paranaguá;179
+179;329;Paranaguá;937
+937;992;Paranaguá;0
+11;838;Parauapebas;93
+93;304;Parauapebas;610
+610;714;Parauapebas;663
+663;836;Parauapebas;971
+971;906;Parauapebas;0
+45;553;Paulista;122
+122;862;Paulista;129
+129;973;Paulista;167
+167;398;Paulista;214
+214;169;Paulista;295
+295;172;Paulista;406
+406;908;Paulista;433
+433;915;Paulista;506
+506;250;Paulista;533
+533;312;Paulista;604
+604;419;Paulista;631
+631;16;Paulista;923
+923;643;Paulista;0
+177;812;Paço do Lumiar;353
+353;930;Paço do Lumiar;454
+454;122;Paço do Lumiar;554
+554;598;Paço do Lumiar;647
+647;303;Paço do Lumiar;899
+899;349;Paço do Lumiar;0
+336;518;Pelotas;735
+735;831;Pelotas;0
+331;297;Petrolina;626
+626;496;Petrolina;667
+667;114;Petrolina;718
+718;503;Petrolina;1000
+1000;511;Petrolina;0
+13;762;Petrópolis;201
+201;891;Petrópolis;297
+297;864;Petrópolis;298
+298;983;Petrópolis;322
+322;865;Petrópolis;370
+370;574;Petrópolis;371
+371;389;Petrópolis;481
+481;19;Petrópolis;499
+499;736;Petrópolis;500
+500;844;Petrópolis;581
+581;846;Petrópolis;599
+599;685;Petrópolis;600
+600;535;Petrópolis;674
+674;488;Petrópolis;751
+751;154;Petrópolis;797
+797;909;Petrópolis;831
+831;282;Petrópolis;889
+889;955;Petrópolis;933
+933;451;Petrópolis;0
+24;529;Piracicaba;29
+29;739;Piracicaba;57
+57;597;Piracicaba;62
+62;985;Piracicaba;248
+248;719;Piracicaba;341
+341;610;Piracicaba;346
+346;897;Piracicaba;380
+380;953;Piracicaba;387
+387;338;Piracicaba;417
+417;670;Piracicaba;441
+441;141;Piracicaba;517
+517;405;Piracicaba;541
+541;497;Piracicaba;661
+661;98;Piracicaba;675
+675;129;Piracicaba;707
+707;759;Piracicaba;762
+762;404;Piracicaba;784
+784;347;Piracicaba;792
+792;257;Piracicaba;904
+904;69;Piracicaba;919
+919;401;Piracicaba;977
+977;810;Piracicaba;0
+95;330;Ponta Grossa;133
+133;218;Ponta Grossa;651
+651;301;Ponta Grossa;665
+665;471;Ponta Grossa;668
+668;560;Ponta Grossa;671
+671;663;Ponta Grossa;683
+683;573;Ponta Grossa;725
+725;36;Ponta Grossa;736
+736;989;Ponta Grossa;814
+814;111;Ponta Grossa;0
+158;947;Porto Alegre;455
+455;361;Porto Alegre;555
+555;480;Porto Alegre;700
+700;727;Porto Alegre;747
+747;596;Porto Alegre;883
+883;359;Porto Alegre;913
+913;224;Porto Alegre;955
+955;41;Porto Alegre;996
+996;954;Porto Alegre;0
+124;420;Recife;242
+242;221;Recife;408
+408;243;Recife;508
+508;668;Recife;828
+828;485;Recife;0
+8;266;Ribeirão Preto;65
+65;328;Ribeirão Preto;132
+132;52;Ribeirão Preto;137
+137;893;Ribeirão Preto;159
+159;380;Ribeirão Preto;259
+259;76;Ribeirão Preto;268
+268;638;Ribeirão Preto;276
+276;139;Ribeirão Preto;316
+316;924;Ribeirão Preto;328
+328;620;Ribeirão Preto;338
+338;384;Ribeirão Preto;339
+339;345;Ribeirão Preto;366
+366;690;Ribeirão Preto;373
+373;848;Ribeirão Preto;444
+444;170;Ribeirão Preto;493
+493;710;Ribeirão Preto;544
+544;386;Ribeirão Preto;593
+593;603;Ribeirão Preto;607
+607;513;Ribeirão Preto;624
+624;520;Ribeirão Preto;676
+676;580;Ribeirão Preto;705
+705;564;Ribeirão Preto;729
+729;547;Ribeirão Preto;738
+738;549;Ribeirão Preto;744
+744;70;Ribeirão Preto;756
+756;192;Ribeirão Preto;789
+789;604;Ribeirão Preto;804
+804;439;Ribeirão Preto;826
+826;187;Ribeirão Preto;890
+890;9;Ribeirão Preto;905
+905;575;Ribeirão Preto;920
+920;968;Ribeirão Preto;927
+927;315;Ribeirão Preto;994
+994;990;Ribeirão Preto;0
+49;171;Ribeirão das Neves;97
+97;219;Ribeirão das Neves;115
+115;431;Ribeirão das Neves;258
+258;445;Ribeirão das Neves;265
+265;579;Ribeirão das Neves;269
+269;740;Ribeirão das Neves;293
+293;636;Ribeirão das Neves;348
+348;403;Ribeirão das Neves;358
+358;446;Ribeirão das Neves;745
+745;861;Ribeirão das Neves;834
+834;271;Ribeirão das Neves;867
+867;2;Ribeirão das Neves;965
+965;972;Ribeirão das Neves;0
+83;321;Rio Grande;245
+245;436;Rio Grande;498
+498;10;Rio Grande;598
+598;542;Rio Grande;656
+656;208;Rio Grande;711
+711;624;Rio Grande;813
+813;133;Rio Grande;0
+351;212;Rio Verde;704
+704;613;Rio Verde;734
+734;229;Rio Verde;876
+876;188;Rio Verde;958
+958;101;Rio Verde;0
+32;432;Rio de Janeiro;92
+92;135;Rio de Janeiro;160
+160;230;Rio de Janeiro;206
+206;240;Rio de Janeiro;220
+220;85;Rio de Janeiro;460
+460;695;Rio de Janeiro;560
+560;889;Rio de Janeiro;684
+684;42;Rio de Janeiro;685
+685;298;Rio de Janeiro;755
+755;561;Rio de Janeiro;796
+796;802;Rio de Janeiro;930
+930;402;Rio de Janeiro;935
+935;265;Rio de Janeiro;983
+983;246;Rio de Janeiro;0
+43;406;Salvador;261
+261;750;Salvador;280
+280;875;Salvador;368
+368;152;Salvador;608
+608;986;Salvador;848
+848;337;Salvador;0
+471;895;Santa Inês;571
+571;83;Santa Inês;713
+713;508;Santa Inês;760
+760;472;Santa Inês;0
+299;533;Santa Luzia;377
+377;587;Santa Luzia;386
+386;743;Santa Luzia;388
+388;506;Santa Luzia;415
+415;427;Santa Luzia;515
+515;588;Santa Luzia;630
+630;737;Santa Luzia;810
+810;641;Santa Luzia;0
+56;437;Santa Maria;283
+283;292;Santa Maria;292
+292;509;Santa Maria;434
+434;368;Santa Maria;442
+442;912;Santa Maria;461
+461;534;Santa Maria;534
+534;692;Santa Maria;542
+542;661;Santa Maria;561
+561;35;Santa Maria;606
+606;726;Santa Maria;887
+887;65;Santa Maria;917
+917;965;Santa Maria;932
+932;900;Santa Maria;0
+21;106;Santa Rita;145
+145;748;Santa Rita;617
+617;127;Santa Rita;774
+774;960;Santa Rita;833
+833;570;Santa Rita;0
+30;459;Santarém;46
+46;74;Santarém;0
+48;868;Sete Lagoas;87
+87;697;Sete Lagoas;134
+134;594;Sete Lagoas;402
+402;654;Sete Lagoas;502
+502;612;Sete Lagoas;691
+691;894;Sete Lagoas;731
+731;639;Sete Lagoas;780
+780;195;Sete Lagoas;838
+838;501;Sete Lagoas;914
+914;6;Sete Lagoas;939
+939;235;Sete Lagoas;957
+957;721;Sete Lagoas;964
+964;78;Sete Lagoas;0
+14;447;Sobral;22
+22;223;Sobral;166
+166;428;Sobral;181
+181;717;Sobral;236
+236;423;Sobral;267
+267;911;Sobral;737
+737;761;Sobral;987
+987;489;Sobral;0
+699;452;Sousa;0
+41;385;São Gonçalo;151
+151;678;São Gonçalo;474
+474;236;São Gonçalo;574
+574;468;São Gonçalo;696
+696;839;São Gonçalo;845
+845;8;São Gonçalo;852
+852;26;São Gonçalo;857
+857;686;São Gonçalo;963
+963;372;São Gonçalo;0
+759;937;São José;793
+793;929;São José;0
+2;335;São José dos Pinhais;102
+102;629;São José dos Pinhais;0
+19;276;São João de Meriti;98
+98;410;São João de Meriti;182
+182;43;São João de Meriti;334
+334;147;São João de Meriti;472
+472;917;São João de Meriti;572
+572;314;São João de Meriti;712
+712;310;São João de Meriti;714
+714;772;São João de Meriti;728
+728;483;São João de Meriti;787
+787;1000;São João de Meriti;815
+815;182;São João de Meriti;862
+862;806;São João de Meriti;882
+882;558;São João de Meriti;915
+915;441;São João de Meriti;0
+60;850;São Luís;821
+821;803;São Luís;0
+35;660;Timon;340
+340;379;Timon;673
+673;153;Timon;951
+951;467;Timon;0
+72;53;Uberaba;240
+240;601;Uberaba;457
+457;528;Uberaba;557
+557;184;Uberaba;611
+611;258;Uberaba;641
+641;667;Uberaba;943
+943;450;Uberaba;945
+945;99;Uberaba;0
+69;787;Uberlândia;86
+86;961;Uberlândia;317
+317;370;Uberlândia;447
+447;132;Uberlândia;547
+547;495;Uberlândia;638
+638;765;Uberlândia;746
+746;562;Uberlândia;800
+800;795;Uberlândia;847
+847;870;Uberlândia;858
+858;449;Uberlândia;950
+950;599;Uberlândia;0
+7;653;Valparaíso de Goiás;228
+228;27;Valparaíso de Goiás;229
+229;689;Valparaíso de Goiás;910
+910;103;Valparaíso de Goiás;0
+33;253;Vitória da Conquista;82
+82;248;Vitória da Conquista;136
+136;627;Vitória da Conquista;170
+170;593;Vitória da Conquista;175
+175;183;Vitória da Conquista;470
+470;914;Vitória da Conquista;570
+570;626;Vitória da Conquista;652
+652;683;Vitória da Conquista;653
+653;936;Vitória da Conquista;801
+801;464;Vitória da Conquista;976
+976;261;Vitória da Conquista;0
+365;634;Águas Lindas de Goiás;432
+432;285;Águas Lindas de Goiás;532
+532;982;Águas Lindas de Goiás;873
+873;665;Águas Lindas de Goiás;0

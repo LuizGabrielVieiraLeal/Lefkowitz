@@ -1,0 +1,11 @@
+Setor;Qtd;Prim
+Financeiro;88;1
+Gerenciamento;114;9
+Jurídico;86;6
+Marketing;96;4
+Pesquisa e Desenvolvimento;95;18
+Recursos Humanos;113;31
+Relações Públicas;107;21
+Serviço ao Cliente;97;2
+Suporte Técnico;96;5
+Vendas;108;3

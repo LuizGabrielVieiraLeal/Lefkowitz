@@ -1,0 +1,1001 @@
+ED;ID;Setor
+1;657;Financeiro
+2;335;Serviço ao Cliente
+3;896;Vendas
+4;619;Marketing
+5;226;Suporte Técnico
+6;691;Jurídico
+7;653;Vendas
+8;266;Financeiro
+9;546;Gerenciamento
+10;494;Vendas
+11;838;Vendas
+12;199;Jurídico
+13;762;Gerenciamento
+14;447;Serviço ao Cliente
+15;130;Financeiro
+16;72;Serviço ao Cliente
+17;88;Financeiro
+18;371;Pesquisa e Desenvolvimento
+19;276;Marketing
+20;676;Pesquisa e Desenvolvimento
+21;106;Relações Públicas
+22;223;Suporte Técnico
+23;527;Suporte Técnico
+24;529;Marketing
+25;82;Gerenciamento
+26;879;Marketing
+27;730;Pesquisa e Desenvolvimento
+28;61;Financeiro
+29;739;Serviço ao Cliente
+30;459;Jurídico
+31;808;Recursos Humanos
+32;432;Vendas
+33;253;Relações Públicas
+34;395;Gerenciamento
+35;660;Serviço ao Cliente
+36;382;Serviço ao Cliente
+37;296;Relações Públicas
+38;216;Pesquisa e Desenvolvimento
+39;481;Gerenciamento
+40;334;Financeiro
+41;385;Vendas
+42;538;Relações Públicas
+43;406;Serviço ao Cliente
+44;57;Pesquisa e Desenvolvimento
+45;553;Recursos Humanos
+46;74;Relações Públicas
+47;260;Financeiro
+48;868;Recursos Humanos
+49;171;Pesquisa e Desenvolvimento
+50;779;Recursos Humanos
+51;835;Marketing
+52;688;Gerenciamento
+53;13;Gerenciamento
+54;578;Serviço ao Cliente
+55;161;Vendas
+56;437;Marketing
+57;597;Recursos Humanos
+58;684;Gerenciamento
+59;73;Recursos Humanos
+60;850;Gerenciamento
+61;715;Pesquisa e Desenvolvimento
+62;985;Gerenciamento
+63;995;Marketing
+64;517;Relações Públicas
+65;328;Jurídico
+66;519;Jurídico
+67;38;Pesquisa e Desenvolvimento
+68;75;Gerenciamento
+69;787;Financeiro
+70;34;Vendas
+71;500;Marketing
+72;53;Jurídico
+73;320;Recursos Humanos
+74;275;Suporte Técnico
+75;703;Financeiro
+76;767;Vendas
+77;751;Serviço ao Cliente
+78;210;Pesquisa e Desenvolvimento
+79;815;Pesquisa e Desenvolvimento
+80;998;Suporte Técnico
+81;424;Vendas
+82;248;Serviço ao Cliente
+83;321;Vendas
+84;539;Marketing
+85;516;Marketing
+86;961;Pesquisa e Desenvolvimento
+87;697;Relações Públicas
+88;166;Gerenciamento
+89;566;Recursos Humanos
+90;413;Relações Públicas
+91;888;Jurídico
+92;135;Marketing
+93;304;Relações Públicas
+94;788;Vendas
+95;330;Recursos Humanos
+96;234;Suporte Técnico
+97;219;Jurídico
+98;410;Gerenciamento
+99;323;Recursos Humanos
+100;931;Recursos Humanos
+101;775;Pesquisa e Desenvolvimento
+102;629;Pesquisa e Desenvolvimento
+103;863;Vendas
+104;498;Pesquisa e Desenvolvimento
+105;811;Serviço ao Cliente
+106;631;Recursos Humanos
+107;273;Relações Públicas
+108;96;Pesquisa e Desenvolvimento
+109;720;Marketing
+110;935;Jurídico
+111;373;Relações Públicas
+112;550;Marketing
+113;165;Gerenciamento
+114;204;Serviço ao Cliente
+115;431;Financeiro
+116;113;Suporte Técnico
+117;470;Pesquisa e Desenvolvimento
+118;671;Marketing
+119;39;Suporte Técnico
+120;718;Recursos Humanos
+121;522;Marketing
+122;862;Relações Públicas
+123;79;Financeiro
+124;420;Financeiro
+125;540;Pesquisa e Desenvolvimento
+126;396;Marketing
+127;286;Gerenciamento
+128;920;Suporte Técnico
+129;973;Gerenciamento
+130;131;Marketing
+131;523;Gerenciamento
+132;52;Relações Públicas
+133;218;Vendas
+134;594;Suporte Técnico
+135;680;Vendas
+136;627;Recursos Humanos
+137;893;Financeiro
+138;67;Financeiro
+139;963;Recursos Humanos
+140;943;Gerenciamento
+141;105;Financeiro
+142;584;Recursos Humanos
+143;890;Suporte Técnico
+144;658;Serviço ao Cliente
+145;748;Jurídico
+146;746;Suporte Técnico
+147;442;Marketing
+148;71;Suporte Técnico
+149;156;Pesquisa e Desenvolvimento
+150;388;Relações Públicas
+151;678;Relações Públicas
+152;249;Relações Públicas
+153;723;Relações Públicas
+154;885;Suporte Técnico
+155;633;Relações Públicas
+156;327;Pesquisa e Desenvolvimento
+157;557;Gerenciamento
+158;947;Serviço ao Cliente
+159;380;Jurídico
+160;230;Relações Públicas
+161;460;Pesquisa e Desenvolvimento
+162;872;Vendas
+163;237;Gerenciamento
+164;830;Recursos Humanos
+165;996;Gerenciamento
+166;428;Jurídico
+167;398;Serviço ao Cliente
+168;814;Gerenciamento
+169;143;Vendas
+170;593;Financeiro
+171;647;Pesquisa e Desenvolvimento
+172;856;Serviço ao Cliente
+173;755;Vendas
+174;625;Recursos Humanos
+175;183;Serviço ao Cliente
+176;851;Financeiro
+177;812;Relações Públicas
+178;793;Vendas
+179;329;Relações Públicas
+180;967;Vendas
+181;717;Relações Públicas
+182;43;Serviço ao Cliente
+183;173;Pesquisa e Desenvolvimento
+184;366;Pesquisa e Desenvolvimento
+185;456;Jurídico
+186;80;Suporte Técnico
+187;378;Marketing
+188;934;Jurídico
+189;847;Gerenciamento
+190;820;Suporte Técnico
+191;950;Relações Públicas
+192;350;Relações Públicas
+193;252;Relações Públicas
+194;461;Marketing
+195;724;Relações Públicas
+196;383;Gerenciamento
+197;777;Relações Públicas
+198;294;Vendas
+199;664;Gerenciamento
+200;167;Marketing
+201;891;Marketing
+202;355;Relações Públicas
+203;722;Vendas
+204;63;Financeiro
+205;645;Gerenciamento
+206;240;Gerenciamento
+207;145;Serviço ao Cliente
+208;110;Suporte Técnico
+209;778;Financeiro
+210;816;Recursos Humanos
+211;512;Pesquisa e Desenvolvimento
+212;18;Gerenciamento
+213;818;Relações Públicas
+214;169;Suporte Técnico
+215;582;Vendas
+216;505;Suporte Técnico
+217;318;Relações Públicas
+218;672;Vendas
+219;577;Relações Públicas
+220;85;Relações Públicas
+221;259;Marketing
+222;565;Gerenciamento
+223;921;Financeiro
+224;649;Pesquisa e Desenvolvimento
+225;673;Suporte Técnico
+226;774;Serviço ao Cliente
+227;555;Vendas
+228;27;Financeiro
+229;689;Marketing
+230;742;Vendas
+231;910;Recursos Humanos
+232;238;Vendas
+233;66;Recursos Humanos
+234;381;Marketing
+235;97;Jurídico
+236;423;Pesquisa e Desenvolvimento
+237;700;Financeiro
+238;443;Financeiro
+239;148;Recursos Humanos
+240;601;Vendas
+241;852;Relações Públicas
+242;221;Vendas
+243;477;Recursos Humanos
+244;958;Suporte Técnico
+245;436;Jurídico
+246;209;Pesquisa e Desenvolvimento
+247;197;Relações Públicas
+248;719;Recursos Humanos
+249;357;Marketing
+250;771;Financeiro
+251;430;Gerenciamento
+252;448;Recursos Humanos
+253;956;Gerenciamento
+254;29;Jurídico
+255;666;Relações Públicas
+256;351;Serviço ao Cliente
+257;798;Gerenciamento
+258;445;Marketing
+259;76;Vendas
+260;819;Relações Públicas
+261;750;Vendas
+262;422;Suporte Técnico
+263;769;Gerenciamento
+264;832;Jurídico
+265;579;Vendas
+266;104;Suporte Técnico
+267;911;Marketing
+268;638;Recursos Humanos
+269;740;Suporte Técnico
+270;927;Serviço ao Cliente
+271;213;Relações Públicas
+272;745;Financeiro
+273;7;Financeiro
+274;807;Vendas
+275;646;Vendas
+276;139;Gerenciamento
+277;40;Suporte Técnico
+278;426;Financeiro
+279;475;Pesquisa e Desenvolvimento
+280;875;Recursos Humanos
+281;545;Jurídico
+282;49;Recursos Humanos
+283;292;Pesquisa e Desenvolvimento
+284;37;Suporte Técnico
+285;407;Vendas
+286;696;Gerenciamento
+287;287;Recursos Humanos
+288;490;Serviço ao Cliente
+289;926;Recursos Humanos
+290;621;Serviço ao Cliente
+291;325;Financeiro
+292;509;Serviço ao Cliente
+293;636;Relações Públicas
+294;857;Vendas
+295;172;Serviço ao Cliente
+296;84;Jurídico
+297;864;Serviço ao Cliente
+298;983;Gerenciamento
+299;533;Marketing
+300;44;Serviço ao Cliente
+301;157;Gerenciamento
+302;375;Relações Públicas
+303;650;Vendas
+304;56;Vendas
+305;279;Marketing
+306;794;Relações Públicas
+307;747;Serviço ao Cliente
+308;758;Recursos Humanos
+309;712;Vendas
+310;3;Pesquisa e Desenvolvimento
+311;364;Relações Públicas
+312;331;Vendas
+313;425;Relações Públicas
+314;278;Jurídico
+315;91;Vendas
+316;924;Recursos Humanos
+317;370;Recursos Humanos
+318;656;Financeiro
+319;544;Relações Públicas
+320;635;Pesquisa e Desenvolvimento
+321;200;Vendas
+322;865;Financeiro
+323;608;Serviço ao Cliente
+324;595;Vendas
+325;994;Vendas
+326;391;Marketing
+327;854;Recursos Humanos
+328;620;Financeiro
+329;725;Recursos Humanos
+330;493;Pesquisa e Desenvolvimento
+331;297;Relações Públicas
+332;799;Gerenciamento
+333;948;Jurídico
+334;147;Pesquisa e Desenvolvimento
+335;800;Gerenciamento
+336;518;Jurídico
+337;272;Pesquisa e Desenvolvimento
+338;384;Suporte Técnico
+339;345;Vendas
+340;379;Jurídico
+341;610;Recursos Humanos
+342;178;Suporte Técnico
+343;118;Suporte Técnico
+344;206;Financeiro
+345;123;Relações Públicas
+346;897;Financeiro
+347;785;Recursos Humanos
+348;403;Vendas
+349;770;Jurídico
+350;941;Pesquisa e Desenvolvimento
+351;212;Serviço ao Cliente
+352;175;Pesquisa e Desenvolvimento
+353;930;Recursos Humanos
+354;126;Vendas
+355;117;Serviço ao Cliente
+356;392;Suporte Técnico
+357;760;Relações Públicas
+358;446;Financeiro
+359;681;Suporte Técnico
+360;245;Marketing
+361;108;Financeiro
+362;946;Recursos Humanos
+363;525;Marketing
+364;412;Recursos Humanos
+365;634;Recursos Humanos
+366;690;Vendas
+367;89;Relações Públicas
+368;152;Marketing
+369;829;Gerenciamento
+370;574;Recursos Humanos
+371;389;Serviço ao Cliente
+372;969;Gerenciamento
+373;848;Gerenciamento
+374;669;Financeiro
+375;913;Financeiro
+376;609;Pesquisa e Desenvolvimento
+377;587;Vendas
+378;662;Serviço ao Cliente
+379;502;Financeiro
+380;953;Relações Públicas
+381;280;Marketing
+382;987;Marketing
+383;919;Jurídico
+384;871;Marketing
+385;957;Marketing
+386;743;Relações Públicas
+387;338;Pesquisa e Desenvolvimento
+388;506;Vendas
+389;309;Pesquisa e Desenvolvimento
+390;160;Financeiro
+391;305;Relações Públicas
+392;102;Vendas
+393;353;Serviço ao Cliente
+394;189;Financeiro
+395;616;Suporte Técnico
+396;904;Vendas
+397;605;Recursos Humanos
+398;62;Serviço ao Cliente
+399;734;Relações Públicas
+400;205;Relações Públicas
+401;109;Marketing
+402;654;Suporte Técnico
+403;707;Vendas
+404;974;Marketing
+405;741;Relações Públicas
+406;908;Jurídico
+407;247;Relações Públicas
+408;243;Pesquisa e Desenvolvimento
+409;878;Jurídico
+410;841;Suporte Técnico
+411;881;Marketing
+412;981;Gerenciamento
+413;233;Pesquisa e Desenvolvimento
+414;344;Serviço ao Cliente
+415;427;Marketing
+416;348;Vendas
+417;670;Vendas
+418;255;Pesquisa e Desenvolvimento
+419;269;Recursos Humanos
+420;510;Relações Públicas
+421;24;Jurídico
+422;363;Jurídico
+423;487;Pesquisa e Desenvolvimento
+424;81;Recursos Humanos
+425;962;Recursos Humanos
+426;705;Marketing
+427;942;Pesquisa e Desenvolvimento
+428;877;Jurídico
+429;421;Marketing
+430;324;Suporte Técnico
+431;874;Serviço ao Cliente
+432;285;Financeiro
+433;915;Vendas
+434;368;Suporte Técnico
+435;632;Recursos Humanos
+436;251;Serviço ao Cliente
+437;263;Jurídico
+438;709;Financeiro
+439;907;Vendas
+440;925;Suporte Técnico
+441;141;Recursos Humanos
+442;912;Gerenciamento
+443;313;Serviço ao Cliente
+444;170;Suporte Técnico
+445;277;Relações Públicas
+446;306;Pesquisa e Desenvolvimento
+447;132;Suporte Técnico
+448;842;Recursos Humanos
+449;749;Gerenciamento
+450;622;Recursos Humanos
+451;932;Jurídico
+452;367;Suporte Técnico
+453;168;Gerenciamento
+454;122;Financeiro
+455;361;Relações Públicas
+456;484;Gerenciamento
+457;528;Suporte Técnico
+458;964;Marketing
+459;12;Serviço ao Cliente
+460;695;Vendas
+461;534;Vendas
+462;340;Gerenciamento
+463;17;Serviço ao Cliente
+464;144;Vendas
+465;232;Relações Públicas
+466;898;Financeiro
+467;706;Pesquisa e Desenvolvimento
+468;711;Financeiro
+469;738;Serviço ao Cliente
+470;914;Serviço ao Cliente
+471;895;Recursos Humanos
+472;917;Jurídico
+473;541;Pesquisa e Desenvolvimento
+474;236;Gerenciamento
+475;887;Recursos Humanos
+476;809;Jurídico
+477;343;Pesquisa e Desenvolvimento
+478;151;Gerenciamento
+479;499;Gerenciamento
+480;866;Pesquisa e Desenvolvimento
+481;19;Marketing
+482;918;Jurídico
+483;454;Gerenciamento
+484;655;Marketing
+485;433;Serviço ao Cliente
+486;583;Serviço ao Cliente
+487;440;Marketing
+488;415;Jurídico
+489;203;Financeiro
+490;231;Vendas
+491;473;Jurídico
+492;336;Recursos Humanos
+493;710;Serviço ao Cliente
+494;873;Vendas
+495;51;Financeiro
+496;699;Suporte Técnico
+497;365;Financeiro
+498;10;Pesquisa e Desenvolvimento
+499;736;Gerenciamento
+500;844;Jurídico
+501;290;Marketing
+502;612;Suporte Técnico
+503;455;Vendas
+504;618;Marketing
+505;752;Relações Públicas
+506;250;Jurídico
+507;551;Relações Públicas
+508;668;Pesquisa e Desenvolvimento
+509;843;Jurídico
+510;417;Suporte Técnico
+511;701;Marketing
+512;486;Gerenciamento
+513;358;Pesquisa e Desenvolvimento
+514;813;Serviço ao Cliente
+515;588;Marketing
+516;77;Vendas
+517;405;Vendas
+518;435;Pesquisa e Desenvolvimento
+519;119;Recursos Humanos
+520;457;Relações Públicas
+521;630;Jurídico
+522;733;Jurídico
+523;532;Pesquisa e Desenvolvimento
+524;600;Recursos Humanos
+525;970;Recursos Humanos
+526;295;Marketing
+527;474;Pesquisa e Desenvolvimento
+528;978;Jurídico
+529;572;Marketing
+530;155;Suporte Técnico
+531;92;Serviço ao Cliente
+532;982;Financeiro
+533;312;Vendas
+534;692;Suporte Técnico
+535;651;Recursos Humanos
+536;531;Serviço ao Cliente
+537;149;Jurídico
+538;311;Financeiro
+539;708;Vendas
+540;713;Suporte Técnico
+541;497;Recursos Humanos
+542;661;Gerenciamento
+543;58;Serviço ao Cliente
+544;386;Suporte Técnico
+545;47;Relações Públicas
+546;193;Pesquisa e Desenvolvimento
+547;495;Suporte Técnico
+548;825;Recursos Humanos
+549;869;Gerenciamento
+550;883;Recursos Humanos
+551;21;Jurídico
+552;207;Suporte Técnico
+553;615;Gerenciamento
+554;598;Financeiro
+555;480;Relações Públicas
+556;270;Gerenciamento
+557;184;Suporte Técnico
+558;754;Marketing
+559;15;Serviço ao Cliente
+560;889;Vendas
+561;35;Vendas
+562;784;Gerenciamento
+563;845;Serviço ao Cliente
+564;33;Vendas
+565;591;Relações Públicas
+566;177;Financeiro
+567;944;Pesquisa e Desenvolvimento
+568;602;Financeiro
+569;611;Serviço ao Cliente
+570;626;Serviço ao Cliente
+571;83;Recursos Humanos
+572;314;Jurídico
+573;858;Pesquisa e Desenvolvimento
+574;468;Gerenciamento
+575;478;Recursos Humanos
+576;163;Jurídico
+577;781;Pesquisa e Desenvolvimento
+578;543;Gerenciamento
+579;789;Gerenciamento
+580;693;Pesquisa e Desenvolvimento
+581;846;Marketing
+582;702;Jurídico
+583;796;Gerenciamento
+584;849;Marketing
+585;521;Serviço ao Cliente
+586;537;Serviço ao Cliente
+587;988;Marketing
+588;346;Jurídico
+589;833;Financeiro
+590;586;Vendas
+591;307;Jurídico
+592;217;Recursos Humanos
+593;603;Serviço ao Cliente
+594;536;Vendas
+595;416;Financeiro
+596;824;Suporte Técnico
+597;482;Financeiro
+598;542;Pesquisa e Desenvolvimento
+599;685;Gerenciamento
+600;535;Jurídico
+601;356;Relações Públicas
+602;387;Pesquisa e Desenvolvimento
+603;682;Financeiro
+604;419;Pesquisa e Desenvolvimento
+605;23;Serviço ao Cliente
+606;726;Vendas
+607;513;Relações Públicas
+608;986;Pesquisa e Desenvolvimento
+609;202;Suporte Técnico
+610;714;Vendas
+611;258;Serviço ao Cliente
+612;675;Jurídico
+613;677;Relações Públicas
+614;607;Pesquisa e Desenvolvimento
+615;735;Serviço ao Cliente
+616;20;Financeiro
+617;127;Marketing
+618;54;Recursos Humanos
+619;999;Jurídico
+620;977;Gerenciamento
+621;254;Relações Públicas
+622;805;Serviço ao Cliente
+623;507;Gerenciamento
+624;520;Marketing
+625;524;Pesquisa e Desenvolvimento
+626;496;Vendas
+627;60;Gerenciamento
+628;46;Recursos Humanos
+629;698;Pesquisa e Desenvolvimento
+630;737;Jurídico
+631;16;Vendas
+632;548;Gerenciamento
+633;614;Financeiro
+634;949;Relações Públicas
+635;136;Suporte Técnico
+636;659;Financeiro
+637;115;Recursos Humanos
+638;765;Suporte Técnico
+639;112;Pesquisa e Desenvolvimento
+640;491;Suporte Técnico
+641;667;Pesquisa e Desenvolvimento
+642;140;Gerenciamento
+643;975;Pesquisa e Desenvolvimento
+644;884;Serviço ao Cliente
+645;492;Financeiro
+646;976;Relações Públicas
+647;303;Jurídico
+648;198;Marketing
+649;120;Suporte Técnico
+650;289;Relações Públicas
+651;301;Suporte Técnico
+652;683;Gerenciamento
+653;936;Gerenciamento
+654;55;Gerenciamento
+655;744;Jurídico
+656;208;Recursos Humanos
+657;892;Financeiro
+658;59;Pesquisa e Desenvolvimento
+659;438;Relações Públicas
+660;902;Recursos Humanos
+661;98;Jurídico
+662;116;Gerenciamento
+663;836;Jurídico
+664;766;Suporte Técnico
+665;471;Relações Públicas
+666;196;Gerenciamento
+667;114;Relações Públicas
+668;560;Marketing
+669;940;Relações Públicas
+670;322;Recursos Humanos
+671;663;Jurídico
+672;28;Recursos Humanos
+673;153;Gerenciamento
+674;488;Serviço ao Cliente
+675;129;Serviço ao Cliente
+676;580;Gerenciamento
+677;592;Jurídico
+678;242;Vendas
+679;159;Marketing
+680;991;Gerenciamento
+681;362;Suporte Técnico
+682;354;Suporte Técnico
+683;573;Jurídico
+684;42;Relações Públicas
+685;298;Marketing
+686;783;Pesquisa e Desenvolvimento
+687;623;Marketing
+688;30;Suporte Técnico
+689;267;Financeiro
+690;790;Gerenciamento
+691;894;Suporte Técnico
+692;514;Serviço ao Cliente
+693;241;Suporte Técnico
+694;399;Marketing
+695;390;Marketing
+696;839;Vendas
+697;429;Relações Públicas
+698;22;Financeiro
+699;452;Relações Públicas
+700;727;Marketing
+701;797;Pesquisa e Desenvolvimento
+702;11;Financeiro
+703;732;Recursos Humanos
+704;613;Recursos Humanos
+705;564;Recursos Humanos
+706;469;Serviço ao Cliente
+707;759;Gerenciamento
+708;867;Jurídico
+709;225;Pesquisa e Desenvolvimento
+710;158;Marketing
+711;624;Serviço ao Cliente
+712;310;Pesquisa e Desenvolvimento
+713;508;Marketing
+714;772;Jurídico
+715;753;Pesquisa e Desenvolvimento
+716;526;Financeiro
+717;377;Suporte Técnico
+718;503;Vendas
+719;674;Gerenciamento
+720;333;Financeiro
+721;504;Gerenciamento
+722;308;Vendas
+723;31;Serviço ao Cliente
+724;606;Marketing
+725;36;Financeiro
+726;393;Marketing
+727;284;Vendas
+728;483;Pesquisa e Desenvolvimento
+729;547;Recursos Humanos
+730;190;Jurídico
+731;639;Vendas
+732;411;Serviço ao Cliente
+733;319;Recursos Humanos
+734;229;Financeiro
+735;831;Recursos Humanos
+736;989;Financeiro
+737;761;Financeiro
+738;549;Recursos Humanos
+739;211;Marketing
+740;515;Relações Públicas
+741;191;Vendas
+742;928;Jurídico
+743;107;Pesquisa e Desenvolvimento
+744;70;Jurídico
+745;861;Serviço ao Cliente
+746;562;Vendas
+747;596;Marketing
+748;642;Suporte Técnico
+749;25;Relações Públicas
+750;576;Suporte Técnico
+751;154;Gerenciamento
+752;951;Jurídico
+753;94;Financeiro
+754;48;Financeiro
+755;561;Relações Públicas
+756;192;Vendas
+757;262;Serviço ao Cliente
+758;716;Suporte Técnico
+759;937;Recursos Humanos
+760;472;Relações Públicas
+761;462;Gerenciamento
+762;404;Vendas
+763;317;Relações Públicas
+764;138;Jurídico
+765;222;Jurídico
+766;822;Suporte Técnico
+767;552;Relações Públicas
+768;244;Serviço ao Cliente
+769;374;Suporte Técnico
+770;268;Marketing
+771;360;Relações Públicas
+772;300;Relações Públicas
+773;256;Pesquisa e Desenvolvimento
+774;960;Recursos Humanos
+775;302;Vendas
+776;288;Pesquisa e Desenvolvimento
+777;194;Serviço ao Cliente
+778;792;Relações Públicas
+779;756;Jurídico
+780;195;Serviço ao Cliente
+781;923;Vendas
+782;264;Serviço ao Cliente
+783;95;Suporte Técnico
+784;347;Relações Públicas
+785;828;Recursos Humanos
+786;780;Recursos Humanos
+787;1000;Relações Públicas
+788;394;Pesquisa e Desenvolvimento
+789;604;Recursos Humanos
+790;773;Suporte Técnico
+791;590;Relações Públicas
+792;257;Jurídico
+793;929;Recursos Humanos
+794;164;Gerenciamento
+795;979;Gerenciamento
+796;802;Recursos Humanos
+797;909;Suporte Técnico
+798;180;Gerenciamento
+799;227;Relações Públicas
+800;795;Suporte Técnico
+801;464;Recursos Humanos
+802;186;Marketing
+803;68;Vendas
+804;439;Suporte Técnico
+805;728;Gerenciamento
+806;821;Pesquisa e Desenvolvimento
+807;5;Pesquisa e Desenvolvimento
+808;757;Marketing
+809;479;Jurídico
+810;641;Vendas
+811;886;Recursos Humanos
+812;939;Gerenciamento
+813;133;Serviço ao Cliente
+814;111;Relações Públicas
+815;182;Suporte Técnico
+816;397;Marketing
+817;637;Jurídico
+818;731;Recursos Humanos
+819;125;Financeiro
+820;326;Recursos Humanos
+821;803;Gerenciamento
+822;444;Serviço ao Cliente
+823;652;Jurídico
+824;617;Serviço ao Cliente
+825;239;Financeiro
+826;187;Vendas
+827;648;Recursos Humanos
+828;485;Recursos Humanos
+829;214;Suporte Técnico
+830;952;Suporte Técnico
+831;282;Vendas
+832;959;Serviço ao Cliente
+833;570;Gerenciamento
+834;271;Marketing
+835;704;Vendas
+836;554;Relações Públicas
+837;274;Recursos Humanos
+838;501;Suporte Técnico
+839;916;Suporte Técnico
+840;283;Recursos Humanos
+841;971;Suporte Técnico
+842;984;Financeiro
+843;93;Suporte Técnico
+844;179;Suporte Técnico
+845;8;Marketing
+846;581;Serviço ao Cliente
+847;870;Gerenciamento
+848;337;Financeiro
+849;585;Recursos Humanos
+850;299;Vendas
+851;804;Relações Públicas
+852;26;Recursos Humanos
+853;679;Vendas
+854;903;Suporte Técnico
+855;876;Jurídico
+856;980;Suporte Técnico
+857;686;Recursos Humanos
+858;449;Serviço ao Cliente
+859;142;Recursos Humanos
+860;316;Relações Públicas
+861;162;Serviço ao Cliente
+862;806;Recursos Humanos
+863;466;Pesquisa e Desenvolvimento
+864;899;Financeiro
+865;997;Recursos Humanos
+866;458;Pesquisa e Desenvolvimento
+867;2;Vendas
+868;993;Pesquisa e Desenvolvimento
+869;121;Marketing
+870;791;Recursos Humanos
+871;14;Jurídico
+872;181;Vendas
+873;665;Recursos Humanos
+874;855;Pesquisa e Desenvolvimento
+875;434;Recursos Humanos
+876;188;Serviço ao Cliente
+877;837;Relações Públicas
+878;339;Gerenciamento
+879;150;Gerenciamento
+880;938;Serviço ao Cliente
+881;64;Pesquisa e Desenvolvimento
+882;558;Gerenciamento
+883;359;Gerenciamento
+884;786;Pesquisa e Desenvolvimento
+885;840;Gerenciamento
+886;453;Recursos Humanos
+887;65;Financeiro
+888;568;Gerenciamento
+889;955;Vendas
+890;9;Marketing
+891;293;Serviço ao Cliente
+892;185;Serviço ao Cliente
+893;569;Serviço ao Cliente
+894;556;Marketing
+895;124;Gerenciamento
+896;922;Marketing
+897;291;Marketing
+898;801;Marketing
+899;349;Relações Públicas
+900;418;Vendas
+901;776;Relações Públicas
+902;100;Pesquisa e Desenvolvimento
+903;694;Suporte Técnico
+904;69;Marketing
+905;575;Pesquisa e Desenvolvimento
+906;687;Gerenciamento
+907;465;Recursos Humanos
+908;414;Gerenciamento
+909;763;Marketing
+910;103;Suporte Técnico
+911;342;Pesquisa e Desenvolvimento
+912;880;Serviço ao Cliente
+913;224;Serviço ao Cliente
+914;6;Vendas
+915;441;Relações Públicas
+916;146;Serviço ao Cliente
+917;965;Gerenciamento
+918;32;Pesquisa e Desenvolvimento
+919;401;Gerenciamento
+920;968;Relações Públicas
+921;571;Jurídico
+922;817;Financeiro
+923;643;Vendas
+924;369;Marketing
+925;400;Financeiro
+926;764;Recursos Humanos
+927;315;Marketing
+928;530;Suporte Técnico
+929;782;Marketing
+930;402;Vendas
+931;176;Suporte Técnico
+932;900;Recursos Humanos
+933;451;Recursos Humanos
+934;87;Vendas
+935;265;Recursos Humanos
+936;901;Jurídico
+937;992;Serviço ao Cliente
+938;90;Marketing
+939;235;Gerenciamento
+940;50;Vendas
+941;174;Vendas
+942;644;Gerenciamento
+943;450;Gerenciamento
+944;563;Financeiro
+945;99;Recursos Humanos
+946;966;Recursos Humanos
+947;476;Jurídico
+948;945;Marketing
+949;352;Relações Públicas
+950;599;Financeiro
+951;467;Relações Públicas
+952;933;Gerenciamento
+953;463;Serviço ao Cliente
+954;332;Suporte Técnico
+955;41;Vendas
+956;128;Relações Públicas
+957;721;Serviço ao Cliente
+958;101;Relações Públicas
+959;826;Suporte Técnico
+960;827;Gerenciamento
+961;1;Jurídico
+962;768;Gerenciamento
+963;372;Gerenciamento
+964;78;Vendas
+965;972;Recursos Humanos
+966;228;Jurídico
+967;559;Jurídico
+968;137;Vendas
+969;376;Recursos Humanos
+970;859;Gerenciamento
+971;906;Jurídico
+972;589;Financeiro
+973;341;Marketing
+974;281;Serviço ao Cliente
+975;408;Pesquisa e Desenvolvimento
+976;261;Suporte Técnico
+977;810;Financeiro
+978;86;Recursos Humanos
+979;860;Gerenciamento
+980;215;Suporte Técnico
+981;729;Recursos Humanos
+982;640;Relações Públicas
+983;246;Financeiro
+984;134;Financeiro
+985;201;Gerenciamento
+986;905;Financeiro
+987;489;Suporte Técnico
+988;567;Pesquisa e Desenvolvimento
+989;823;Serviço ao Cliente
+990;4;Gerenciamento
+991;409;Relações Públicas
+992;628;Jurídico
+993;834;Serviço ao Cliente
+994;990;Relações Públicas
+995;45;Suporte Técnico
+996;954;Marketing
+997;853;Gerenciamento
+998;882;Jurídico
+999;220;Marketing
+1000;511;Suporte Técnico

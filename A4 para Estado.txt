@@ -1,0 +1,1001 @@
+ED;ID;Estado
+26;879;BA
+33;253;BA
+136;627;BA
+152;249;BA
+170;593;BA
+172;856;BA
+175;183;BA
+180;967;BA
+199;664;BA
+202;355;BA
+261;750;BA
+272;745;BA
+277;40;BA
+288;490;BA
+300;44;BA
+311;364;BA
+315;91;BA
+332;799;BA
+337;272;BA
+355;117;BA
+368;152;BA
+372;969;BA
+385;957;BA
+399;734;BA
+411;881;BA
+421;24;BA
+422;363;BA
+489;203;BA
+511;701;BA
+521;630;BA
+522;733;BA
+589;833;BA
+601;356;BA
+608;986;BA
+609;202;BA
+652;683;BA
+727;284;BA
+749;25;BA
+798;180;BA
+863;466;BA
+868;993;BA
+869;121;BA
+916;146;BA
+921;571;BA
+959;826;BA
+962;768;BA
+976;261;BA
+28;61;Bahia
+43;406;Bahia
+77;751;Bahia
+82;248;Bahia
+105;811;Bahia
+128;920;Bahia
+147;442;Bahia
+190;820;Bahia
+197;777;Bahia
+198;294;Bahia
+215;582;Bahia
+217;318;Bahia
+244;958;Bahia
+253;956;Bahia
+263;769;Bahia
+273;7;Bahia
+275;646;Bahia
+280;875;Bahia
+324;595;Bahia
+326;391;Bahia
+354;126;Bahia
+356;392;Bahia
+407;247;Bahia
+428;877;Bahia
+470;914;Bahia
+482;918;Bahia
+507;551;Bahia
+528;978;Bahia
+570;626;Bahia
+582;702;Bahia
+616;20;Bahia
+653;936;Bahia
+664;766;Bahia
+697;429;Bahia
+710;158;Bahia
+720;333;Bahia
+775;302;Bahia
+801;464;Bahia
+812;939;Bahia
+832;959;Bahia
+848;337;Bahia
+851;804;Bahia
+906;687;Bahia
+925;400;Bahia
+929;782;Bahia
+4;619;CE
+54;578;CE
+106;631;CE
+118;671;CE
+166;428;CE
+183;173;CE
+232;238;CE
+236;423;CE
+270;927;CE
+274;807;CE
+352;175;CE
+357;760;CE
+375;913;CE
+396;904;CE
+425;962;CE
+465;232;CE
+479;499;CE
+525;970;CE
+565;591;CE
+579;789;CE
+639;112;CE
+693;241;CE
+737;761;CE
+764;138;CE
+769;374;CE
+776;288;CE
+829;214;CE
+985;201;CE
+5;226;Ceará
+14;447;Ceará
+22;223;Ceará
+181;717;Ceará
+203;722;Ceará
+267;911;Ceará
+289;926;Ceará
+320;635;Ceará
+350;941;Ceará
+603;682;Ceará
+645;492;Ceará
+677;592;Ceará
+694;399;Ceará
+752;951;Ceará
+820;326;Ceará
+827;648;Ceará
+866;458;Ceará
+891;293;Ceará
+909;763;Ceará
+936;901;Ceará
+946;966;Ceará
+986;905;Ceará
+987;489;Ceará
+7;653;GO
+52;688;GO
+113;165;GO
+185;456;GO
+200;167;GO
+257;798;GO
+262;422;GO
+351;212;GO
+365;634;GO
+830;952;GO
+854;903;GO
+912;880;GO
+949;352;GO
+958;101;GO
+969;376;GO
+90;413;Goiás
+187;378;Goiás
+228;27;Goiás
+229;689;Goiás
+432;285;Goiás
+532;982;Goiás
+619;999;Goiás
+636;659;Goiás
+649;120;Goiás
+681;362;Goiás
+704;613;Goiás
+734;229;Goiás
+870;791;Goiás
+873;665;Goiás
+876;188;Goiás
+880;938;Goiás
+910;103;Goiás
+988;567;Goiás
+37;296;MA
+66;519;MA
+81;424;MA
+96;234;MA
+114;204;MA
+123;79;MA
+125;540;MA
+188;934;MA
+247;197;MA
+290;621;MA
+333;948;MA
+393;353;MA
+454;122;MA
+467;706;MA
+469;738;MA
+471;895;MA
+554;598;MA
+567;944;MA
+569;611;MA
+571;83;MA
+614;607;MA
+647;303;MA
+687;623;MA
+713;508;MA
+760;472;MA
+861;162;MA
+899;349;MA
+940;50;MA
+951;467;MA
+36;382;MG
+48;868;MG
+49;171;MG
+51;835;MG
+64;517;MG
+72;53;MG
+87;697;MG
+97;219;MG
+101;775;MG
+104;498;MG
+116;113;MG
+131;523;MG
+148;71;MG
+156;327;MG
+213;818;MG
+237;700;MG
+240;601;MG
+250;771;MG
+260;819;MG
+265;579;MG
+299;533;MG
+302;375;MG
+381;280;MG
+388;506;MG
+391;305;MG
+402;654;MG
+415;427;MG
+430;324;MG
+443;313;MG
+457;528;MG
+462;340;MG
+502;612;MG
+515;588;MG
+530;155;MG
+543;58;MG
+557;184;MG
+562;784;MG
+611;258;MG
+633;614;MG
+640;491;MG
+641;667;MG
+660;902;MG
+669;940;MG
+691;894;MG
+709;225;MG
+717;377;MG
+746;562;MG
+780;195;MG
+800;795;MG
+810;641;MG
+846;581;MG
+847;870;MG
+853;679;MG
+867;2;MG
+879;150;MG
+886;453;MG
+903;694;MG
+914;6;MG
+943;450;MG
+950;599;MG
+953;463;MG
+957;721;MG
+964;78;MG
+965;972;MG
+15;130;Maranhão
+35;660;Maranhão
+47;260;Maranhão
+60;850;Maranhão
+79;815;Maranhão
+120;718;Maranhão
+161;460;Maranhão
+177;812;Maranhão
+310;3;Maranhão
+319;544;Maranhão
+340;379;Maranhão
+342;178;Maranhão
+344;206;Maranhão
+353;930;Maranhão
+431;874;Maranhão
+445;277;Maranhão
+448;842;Maranhão
+449;749;Maranhão
+450;622;Maranhão
+488;415;Maranhão
+494;873;Maranhão
+531;92;Maranhão
+545;47;Maranhão
+548;825;Maranhão
+549;869;Maranhão
+550;883;Maranhão
+588;346;Maranhão
+594;536;Maranhão
+602;387;Maranhão
+657;892;Maranhão
+673;153;Maranhão
+692;514;Maranhão
+716;526;Maranhão
+766;822;Maranhão
+771;360;Maranhão
+821;803;Maranhão
+824;617;Maranhão
+6;691;Minas Gerais
+69;787;Minas Gerais
+71;500;Minas Gerais
+86;961;Minas Gerais
+115;431;Minas Gerais
+134;594;Minas Gerais
+184;366;Minas Gerais
+225;673;Minas Gerais
+241;852;Minas Gerais
+258;445;Minas Gerais
+269;740;Minas Gerais
+281;545;Minas Gerais
+284;37;Minas Gerais
+287;287;Minas Gerais
+293;636;Minas Gerais
+313;425;Minas Gerais
+317;370;Minas Gerais
+348;403;Minas Gerais
+358;446;Minas Gerais
+364;412;Minas Gerais
+377;587;Minas Gerais
+386;743;Minas Gerais
+405;741;Minas Gerais
+414;344;Minas Gerais
+426;705;Minas Gerais
+437;263;Minas Gerais
+447;132;Minas Gerais
+456;484;Minas Gerais
+487;440;Minas Gerais
+505;752;Minas Gerais
+514;813;Minas Gerais
+526;295;Minas Gerais
+537;149;Minas Gerais
+547;495;Minas Gerais
+556;270;Minas Gerais
+587;988;Minas Gerais
+612;675;Minas Gerais
+630;737;Minas Gerais
+638;765;Minas Gerais
+659;438;Minas Gerais
+662;116;Minas Gerais
+689;267;Minas Gerais
+708;867;Minas Gerais
+731;639;Minas Gerais
+733;319;Minas Gerais
+745;861;Minas Gerais
+763;317;Minas Gerais
+788;394;Minas Gerais
+790;773;Minas Gerais
+816;397;Minas Gerais
+834;271;Minas Gerais
+838;501;Minas Gerais
+858;449;Minas Gerais
+859;142;Minas Gerais
+898;801;Minas Gerais
+918;32;Minas Gerais
+922;817;Minas Gerais
+928;530;Minas Gerais
+939;235;Minas Gerais
+945;99;Minas Gerais
+972;589;Minas Gerais
+992;628;Minas Gerais
+11;838;PA
+93;304;PA
+112;550;PA
+149;156;PA
+154;885;PA
+165;996;PA
+436;251;PA
+453;168;PA
+536;531;PA
+553;615;PA
+610;714;PA
+678;242;PA
+938;90;PA
+954;332;PA
+34;395;PB
+145;748;PB
+146;746;PB
+429;421;PB
+529;572;PB
+617;127;PB
+699;452;PB
+774;960;PB
+995;45;PB
+997;853;PB
+23;527;PE
+45;553;PE
+85;516;PE
+167;398;PE
+223;921;PE
+226;774;PE
+242;221;PE
+256;351;PE
+285;407;PE
+291;325;PE
+331;297;PE
+367;89;PE
+369;829;PE
+406;908;PE
+439;907;PE
+485;433;PE
+506;250;PE
+539;708;PE
+585;521;PE
+604;419;PE
+626;496;PE
+631;16;PE
+634;949;PE
+718;503;PE
+721;504;PE
+750;576;PE
+779;756;PE
+806;821;PE
+828;485;PE
+850;299;PE
+892;185;PE
+894;556;PE
+923;643;PE
+2;335;PR
+18;371;PR
+84;539;PR
+102;629;PR
+103;863;PR
+110;935;PR
+395;616;PR
+440;925;PR
+473;541;PR
+476;809;PR
+480;866;PR
+540;713;PR
+573;858;PR
+576;163;PR
+580;693;PR
+643;975;PR
+651;301;PR
+665;471;PR
+668;560;PR
+671;663;PR
+688;30;PR
+725;36;PR
+732;411;PR
+736;989;PR
+802;186;PR
+814;111;PR
+822;444;PR
+835;704;PR
+837;274;PR
+896;922;PR
+931;176;PR
+982;640;PR
+95;330;Paraná
+121;522;Paraná
+127;286;Paraná
+130;131;Paraná
+133;218;Paraná
+155;633;Paraná
+179;329;Paraná
+195;724;Paraná
+216;505;Paraná
+252;448;Paraná
+325;994;Paraná
+361;108;Paraná
+484;655;Paraná
+584;849;Paraná
+683;573;Paraná
+742;928;Paraná
+778;792;Paraná
+785;828;Paraná
+839;916;Paraná
+878;339;Paraná
+937;992;Paraná
+952;933;Paraná
+998;882;Paraná
+21;106;Paraíba
+144;658;Paraíba
+255;666;Paraíba
+266;104;Paraíba
+296;84;Paraíba
+329;725;Paraíba
+690;790;Paraíba
+795;979;Paraíba
+833;570;Paraíba
+875;434;Paraíba
+30;459;Pará
+46;74;Pará
+76;767;Pará
+138;67;Pará
+150;388;Pará
+164;830;Pará
+211;512;Pará
+330;493;Pará
+379;502;Pará
+410;841;Pará
+418;255;Pará
+451;932;Pará
+510;417;Pará
+518;435;Pará
+551;21;Pará
+629;698;Pará
+663;836;Pará
+672;28;Pará
+772;300;Pará
+818;731;Pará
+819;125;Pará
+842;984;Pará
+897;291;Pará
+971;906;Pará
+1;657;Pernambuco
+122;862;Pernambuco
+124;420;Pernambuco
+129;973;Pernambuco
+214;169;Pernambuco
+271;213;Pernambuco
+279;475;Pernambuco
+295;172;Pernambuco
+376;609;Pernambuco
+404;974;Pernambuco
+408;243;Pernambuco
+433;915;Pernambuco
+463;17;Pernambuco
+504;618;Pernambuco
+508;668;Pernambuco
+533;312;Pernambuco
+563;845;Pernambuco
+620;977;Pernambuco
+622;805;Pernambuco
+667;114;Pernambuco
+722;308;Pernambuco
+743;107;Pernambuco
+773;256;Pernambuco
+864;899;Pernambuco
+877;837;Pernambuco
+991;409;Pernambuco
+1000;511;Pernambuco
+13;762;RJ
+32;432;RJ
+73;320;RJ
+100;931;RJ
+108;96;RJ
+141;105;RJ
+151;678;RJ
+153;723;RJ
+160;230;RJ
+162;872;RJ
+182;43;RJ
+192;350;RJ
+206;240;RJ
+209;778;RJ
+298;983;RJ
+301;157;RJ
+321;200;RJ
+371;389;RJ
+416;348;RJ
+481;19;RJ
+516;77;RJ
+581;846;RJ
+684;42;RJ
+695;390;RJ
+698;22;RJ
+751;154;RJ
+753;94;RJ
+755;561;RJ
+787;1000;RJ
+796;802;RJ
+805;728;RJ
+811;886;RJ
+815;182;RJ
+856;980;RJ
+874;855;RJ
+895;124;RJ
+915;441;RJ
+963;372;RJ
+975;408;RJ
+990;4;RJ
+83;321;RS
+142;584;RS
+158;947;RS
+189;847;RS
+194;461;RS
+205;645;RS
+207;145;RS
+218;672;RS
+239;148;RS
+245;436;RS
+292;509;RS
+343;118;RS
+409;878;RS
+455;361;RS
+461;534;RS
+483;454;RS
+496;699;RS
+498;10;RS
+509;843;RS
+555;480;RS
+561;35;RS
+583;796;RS
+596;824;RS
+598;542;RS
+654;55;RS
+658;59;RS
+711;624;RS
+740;515;RS
+747;596;RS
+761;462;RS
+883;359;RS
+913;224;RS
+960;827;RS
+973;341;RS
+996;954;RS
+3;896;Rio Grande do Sul
+56;437;Rio Grande do Sul
+99;323;Rio Grande do Sul
+251;430;Rio Grande do Sul
+278;426;Rio Grande do Sul
+283;292;Rio Grande do Sul
+336;518;Rio Grande do Sul
+345;123;Rio Grande do Sul
+383;919;Rio Grande do Sul
+390;160;Rio Grande do Sul
+434;368;Rio Grande do Sul
+442;912;Rio Grande do Sul
+486;583;Rio Grande do Sul
+492;336;Rio Grande do Sul
+534;692;Rio Grande do Sul
+542;661;Rio Grande do Sul
+586;537;Rio Grande do Sul
+592;217;Rio Grande do Sul
+606;726;Rio Grande do Sul
+656;208;Rio Grande do Sul
+670;322;Rio Grande do Sul
+700;727;Rio Grande do Sul
+724;606;Rio Grande do Sul
+735;831;Rio Grande do Sul
+757;262;Rio Grande do Sul
+813;133;Rio Grande do Sul
+887;65;Rio Grande do Sul
+900;418;Rio Grande do Sul
+907;465;Rio Grande do Sul
+917;965;Rio Grande do Sul
+924;369;Rio Grande do Sul
+932;900;Rio Grande do Sul
+948;945;Rio Grande do Sul
+955;41;Rio Grande do Sul
+961;1;Rio Grande do Sul
+974;281;Rio Grande do Sul
+993;834;Rio Grande do Sul
+12;199;Rio de Janeiro
+19;276;Rio de Janeiro
+41;385;Rio de Janeiro
+92;135;Rio de Janeiro
+98;410;Rio de Janeiro
+196;383;Rio de Janeiro
+201;891;Rio de Janeiro
+204;63;Rio de Janeiro
+210;816;Rio de Janeiro
+220;85;Rio de Janeiro
+282;49;Rio de Janeiro
+297;864;Rio de Janeiro
+322;865;Rio de Janeiro
+334;147;Rio de Janeiro
+370;574;Rio de Janeiro
+460;695;Rio de Janeiro
+472;917;Rio de Janeiro
+474;236;Rio de Janeiro
+490;231;Rio de Janeiro
+499;736;Rio de Janeiro
+500;844;Rio de Janeiro
+560;889;Rio de Janeiro
+572;314;Rio de Janeiro
+574;468;Rio de Janeiro
+590;586;Rio de Janeiro
+599;685;Rio de Janeiro
+600;535;Rio de Janeiro
+646;976;Rio de Janeiro
+674;488;Rio de Janeiro
+685;298;Rio de Janeiro
+696;839;Rio de Janeiro
+712;310;Rio de Janeiro
+714;772;Rio de Janeiro
+728;483;Rio de Janeiro
+730;190;Rio de Janeiro
+797;909;Rio de Janeiro
+808;757;Rio de Janeiro
+831;282;Rio de Janeiro
+836;554;Rio de Janeiro
+845;8;Rio de Janeiro
+852;26;Rio de Janeiro
+857;686;Rio de Janeiro
+862;806;Rio de Janeiro
+882;558;Rio de Janeiro
+889;955;Rio de Janeiro
+893;569;Rio de Janeiro
+930;402;Rio de Janeiro
+933;451;Rio de Janeiro
+935;265;Rio de Janeiro
+942;644;Rio de Janeiro
+983;246;Rio de Janeiro
+999;220;Rio de Janeiro
+16;72;SC
+20;676;SC
+39;481;SC
+235;97;SC
+254;29;SC
+264;832;SC
+389;309;SC
+464;144;SC
+564;33;SC
+706;469;SC
+765;222;SC
+770;268;SC
+793;929;SC
+970;859;SC
+979;860;SC
+984;134;SC
+8;266;SP
+10;494;SP
+17;88;SP
+24;529;SP
+40;334;SP
+42;538;SP
+44;57;SP
+50;779;SP
+53;13;SP
+57;597;SP
+58;684;SP
+59;73;SP
+62;985;SP
+67;38;SP
+75;703;SP
+88;166;SP
+89;566;SP
+91;888;SP
+94;788;SP
+109;720;SP
+117;470;SP
+119;39;SP
+126;396;SP
+135;680;SP
+140;943;SP
+143;890;SP
+157;557;SP
+171;647;SP
+173;755;SP
+174;625;SP
+176;851;SP
+193;252;SP
+212;18;SP
+219;577;SP
+222;565;SP
+230;742;SP
+231;910;SP
+233;66;SP
+238;443;SP
+248;719;SP
+259;76;SP
+268;638;SP
+276;139;SP
+286;696;SP
+303;650;SP
+305;279;SP
+306;794;SP
+312;331;SP
+327;854;SP
+328;620;SP
+339;345;SP
+341;610;SP
+346;897;SP
+359;681;SP
+362;946;SP
+373;848;SP
+374;669;SP
+384;871;SP
+398;62;SP
+417;670;SP
+419;269;SP
+423;487;SP
+424;81;SP
+435;632;SP
+438;709;SP
+441;141;SP
+446;306;SP
+452;367;SP
+459;12;SP
+468;711;SP
+478;151;SP
+517;405;SP
+519;119;SP
+523;532;SP
+524;600;SP
+535;651;SP
+538;311;SP
+541;497;SP
+546;193;SP
+552;207;SP
+559;15;SP
+568;602;SP
+578;543;SP
+618;54;SP
+621;254;SP
+627;60;SP
+628;46;SP
+632;548;SP
+642;140;SP
+650;289;SP
+655;744;SP
+675;129;SP
+679;159;SP
+702;11;SP
+707;759;SP
+729;547;SP
+739;211;SP
+748;642;SP
+754;48;SP
+756;192;SP
+758;716;SP
+762;404;SP
+767;552;SP
+777;194;SP
+782;264;SP
+784;347;SP
+799;227;SP
+803;68;SP
+804;439;SP
+823;652;SP
+825;239;SP
+826;187;SP
+841;971;SP
+849;585;SP
+855;876;SP
+860;316;SP
+881;64;SP
+884;786;SP
+885;840;SP
+888;568;SP
+890;9;SP
+911;342;SP
+947;476;SP
+966;228;SP
+989;823;SP
+25;82;Santa Catarina
+63;995;Santa Catarina
+74;275;Santa Catarina
+186;80;Santa Catarina
+249;357;Santa Catarina
+308;758;Santa Catarina
+314;278;Santa Catarina
+323;608;Santa Catarina
+347;785;Santa Catarina
+397;605;Santa Catarina
+680;991;Santa Catarina
+686;783;Santa Catarina
+703;732;Santa Catarina
+759;937;Santa Catarina
+794;164;Santa Catarina
+817;637;Santa Catarina
+871;14;Santa Catarina
+934;87;Santa Catarina
+956;128;Santa Catarina
+967;559;Santa Catarina
+9;546;São Paulo
+27;730;São Paulo
+29;739;São Paulo
+31;808;São Paulo
+38;216;São Paulo
+55;161;São Paulo
+61;715;São Paulo
+65;328;São Paulo
+68;75;São Paulo
+70;34;São Paulo
+78;210;São Paulo
+80;998;São Paulo
+107;273;São Paulo
+111;373;São Paulo
+132;52;São Paulo
+137;893;São Paulo
+139;963;São Paulo
+159;380;São Paulo
+163;237;São Paulo
+168;814;São Paulo
+169;143;São Paulo
+178;793;São Paulo
+191;950;São Paulo
+208;110;São Paulo
+221;259;São Paulo
+224;649;São Paulo
+227;555;São Paulo
+234;381;São Paulo
+243;477;São Paulo
+246;209;São Paulo
+294;857;São Paulo
+304;56;São Paulo
+307;747;São Paulo
+309;712;São Paulo
+316;924;São Paulo
+318;656;São Paulo
+335;800;São Paulo
+338;384;São Paulo
+349;770;São Paulo
+360;245;São Paulo
+363;525;São Paulo
+366;690;São Paulo
+378;662;São Paulo
+380;953;São Paulo
+382;987;São Paulo
+387;338;São Paulo
+392;102;São Paulo
+394;189;São Paulo
+400;205;São Paulo
+401;109;São Paulo
+403;707;São Paulo
+412;981;São Paulo
+413;233;São Paulo
+420;510;São Paulo
+427;942;São Paulo
+444;170;São Paulo
+458;964;São Paulo
+466;898;São Paulo
+475;887;São Paulo
+477;343;São Paulo
+491;473;São Paulo
+493;710;São Paulo
+495;51;São Paulo
+497;365;São Paulo
+501;290;São Paulo
+503;455;São Paulo
+512;486;São Paulo
+513;358;São Paulo
+520;457;São Paulo
+527;474;São Paulo
+544;386;São Paulo
+558;754;São Paulo
+566;177;São Paulo
+575;478;São Paulo
+577;781;São Paulo
+591;307;São Paulo
+593;603;São Paulo
+595;416;São Paulo
+597;482;São Paulo
+605;23;São Paulo
+607;513;São Paulo
+613;677;São Paulo
+615;735;São Paulo
+623;507;São Paulo
+624;520;São Paulo
+625;524;São Paulo
+635;136;São Paulo
+637;115;São Paulo
+644;884;São Paulo
+648;198;São Paulo
+661;98;São Paulo
+666;196;São Paulo
+676;580;São Paulo
+682;354;São Paulo
+701;797;São Paulo
+705;564;São Paulo
+715;753;São Paulo
+719;674;São Paulo
+723;31;São Paulo
+726;393;São Paulo
+738;549;São Paulo
+741;191;São Paulo
+744;70;São Paulo
+768;244;São Paulo
+781;923;São Paulo
+783;95;São Paulo
+786;780;São Paulo
+789;604;São Paulo
+791;590;São Paulo
+792;257;São Paulo
+807;5;São Paulo
+809;479;São Paulo
+840;283;São Paulo
+843;93;São Paulo
+844;179;São Paulo
+865;997;São Paulo
+872;181;São Paulo
+901;776;São Paulo
+902;100;São Paulo
+904;69;São Paulo
+905;575;São Paulo
+908;414;São Paulo
+919;401;São Paulo
+920;968;São Paulo
+926;764;São Paulo
+927;315;São Paulo
+941;174;São Paulo
+944;563;São Paulo
+968;137;São Paulo
+977;810;São Paulo
+978;86;São Paulo
+980;215;São Paulo
+981;729;São Paulo
+994;990;São Paulo

@@ -1,0 +1,1001 @@
+Nome;Sobrenome;Cidade;Estado;Data_Nascimento;Setor;Estado_Civil;Salario
+Vernon;Clark;Olinda;Pernambuco;26/12/35;Financeiro;Solteiro;R$9,181
+Bryar;Higgins;São José dos Pinhais;PR;15/01/10;Serviço ao Cliente;Casado;R$8,431
+Isabelle;Townsend;Caxias do Sul;Rio Grande do Sul;26/03/17;Vendas;Viúvo;R$7,759
+Leilani;Burke;Juazeiro do Norte;CE;10/07/88;Marketing;Solteiro;R$5,609
+Yolanda;Albert;Caucaia;Ceará;01/01/70;Suporte Técnico;Divorciado;R$6,778
+Jared;Shields;Juiz de Fora;Minas Gerais;06/07/85;Jurídico;Casado;R$8,668
+Pearl;Lowery;Valparaíso de Goiás;GO;28/07/51;Vendas;Viúvo;R$6,168
+Kiona;Lara;Ribeirão Preto;SP;05/04/65;Financeiro;Divorciado;R$9,339
+Nehru;Sanford;Carapicuíba;São Paulo;18/10/31;Gerenciamento;Solteiro;R$6,933
+Kelly;Thornton;Mauá;SP;10/04/19;Vendas;Casado;R$9,203
+Kelsie;Beach;Parauapebas;PA;13/01/03;Vendas;Casado;R$9,870
+Theodore;Baxter;Duque de Caxias;Rio de Janeiro;18/11/54;Jurídico;Solteiro;R$7,382
+Griffin;Lindsay;Petrópolis;RJ;09/03/68;Gerenciamento;Solteiro;R$6,217
+Charlotte;Cabrera;Sobral;Ceará;08/03/79;Serviço ao Cliente;Divorciado;R$9,338
+Nicole;Gaines;Imperatriz;Maranhão;25/08/79;Financeiro;Divorciado;R$8,752
+Erasmus;Dodson;Chapecó;SC;07/08/45;Serviço ao Cliente;Divorciado;R$6,534
+Christopher;Estes;Osasco;SP;04/06/96;Financeiro;Casado;R$8,698
+Madaline;Gonzalez;Maringá;PR;03/07/75;Pesquisa e Desenvolvimento;Divorciado;R$9,673
+Drew;Walsh;São João de Meriti;Rio de Janeiro;24/05/30;Marketing;Solteiro;R$6,322
+Amber;Hardy;Itajaí;SC;09/04/94;Pesquisa e Desenvolvimento;Solteiro;R$8,868
+Chaney;Cobb;Santa Rita;Paraíba;20/12/41;Relações Públicas;Viúvo;R$7,966
+Darius;Sellers;Sobral;Ceará;05/06/04;Suporte Técnico;Viúvo;R$7,044
+Axel;Fulton;Caruaru;PE;14/02/88;Suporte Técnico;Divorciado;R$7,043
+Graiden;Patel;Piracicaba;SP;01/07/75;Marketing;Divorciado;R$6,733
+Ira;Brown;Joinville;Santa Catarina;03/10/49;Gerenciamento;Viúvo;R$9,406
+Bevis;Glass;Juazeiro;BA;02/08/18;Marketing;Casado;R$8,657
+Vielka;Mueller;Campinas;São Paulo;18/12/58;Pesquisa e Desenvolvimento;Solteiro;R$7,005
+May;Stark;Juazeiro;Bahia;15/06/55;Financeiro;Viúvo;R$8,158
+Mark;Kerr;Piracicaba;São Paulo;19/01/36;Serviço ao Cliente;Casado;R$5,450
+Grant;Glenn;Santarém;Pará;17/06/68;Jurídico;Divorciado;R$7,286
+Clark;Tucker;Mogi das Cruzes;São Paulo;20/03/77;Recursos Humanos;Casado;R$7,690
+Hedy;Christian;Rio de Janeiro;RJ;28/02/12;Vendas;Solteiro;R$8,291
+Wang;Peterson;Vitória da Conquista;BA;12/12/07;Relações Públicas;Divorciado;R$6,542
+Uriah;Hendrix;Cajazeiras;PB;05/04/18;Gerenciamento;Casado;R$7,759
+Harding;Vazquez;Timon;Maranhão;17/01/56;Serviço ao Cliente;Viúvo;R$5,100
+Malcolm;Cooley;Divinópolis;MG;28/02/59;Serviço ao Cliente;Viúvo;R$9,997
+Donovan;Potter;Barra do Corda;MA;27/05/19;Relações Públicas;Solteiro;R$6,271
+Bernard;Hardin;Campinas;São Paulo;11/01/44;Pesquisa e Desenvolvimento;Solteiro;R$7,497
+Dai;Tillman;Criciúma;SC;21/09/70;Gerenciamento;Solteiro;R$6,893
+Drake;Carson;Campinas;SP;24/12/48;Financeiro;Viúvo;R$8,984
+Rhonda;Cook;São Gonçalo;Rio de Janeiro;17/01/13;Vendas;Casado;R$8,884
+Meghan;Frye;Mogi das Cruzes;SP;25/05/77;Relações Públicas;Viúvo;R$6,099
+Vivian;Savage;Salvador;Bahia;20/03/36;Serviço ao Cliente;Casado;R$7,739
+Hamish;Saunders;Mogi das Cruzes;SP;18/02/54;Pesquisa e Desenvolvimento;Solteiro;R$8,545
+Ava;Gomez;Paulista;PE;06/05/59;Recursos Humanos;Viúvo;R$9,428
+Leilani;Coffey;Santarém;Pará;06/03/84;Relações Públicas;Viúvo;R$8,941
+Sage;Romero;Balsas;Maranhão;18/06/33;Financeiro;Divorciado;R$8,441
+Erasmus;Mcconnell;Sete Lagoas;MG;22/05/54;Recursos Humanos;Divorciado;R$7,409
+Caleb;Conway;Ribeirão das Neves;MG;06/11/32;Pesquisa e Desenvolvimento;Casado;R$5,385
+Megan;Chandler;Guarulhos;SP;26/07/12;Recursos Humanos;Solteiro;R$7,073
+Travis;Shaw;Juiz de Fora;MG;25/06/06;Marketing;Divorciado;R$9,290
+Zephania;Powell;Anápolis;GO;15/11/50;Gerenciamento;Viúvo;R$9,329
+Wyatt;Yates;Mogi das Cruzes;SP;21/04/09;Gerenciamento;Viúvo;R$7,736
+Jared;Austin;Maracanaú;CE;06/06/52;Serviço ao Cliente;Viúvo;R$5,996
+Abigail;Kane;Carapicuíba;São Paulo;25/12/43;Vendas;Solteiro;R$6,760
+Jamal;Fitzgerald;Santa Maria;Rio Grande do Sul;26/04/60;Marketing;Divorciado;R$5,980
+Marny;Mendoza;Piracicaba;SP;24/11/40;Recursos Humanos;Divorciado;R$8,274
+Holmes;Kramer;Carapicuíba;SP;08/03/76;Gerenciamento;Viúvo;R$7,391
+Denise;Whitehead;Carapicuíba;SP;08/11/06;Recursos Humanos;Divorciado;R$8,523
+Pandora;Woodward;São Luís;Maranhão;23/07/90;Gerenciamento;Casado;R$9,077
+Grant;Huff;Carapicuíba;São Paulo;26/08/05;Pesquisa e Desenvolvimento;Solteiro;R$5,908
+Castor;Mays;Piracicaba;SP;30/07/80;Gerenciamento;Solteiro;R$7,759
+Ezekiel;Walter;Blumenau;Santa Catarina;06/09/63;Marketing;Solteiro;R$8,682
+Xyla;Page;Contagem;MG;30/05/38;Relações Públicas;Casado;R$7,435
+Leo;Black;Ribeirão Preto;São Paulo;21/02/69;Jurídico;Divorciado;R$5,438
+Barclay;Gibbs;Bacabal;MA;12/07/62;Jurídico;Divorciado;R$8,521
+Abbot;Santos;Mauá;SP;21/08/58;Pesquisa e Desenvolvimento;Solteiro;R$5,292
+Mercedes;Rose;Mauá;São Paulo;12/10/54;Gerenciamento;Viúvo;R$5,973
+Haley;Chaney;Uberlândia;Minas Gerais;20/05/13;Financeiro;Solteiro;R$8,744
+Halla;Perry;Osasco;São Paulo;12/05/78;Vendas;Viúvo;R$9,219
+Jennifer;Alvarado;Contagem;Minas Gerais;21/03/37;Marketing;Casado;R$9,604
+Yetta;Yates;Uberaba;MG;26/08/39;Jurídico;Casado;R$6,871
+Carl;Hodges;Nova Iguaçu;RJ;05/09/82;Recursos Humanos;Divorciado;R$8,657
+Leila;Schultz;Chapecó;Santa Catarina;25/08/52;Suporte Técnico;Casado;R$9,092
+Cora;Spencer;Carapicuíba;SP;27/01/51;Financeiro;Solteiro;R$5,359
+Remedios;Wise;Cametá;Pará;16/09/94;Vendas;Solteiro;R$6,921
+Irene;Maynard;Ilhéus;Bahia;05/12/37;Serviço ao Cliente;Casado;R$6,496
+Jessica;Clayton;Diadema;São Paulo;02/04/93;Pesquisa e Desenvolvimento;Casado;R$8,769
+Avye;Farmer;Bacabal;Maranhão;31/01/56;Pesquisa e Desenvolvimento;Casado;R$7,097
+Ivana;Conway;Guarulhos;São Paulo;04/11/34;Suporte Técnico;Solteiro;R$6,502
+Keane;Zamora;Barra do Corda;MA;23/12/97;Vendas;Divorciado;R$6,983
+Lael;Potter;Vitória da Conquista;Bahia;10/09/07;Serviço ao Cliente;Casado;R$7,650
+Felicia;Walters;Rio Grande;RS;17/05/62;Vendas;Casado;R$9,555
+Quin;Vega;Maringá;PR;05/03/44;Marketing;Solteiro;R$7,307
+Ruby;Hernandez;Camaragibe;PE;19/12/79;Marketing;Divorciado;R$5,301
+Forrest;Alston;Uberlândia;Minas Gerais;30/03/97;Pesquisa e Desenvolvimento;Casado;R$9,433
+Fletcher;Drake;Sete Lagoas;MG;09/09/74;Relações Públicas;Solteiro;R$6,685
+Anthony;Lowe;Osasco;SP;28/06/85;Gerenciamento;Viúvo;R$6,279
+Ivor;Hobbs;Mogi das Cruzes;SP;25/02/31;Recursos Humanos;Divorciado;R$7,857
+Yolanda;Mckee;Anápolis;Goiás;07/08/91;Relações Públicas;Viúvo;R$7,636
+Brendan;Kirkland;Mogi das Cruzes;SP;21/12/80;Jurídico;Casado;R$7,025
+Dalton;Hogan;Rio de Janeiro;Rio de Janeiro;04/02/33;Marketing;Divorciado;R$8,326
+Felicia;Hall;Parauapebas;PA;28/10/31;Relações Públicas;Casado;R$5,038
+Deacon;Leblanc;Jundiaí;SP;20/04/85;Vendas;Divorciado;R$8,209
+Wade;Lancaster;Ponta Grossa;Paraná;16/10/83;Recursos Humanos;Solteiro;R$8,037
+Emma;Simmons;Balsas;MA;27/08/59;Suporte Técnico;Divorciado;R$9,762
+Hadassah;Ratliff;Ribeirão das Neves;MG;21/06/39;Jurídico;Casado;R$9,199
+Vance;Hicks;São João de Meriti;Rio de Janeiro;01/09/30;Gerenciamento;Viúvo;R$5,113
+Camden;Ewing;Canoas;Rio Grande do Sul;20/09/15;Recursos Humanos;Casado;R$9,787
+Mikayla;Eaton;Belford Roxo;RJ;05/11/35;Recursos Humanos;Viúvo;R$5,800
+Faith;Clements;Belo Horizonte;MG;07/09/78;Pesquisa e Desenvolvimento;Solteiro;R$6,505
+Noble;Matthews;São José dos Pinhais;PR;19/01/65;Pesquisa e Desenvolvimento;Solteiro;R$6,361
+Jasper;Hubbard;Maringá;PR;05/06/92;Vendas;Divorciado;R$6,956
+Edward;Ingram;Governador Valadares;MG;18/02/41;Pesquisa e Desenvolvimento;Solteiro;R$7,332
+Alyssa;Estrada;Feira de Santana;Bahia;01/02/34;Serviço ao Cliente;Viúvo;R$7,696
+Graiden;Sawyer;Maranguape;CE;17/08/01;Recursos Humanos;Casado;R$9,681
+Dakota;Lane;Mogi das Cruzes;São Paulo;21/11/49;Relações Públicas;Divorciado;R$9,111
+Hashim;Griffith;Belford Roxo;RJ;24/10/07;Pesquisa e Desenvolvimento;Divorciado;R$5,707
+Aphrodite;Singleton;Campinas;SP;13/05/35;Marketing;Divorciado;R$8,497
+Hunter;Haynes;Guarapuava;PR;22/09/95;Jurídico;Solteiro;R$5,407
+Adena;Shelton;Mauá;São Paulo;04/11/08;Relações Públicas;Viúvo;R$9,203
+Rinah;Gaines;Ananindeua;PA;01/09/73;Marketing;Divorciado;R$7,702
+Barry;Charles;Anápolis;GO;13/05/47;Gerenciamento;Solteiro;R$5,666
+Jacqueline;Fisher;Bacabal;MA;09/08/82;Serviço ao Cliente;Solteiro;R$7,532
+Igor;Pate;Ribeirão das Neves;Minas Gerais;12/03/34;Financeiro;Solteiro;R$7,142
+Ursa;Nieves;Betim;MG;02/12/80;Suporte Técnico;Divorciado;R$7,127
+Celeste;Bird;Jundiaí;SP;07/06/58;Pesquisa e Desenvolvimento;Casado;R$8,393
+Zena;Underwood;Fortaleza;CE;30/04/54;Marketing;Solteiro;R$9,575
+Shoshana;Suarez;Osasco;SP;24/12/59;Suporte Técnico;Divorciado;R$8,967
+Kendall;Castaneda;Barra do Corda;Maranhão;30/05/51;Recursos Humanos;Viúvo;R$8,951
+Darrel;Jimenez;Curitiba;Paraná;20/04/54;Marketing;Viúvo;R$8,636
+Carter;Barrera;Paulista;Pernambuco;01/01/04;Relações Públicas;Divorciado;R$5,274
+Paki;Mcmillan;Açailândia;MA;31/07/60;Financeiro;Casado;R$9,418
+Karen;Watts;Recife;Pernambuco;31/12/46;Financeiro;Solteiro;R$6,894
+Uriah;Conway;Bacabal;MA;09/02/35;Pesquisa e Desenvolvimento;Casado;R$6,328
+Dorothy;Salazar;Jundiaí;SP;02/10/47;Marketing;Solteiro;R$7,634
+Caleb;Bell;Guarapuava;Paraná;23/06/50;Gerenciamento;Viúvo;R$5,473
+Cynthia;Robles;Feira de Santana;Bahia;18/10/51;Suporte Técnico;Casado;R$6,436
+Bruce;Garza;Paulista;Pernambuco;13/11/44;Gerenciamento;Viúvo;R$8,875
+Martha;Vargas;Cascavel;Paraná;24/04/02;Marketing;Divorciado;R$8,714
+Kaye;Larsen;Montes Claros;MG;05/11/42;Gerenciamento;Viúvo;R$8,737
+George;Whitley;Ribeirão Preto;São Paulo;15/11/95;Relações Públicas;Viúvo;R$9,460
+Miriam;Fisher;Ponta Grossa;Paraná;01/02/76;Vendas;Viúvo;R$8,922
+Clayton;Morton;Sete Lagoas;Minas Gerais;19/02/02;Suporte Técnico;Viúvo;R$7,799
+Isabella;Anderson;Osasco;SP;19/10/03;Vendas;Viúvo;R$6,445
+Ignacia;Santos;Vitória da Conquista;BA;23/06/62;Recursos Humanos;Solteiro;R$5,677
+Samuel;Schroeder;Ribeirão Preto;São Paulo;07/08/18;Financeiro;Casado;R$5,894
+Lacey;Gregory;Castanhal;Pará;20/08/56;Financeiro;Viúvo;R$7,400
+Vaughan;Wall;Mogi das Cruzes;São Paulo;23/02/45;Recursos Humanos;Divorciado;R$8,671
+Dalton;Howell;Campinas;SP;07/11/88;Gerenciamento;Solteiro;R$8,540
+Daria;Mcclain;Niterói;RJ;28/11/60;Financeiro;Viúvo;R$5,515
+Brooke;Mendoza;Canoas;RS;25/05/61;Recursos Humanos;Viúvo;R$7,904
+Eden;Keller;Osasco;SP;08/05/59;Suporte Técnico;Divorciado;R$7,718
+Wing;Hardy;Bayeux;Paraíba;03/06/58;Serviço ao Cliente;Divorciado;R$6,236
+Victor;Bird;Santa Rita;PB;08/12/77;Jurídico;Viúvo;R$8,136
+Howard;Oneil;Campina Grande;PB;01/09/02;Suporte Técnico;Casado;R$8,179
+Caryn;Blanchard;Lauro de Freitas;Bahia;12/05/58;Marketing;Viúvo;R$5,767
+Chadwick;Logan;Governador Valadares;MG;03/12/17;Suporte Técnico;Divorciado;R$9,821
+Hilary;Moon;Castanhal;PA;02/08/79;Pesquisa e Desenvolvimento;Viúvo;R$5,213
+Wilma;Kent;Marabá;Pará;12/11/81;Relações Públicas;Solteiro;R$9,305
+Malik;Alexander;São Gonçalo;RJ;21/12/48;Relações Públicas;Viúvo;R$6,951
+Octavia;Christian;Itabuna;BA;29/05/84;Relações Públicas;Solteiro;R$7,584
+Kelsey;Hull;Nova Iguaçu;RJ;11/01/66;Relações Públicas;Divorciado;R$9,548
+Adam;Gregory;Bragança;PA;17/05/85;Suporte Técnico;Casado;R$6,499
+Cedric;Tyler;Paranaguá;Paraná;11/08/61;Relações Públicas;Divorciado;R$5,837
+Brett;Salinas;Montes Claros;MG;26/02/44;Pesquisa e Desenvolvimento;Casado;R$6,930
+Adrian;Haney;Diadema;SP;17/09/07;Gerenciamento;Viúvo;R$5,930
+Amena;Booker;Porto Alegre;RS;09/11/76;Serviço ao Cliente;Casado;R$6,040
+Anjolie;Boyd;Ribeirão Preto;São Paulo;07/06/05;Jurídico;Viúvo;R$6,662
+Yasir;Newman;Rio de Janeiro;RJ;06/05/35;Relações Públicas;Divorciado;R$8,402
+Jordan;Burch;Imperatriz;Maranhão;06/09/17;Pesquisa e Desenvolvimento;Viúvo;R$9,755
+Keely;Huber;Campos dos Goytacazes;RJ;09/06/71;Vendas;Divorciado;R$5,214
+Nicole;Patton;Diadema;São Paulo;29/07/57;Gerenciamento;Casado;R$5,158
+Ulric;Randolph;Marabá;Pará;30/01/07;Recursos Humanos;Solteiro;R$9,442
+Hop;Bennett;Bragança;PA;02/02/54;Gerenciamento;Solteiro;R$7,446
+Donovan;Branch;Sobral;CE;20/03/90;Jurídico;Casado;R$5,971
+Nash;Payne;Paulista;PE;19/05/32;Serviço ao Cliente;Divorciado;R$8,832
+Isabella;Clarke;Carapicuíba;São Paulo;29/04/54;Gerenciamento;Divorciado;R$8,823
+Vaughan;Hunt;Jundiaí;São Paulo;15/04/30;Vendas;Divorciado;R$9,264
+Britanney;Kemp;Vitória da Conquista;BA;07/05/37;Financeiro;Divorciado;R$7,493
+Shafira;Zamora;Osasco;SP;14/10/88;Pesquisa e Desenvolvimento;Solteiro;R$8,069
+Wynter;Donaldson;Lauro de Freitas;BA;26/01/42;Serviço ao Cliente;Solteiro;R$9,038
+Holly;Estrada;Jundiaí;SP;28/09/98;Vendas;Divorciado;R$7,187
+Demetrius;Riddle;Diadema;SP;02/08/69;Recursos Humanos;Divorciado;R$5,524
+Freya;Dixon;Vitória da Conquista;BA;27/01/13;Serviço ao Cliente;Divorciado;R$9,807
+Flynn;Page;Mogi das Cruzes;SP;02/04/41;Financeiro;Casado;R$7,360
+Dieter;Duke;Paço do Lumiar;Maranhão;29/07/75;Relações Públicas;Viúvo;R$6,060
+Uriel;Webster;Mauá;São Paulo;27/04/02;Vendas;Solteiro;R$5,851
+Colby;Mendez;Paranaguá;Paraná;15/06/36;Relações Públicas;Viúvo;R$7,763
+Kenyon;Schultz;Camaçari;BA;20/10/03;Vendas;Solteiro;R$8,369
+Simon;Gates;Sobral;Ceará;24/08/68;Relações Públicas;Casado;R$9,567
+Finn;Miller;São João de Meriti;RJ;01/11/87;Serviço ao Cliente;Casado;R$5,909
+Montana;Prince;Itapipoca;CE;08/07/61;Pesquisa e Desenvolvimento;Solteiro;R$8,985
+Scarlett;Oneill;Governador Valadares;Minas Gerais;12/06/72;Pesquisa e Desenvolvimento;Casado;R$5,697
+Kane;Stewart;Goiânia;GO;14/02/82;Jurídico;Casado;R$5,809
+Lacey;Mclean;Itajaí;Santa Catarina;16/08/88;Suporte Técnico;Viúvo;R$8,780
+Nell;Herrera;Aparecida de Goiânia;Goiás;17/12/37;Marketing;Divorciado;R$5,883
+Hayley;Santos;Codó;MA;09/08/87;Jurídico;Divorciado;R$8,841
+Hyatt;Larson;Gravataí;RS;01/04/37;Gerenciamento;Divorciado;R$7,809
+Yen;Crawford;Ilhéus;Bahia;22/06/01;Suporte Técnico;Viúvo;R$5,611
+Lavinia;Ortega;Mogi das Cruzes;São Paulo;28/04/45;Relações Públicas;Solteiro;R$7,872
+Gay;Greer;Nova Iguaçu;RJ;19/09/34;Relações Públicas;Viúvo;R$6,910
+Zane;Mason;Diadema;SP;16/06/48;Relações Públicas;Viúvo;R$6,385
+Maisie;Pugh;Novo Hamburgo;RS;30/06/69;Marketing;Viúvo;R$9,024
+Kaseem;Rocha;Londrina;Paraná;14/08/71;Relações Públicas;Casado;R$5,482
+Carissa;Kline;Belford Roxo;Rio de Janeiro;20/11/42;Gerenciamento;Divorciado;R$9,199
+Barry;Reese;Feira de Santana;Bahia;10/08/05;Relações Públicas;Casado;R$6,588
+Keelie;Brown;Lauro de Freitas;Bahia;14/06/51;Vendas;Divorciado;R$7,461
+Lev;Hatfield;Itabuna;BA;05/08/05;Gerenciamento;Casado;R$7,719
+Tate;Floyd;Aparecida de Goiânia;GO;05/08/57;Marketing;Solteiro;R$7,519
+Xandra;Perry;Petrópolis;Rio de Janeiro;01/01/84;Marketing;Solteiro;R$6,348
+Addison;Mccarty;Itabuna;BA;11/03/65;Relações Públicas;Solteiro;R$7,030
+September;Shelton;Maracanaú;Ceará;11/05/75;Vendas;Solteiro;R$9,040
+Vernon;Shannon;Campos dos Goytacazes;Rio de Janeiro;10/11/44;Financeiro;Viúvo;R$8,206
+Abraham;Stuart;Caxias do Sul;RS;21/09/86;Gerenciamento;Casado;R$6,881
+Ryder;Calhoun;Rio de Janeiro;RJ;05/07/15;Gerenciamento;Viúvo;R$5,766
+Moses;Rush;Gravataí;RS;30/09/13;Serviço ao Cliente;Viúvo;R$8,285
+Melvin;Slater;Mauá;São Paulo;12/02/18;Suporte Técnico;Viúvo;R$5,575
+Dakota;Spence;Niterói;RJ;11/04/04;Financeiro;Viúvo;R$9,487
+Lucas;Price;Nova Iguaçu;Rio de Janeiro;13/07/05;Recursos Humanos;Casado;R$8,983
+Abraham;Snider;Cametá;Pará;24/03/73;Pesquisa e Desenvolvimento;Casado;R$6,192
+Minerva;Larsen;Campinas;SP;13/08/62;Gerenciamento;Solteiro;R$5,885
+Dahlia;Keith;Juiz de Fora;MG;13/08/86;Relações Públicas;Casado;R$6,965
+Sage;Sims;Paulista;Pernambuco;04/11/72;Suporte Técnico;Divorciado;R$8,034
+Gretchen;Shaffer;Itabuna;Bahia;16/08/78;Vendas;Casado;R$6,561
+Zelenia;Mcmillan;Londrina;Paraná;25/12/02;Suporte Técnico;Solteiro;R$8,454
+Arsenio;Schroeder;Itabuna;Bahia;10/05/31;Relações Públicas;Viúvo;R$9,994
+Nita;Pope;Gravataí;RS;07/01/58;Vendas;Casado;R$8,700
+Florence;Rowe;Mogi das Cruzes;SP;03/01/31;Relações Públicas;Divorciado;R$7,045
+Zenaida;Mcgowan;Rio de Janeiro;Rio de Janeiro;13/11/83;Relações Públicas;Viúvo;R$7,208
+Nathaniel;Valencia;Osasco;São Paulo;01/01/42;Marketing;Solteiro;R$8,837
+Herrod;Terrell;Campinas;SP;10/09/99;Gerenciamento;Viúvo;R$7,534
+Velma;Mccarthy;Camaragibe;PE;09/06/63;Financeiro;Viúvo;R$5,347
+Garth;Munoz;Mauá;São Paulo;20/02/32;Pesquisa e Desenvolvimento;Solteiro;R$8,407
+Velma;Stanley;Divinópolis;Minas Gerais;10/02/30;Suporte Técnico;Casado;R$6,740
+Rhonda;West;Cabo de Santo Agostinho;PE;09/10/63;Serviço ao Cliente;Divorciado;R$8,340
+Christian;Hays;Guarulhos;São Paulo;14/06/87;Vendas;Viúvo;R$8,177
+Isabelle;Hunter;Valparaíso de Goiás;Goiás;15/06/89;Financeiro;Divorciado;R$6,155
+Kaitlin;Floyd;Valparaíso de Goiás;Goiás;07/08/75;Marketing;Divorciado;R$6,433
+Phelan;Hunter;Guarulhos;SP;02/08/41;Vendas;Solteiro;R$5,835
+Germane;Townsend;Diadema;SP;05/11/05;Recursos Humanos;Casado;R$8,176
+Freya;Jackson;Juazeiro do Norte;CE;13/03/10;Vendas;Solteiro;R$6,297
+Claire;Molina;Mogi das Cruzes;SP;29/10/99;Recursos Humanos;Divorciado;R$7,602
+Cyrus;Mosley;Mogi das Cruzes;São Paulo;06/05/03;Marketing;Viúvo;R$7,875
+Norman;Mccormick;Joinville;SC;01/02/90;Jurídico;Solteiro;R$9,832
+Orla;Sparks;Sobral;CE;01/11/81;Pesquisa e Desenvolvimento;Viúvo;R$8,599
+Heidi;Chan;Divinópolis;MG;08/12/11;Financeiro;Viúvo;R$6,407
+Ruby;Woods;Jundiaí;SP;03/01/83;Financeiro;Divorciado;R$9,443
+Vincent;Buchanan;Caxias do Sul;RS;10/05/96;Recursos Humanos;Divorciado;R$5,172
+Ignacia;Mccormick;Uberaba;MG;05/12/38;Vendas;Casado;R$9,569
+Dustin;Barton;Juiz de Fora;Minas Gerais;16/07/91;Relações Públicas;Divorciado;R$7,230
+Elton;Vinson;Recife;PE;03/10/73;Vendas;Viúvo;R$6,977
+Morgan;Mcdowell;Diadema;São Paulo;04/12/08;Recursos Humanos;Casado;R$9,584
+Oscar;Diaz;Lauro de Freitas;Bahia;07/08/66;Suporte Técnico;Divorciado;R$9,660
+Tyler;Flowers;Rio Grande;RS;19/02/92;Jurídico;Casado;R$5,400
+Stella;Thomas;Mauá;São Paulo;07/02/34;Pesquisa e Desenvolvimento;Viúvo;R$7,790
+Barclay;Sawyer;Bacabal;MA;21/07/83;Relações Públicas;Solteiro;R$9,024
+Rigel;Kinney;Piracicaba;SP;22/08/83;Recursos Humanos;Viúvo;R$5,824
+Yetta;Barnes;Itajaí;Santa Catarina;09/08/49;Marketing;Viúvo;R$7,476
+Shannon;Herring;Governador Valadares;MG;14/12/72;Financeiro;Viúvo;R$9,498
+Kessie;Navarro;Novo Hamburgo;Rio Grande do Sul;15/08/01;Gerenciamento;Viúvo;R$6,512
+Lester;Morse;Cascavel;Paraná;31/08/41;Recursos Humanos;Casado;R$8,339
+Dawn;Wilcox;Camaçari;Bahia;28/02/58;Gerenciamento;Divorciado;R$7,568
+Lucius;Malone;Blumenau;SC;07/11/64;Jurídico;Solteiro;R$9,089
+Emma;Marquez;João Pessoa;Paraíba;15/06/31;Relações Públicas;Viúvo;R$9,713
+Connor;Hodges;Olinda;PE;30/04/53;Serviço ao Cliente;Casado;R$9,127
+Oprah;Carter;Aparecida de Goiânia;GO;14/11/93;Gerenciamento;Divorciado;R$5,026
+Breanna;Melendez;Ribeirão das Neves;Minas Gerais;25/04/67;Marketing;Viúvo;R$8,233
+Sonya;Delgado;Ribeirão Preto;SP;28/01/62;Vendas;Casado;R$7,906
+Macy;Stephens;Divinópolis;MG;24/04/39;Relações Públicas;Solteiro;R$9,020
+Ralph;Curry;Salvador;BA;13/09/52;Vendas;Solteiro;R$5,927
+Brendan;Russo;Anápolis;GO;01/12/53;Suporte Técnico;Solteiro;R$7,702
+Chaney;Wood;Juazeiro;Bahia;27/08/62;Gerenciamento;Viúvo;R$5,626
+Guy;Booth;Florianópolis;SC;18/08/03;Jurídico;Divorciado;R$9,775
+Montana;Horton;Ribeirão das Neves;MG;16/07/87;Vendas;Viúvo;R$6,409
+Zephania;Cox;Cajazeiras;Paraíba;18/04/83;Suporte Técnico;Divorciado;R$9,594
+Ifeoma;Freeman;Sobral;Ceará;22/10/03;Marketing;Divorciado;R$8,610
+Guy;Santana;Ribeirão Preto;SP;10/09/52;Recursos Humanos;Solteiro;R$8,177
+Adara;Marsh;Ribeirão das Neves;Minas Gerais;08/03/72;Suporte Técnico;Viúvo;R$7,131
+Cooper;Baldwin;Maranguape;CE;10/10/97;Serviço ao Cliente;Casado;R$7,657
+Quinn;Garrison;Olinda;Pernambuco;12/06/07;Relações Públicas;Divorciado;R$7,213
+Farrah;Cain;Juazeiro;BA;28/04/65;Financeiro;Solteiro;R$6,306
+Zahir;Mercer;Itabuna;Bahia;08/08/92;Financeiro;Casado;R$8,442
+Melanie;Bell;Crato;CE;07/06/01;Vendas;Solteiro;R$6,120
+Channing;Wheeler;Camaçari;Bahia;30/06/83;Vendas;Solteiro;R$6,731
+Dominic;Bridges;Ribeirão Preto;SP;12/02/56;Gerenciamento;Viúvo;R$9,465
+Jaden;Hancock;Camaçari;BA;21/04/31;Suporte Técnico;Solteiro;R$6,928
+Ava;England;Gravataí;Rio Grande do Sul;28/10/67;Financeiro;Viúvo;R$8,012
+Wynne;Hurley;Cabo de Santo Agostinho;Pernambuco;01/11/78;Pesquisa e Desenvolvimento;Divorciado;R$5,436
+Lacota;Shepherd;Salvador;Bahia;15/05/69;Recursos Humanos;Divorciado;R$6,442
+Ava;Berry;Ipatinga;Minas Gerais;25/11/99;Jurídico;Casado;R$8,817
+Aimee;Patrick;Duque de Caxias;Rio de Janeiro;12/04/16;Recursos Humanos;Solteiro;R$7,525
+Thaddeus;Dennis;Santa Maria;Rio Grande do Sul;25/09/43;Pesquisa e Desenvolvimento;Casado;R$5,252
+Tara;Grimes;Belo Horizonte;Minas Gerais;23/04/11;Suporte Técnico;Solteiro;R$5,557
+Idola;Hughes;Olinda;PE;26/06/62;Vendas;Viúvo;R$9,432
+Gwendolyn;Carter;Campinas;SP;30/03/57;Gerenciamento;Casado;R$9,881
+Daniel;Hartman;Governador Valadares;Minas Gerais;02/04/36;Recursos Humanos;Solteiro;R$6,467
+Lewis;Bonner;Lauro de Freitas;BA;30/09/46;Serviço ao Cliente;Divorciado;R$5,350
+Hamish;Kidd;Caucaia;Ceará;10/10/66;Recursos Humanos;Viúvo;R$5,497
+Stone;Roth;Chapadinha;MA;10/04/07;Serviço ao Cliente;Casado;R$6,524
+Talon;Combs;Olinda;PE;29/12/80;Financeiro;Divorciado;R$9,702
+Cherokee;Mccarthy;Santa Maria;RS;24/10/44;Serviço ao Cliente;Divorciado;R$8,725
+Paloma;West;Ribeirão das Neves;Minas Gerais;28/08/65;Relações Públicas;Solteiro;R$5,562
+Priscilla;Holloway;Mauá;São Paulo;02/02/62;Vendas;Casado;R$9,752
+Sade;Sargent;Paulista;Pernambuco;23/06/93;Serviço ao Cliente;Divorciado;R$7,349
+Benjamin;Valencia;Cajazeiras;Paraíba;04/12/48;Jurídico;Solteiro;R$9,368
+Dara;Moran;Petrópolis;Rio de Janeiro;18/10/17;Serviço ao Cliente;Divorciado;R$6,539
+Fuller;Puckett;Petrópolis;RJ;31/07/75;Gerenciamento;Casado;R$6,783
+Avye;Oneal;Santa Luzia;MG;14/11/84;Marketing;Viúvo;R$5,291
+Sara;Mitchell;Camaçari;BA;20/09/49;Serviço ao Cliente;Divorciado;R$7,210
+Justina;Alston;Campos dos Goytacazes;RJ;22/06/92;Gerenciamento;Viúvo;R$8,960
+Martin;Rodriguez;Belo Horizonte;MG;26/04/66;Relações Públicas;Divorciado;R$8,169
+Lesley;Yang;Jundiaí;SP;01/07/75;Vendas;Solteiro;R$8,873
+Hedda;Gamble;Campinas;São Paulo;24/08/51;Vendas;Solteiro;R$6,444
+Vielka;Wiley;Carapicuíba;SP;02/04/94;Marketing;Viúvo;R$7,908
+Leigh;Kirkland;Jundiaí;SP;29/01/48;Relações Públicas;Casado;R$7,535
+Emery;Tate;Carapicuíba;São Paulo;19/01/59;Serviço ao Cliente;Divorciado;R$7,839
+Mark;Huffman;Chapecó;Santa Catarina;07/08/58;Recursos Humanos;Solteiro;R$6,050
+Gareth;Duffy;Campinas;São Paulo;26/09/04;Vendas;Solteiro;R$7,672
+Macey;Dennis;Barra do Corda;Maranhão;12/01/52;Pesquisa e Desenvolvimento;Viúvo;R$5,300
+Angelica;Nelson;Camaçari;BA;15/07/92;Relações Públicas;Casado;R$9,999
+Roary;Stevens;Jundiaí;SP;16/12/64;Vendas;Viúvo;R$8,870
+Ira;Frederick;Divinópolis;Minas Gerais;28/06/68;Relações Públicas;Solteiro;R$9,423
+Ian;Randall;Florianópolis;Santa Catarina;18/08/75;Jurídico;Divorciado;R$7,760
+Axel;Nicholson;Lauro de Freitas;BA;15/10/38;Vendas;Casado;R$9,423
+Maryam;Mayer;Ribeirão Preto;São Paulo;19/11/88;Recursos Humanos;Casado;R$8,414
+Ryan;Daniels;Uberlândia;Minas Gerais;27/02/06;Recursos Humanos;Casado;R$7,254
+Amity;Gilliam;Mauá;São Paulo;17/12/77;Financeiro;Viúvo;R$9,904
+Cadman;Bush;Balsas;Maranhão;26/05/48;Relações Públicas;Viúvo;R$6,149
+Wynter;Weber;Maranguape;Ceará;31/08/51;Pesquisa e Desenvolvimento;Solteiro;R$8,755
+Judah;Fry;Belford Roxo;RJ;05/10/99;Vendas;Casado;R$6,379
+Octavius;Michael;Petrópolis;Rio de Janeiro;18/07/79;Financeiro;Casado;R$6,401
+Callie;Glover;Joinville;Santa Catarina;07/09/30;Serviço ao Cliente;Solteiro;R$5,511
+Hayden;Farmer;Juazeiro;Bahia;22/05/35;Vendas;Viúvo;R$6,388
+Neil;Nguyen;Guarapuava;Paraná;08/02/88;Vendas;Solteiro;R$9,008
+Ginger;Serrano;Ilhéus;Bahia;08/01/30;Marketing;Casado;R$8,729
+Elvis;Hampton;Mogi das Cruzes;SP;06/05/50;Recursos Humanos;Solteiro;R$7,271
+Shaine;Doyle;Ribeirão Preto;SP;29/07/33;Financeiro;Viúvo;R$6,612
+Nash;Jacobson;João Pessoa;Paraíba;18/03/36;Recursos Humanos;Solteiro;R$9,633
+Olympia;Randall;Marabá;Pará;01/09/47;Pesquisa e Desenvolvimento;Divorciado;R$8,848
+Warren;Key;Petrolina;PE;13/08/36;Relações Públicas;Viúvo;R$7,430
+Hilel;Warner;Juazeiro;BA;08/11/44;Gerenciamento;Divorciado;R$5,225
+Bethany;Rios;Balsas;MA;25/12/68;Jurídico;Solteiro;R$8,165
+Dane;Castro;São João de Meriti;Rio de Janeiro;08/05/79;Pesquisa e Desenvolvimento;Viúvo;R$5,452
+Russell;Gallagher;Diadema;São Paulo;17/03/35;Gerenciamento;Viúvo;R$6,175
+Austin;Sears;Pelotas;Rio Grande do Sul;14/09/11;Jurídico;Solteiro;R$6,669
+Anastasia;Marshall;Feira de Santana;BA;17/08/08;Pesquisa e Desenvolvimento;Solteiro;R$9,168
+Mollie;Whitaker;Ribeirão Preto;São Paulo;11/07/93;Suporte Técnico;Casado;R$9,090
+Zeph;Holland;Ribeirão Preto;SP;21/09/89;Vendas;Divorciado;R$5,414
+Yasir;Potter;Timon;Maranhão;26/06/62;Jurídico;Viúvo;R$5,272
+Roanna;Patel;Piracicaba;SP;22/09/77;Recursos Humanos;Divorciado;R$9,380
+Deacon;Robertson;Bacabal;Maranhão;05/10/18;Suporte Técnico;Casado;R$8,764
+Karen;Mitchell;Gravataí;RS;24/09/06;Suporte Técnico;Solteiro;R$8,486
+Dexter;Mccarthy;Chapadinha;Maranhão;16/06/77;Financeiro;Viúvo;R$6,657
+Felicia;Haynes;Gravataí;Rio Grande do Sul;24/10/80;Relações Públicas;Divorciado;R$6,368
+Mira;Dickson;Piracicaba;SP;20/07/73;Financeiro;Viúvo;R$6,982
+Roary;Atkins;Itajaí;Santa Catarina;30/09/68;Recursos Humanos;Casado;R$8,211
+Mara;Watson;Ribeirão das Neves;Minas Gerais;16/01/30;Vendas;Divorciado;R$6,028
+Oleg;Wheeler;Osasco;São Paulo;21/04/99;Jurídico;Solteiro;R$9,226
+Jenna;Fox;Caucaia;Ceará;23/04/42;Pesquisa e Desenvolvimento;Casado;R$7,558
+Clinton;Taylor;Rio Verde;GO;04/05/13;Serviço ao Cliente;Solteiro;R$5,919
+Yolanda;Knight;Crato;CE;17/04/55;Pesquisa e Desenvolvimento;Casado;R$6,601
+Natalie;Moody;Paço do Lumiar;Maranhão;07/12/32;Recursos Humanos;Casado;R$7,101
+Macaulay;Barnett;Camaçari;Bahia;31/08/15;Vendas;Viúvo;R$9,756
+Eric;Blackwell;Camaçari;BA;14/06/57;Serviço ao Cliente;Solteiro;R$6,197
+Nathaniel;Frost;Lauro de Freitas;Bahia;21/06/73;Suporte Técnico;Divorciado;R$8,053
+Violet;Rutledge;Caucaia;CE;29/12/31;Relações Públicas;Casado;R$9,928
+Nathan;Benson;Ribeirão das Neves;Minas Gerais;13/01/67;Financeiro;Divorciado;R$7,738
+Giselle;Forbes;Diadema;SP;02/07/97;Suporte Técnico;Casado;R$5,587
+Alec;Hooper;Osasco;São Paulo;08/11/41;Marketing;Solteiro;R$9,177
+Jasmine;Mcguire;Maringá;Paraná;10/05/59;Financeiro;Casado;R$8,012
+Wendy;Parsons;Campinas;SP;26/02/77;Recursos Humanos;Viúvo;R$7,570
+Neil;Perkins;Campinas;São Paulo;27/12/89;Marketing;Solteiro;R$8,052
+Echo;Good;Belo Horizonte;Minas Gerais;21/09/62;Recursos Humanos;Divorciado;R$5,271
+Jane;Mckee;Águas Lindas de Goiás;GO;26/07/66;Recursos Humanos;Divorciado;R$6,557
+Deirdre;Meyers;Ribeirão Preto;São Paulo;01/01/12;Vendas;Casado;R$7,448
+Hyatt;Meyers;Olinda;PE;08/07/98;Relações Públicas;Divorciado;R$8,688
+Ulric;Blake;Salvador;BA;19/02/96;Marketing;Casado;R$6,514
+Mercedes;Baird;Camaragibe;PE;26/08/85;Gerenciamento;Casado;R$9,580
+Cullen;Nichols;Petrópolis;Rio de Janeiro;08/03/59;Recursos Humanos;Casado;R$6,176
+Camden;Kline;Petrópolis;RJ;07/07/72;Serviço ao Cliente;Solteiro;R$5,663
+Wanda;Clayton;Feira de Santana;BA;16/07/81;Gerenciamento;Solteiro;R$9,523
+Quemby;Guzman;Ribeirão Preto;SP;13/04/16;Gerenciamento;Solteiro;R$9,577
+Abbot;Pennington;Campinas;SP;04/02/78;Financeiro;Divorciado;R$7,335
+Martena;Carver;Maracanaú;CE;17/03/35;Financeiro;Casado;R$5,907
+Coby;Crane;Cabo de Santo Agostinho;Pernambuco;24/03/49;Pesquisa e Desenvolvimento;Divorciado;R$8,255
+Kirby;Dudley;Santa Luzia;Minas Gerais;18/01/98;Vendas;Solteiro;R$8,086
+Inga;Cabrera;Osasco;São Paulo;04/12/10;Serviço ao Cliente;Solteiro;R$8,169
+Zia;Reid;Castanhal;Pará;21/08/75;Financeiro;Casado;R$9,679
+Shannon;Grant;Piracicaba;São Paulo;24/10/11;Relações Públicas;Divorciado;R$6,688
+Hanae;Saunders;Betim;MG;23/05/82;Marketing;Viúvo;R$6,321
+Brandon;Hardy;Mauá;São Paulo;09/01/74;Marketing;Casado;R$5,991
+Clementine;Mays;Novo Hamburgo;Rio Grande do Sul;24/02/70;Jurídico;Casado;R$5,524
+Nigel;Wyatt;Diadema;SP;23/07/84;Marketing;Divorciado;R$9,891
+Colt;Ortega;Lauro de Freitas;BA;13/09/10;Marketing;Solteiro;R$8,720
+Imani;Strickland;Santa Luzia;Minas Gerais;24/01/69;Relações Públicas;Divorciado;R$5,057
+Ferris;Higgins;Piracicaba;São Paulo;16/04/37;Pesquisa e Desenvolvimento;Divorciado;R$5,441
+Suki;Wolf;Santa Luzia;MG;10/07/05;Vendas;Casado;R$9,193
+Leonard;Gibbs;Itajaí;SC;02/05/19;Pesquisa e Desenvolvimento;Viúvo;R$7,373
+Emerald;Horton;Novo Hamburgo;Rio Grande do Sul;22/09/91;Financeiro;Divorciado;R$7,824
+Isaiah;Hughes;Belo Horizonte;MG;04/05/37;Relações Públicas;Solteiro;R$5,986
+Mia;Joseph;Mauá;São Paulo;23/09/17;Vendas;Viúvo;R$9,771
+Karly;Christensen;Barra do Corda;MA;30/05/35;Serviço ao Cliente;Divorciado;R$5,466
+Justine;Clayton;Osasco;São Paulo;05/02/49;Financeiro;Viúvo;R$6,534
+Susan;Wagner;Londrina;PR;26/08/70;Suporte Técnico;Casado;R$5,017
+Elvis;Benson;Maracanaú;CE;06/08/02;Vendas;Casado;R$8,822
+Xander;Acevedo;Chapecó;Santa Catarina;21/03/84;Recursos Humanos;Casado;R$7,835
+Lydia;Moran;Campinas;SP;04/02/47;Serviço ao Cliente;Casado;R$8,281
+Aurelia;Weber;Juazeiro;BA;05/08/51;Relações Públicas;Casado;R$5,707
+Pandora;Strong;Mogi das Cruzes;São Paulo;07/11/45;Relações Públicas;Viúvo;R$5,026
+Charity;Warren;Jundiaí;São Paulo;23/09/49;Marketing;Solteiro;R$7,784
+Cullen;Castillo;Sete Lagoas;MG;05/09/62;Suporte Técnico;Casado;R$8,349
+Price;Avila;Carapicuíba;São Paulo;21/01/00;Vendas;Divorciado;R$5,439
+Keegan;Bennett;Cabo de Santo Agostinho;Pernambuco;13/06/07;Marketing;Divorciado;R$7,064
+Nicholas;Vaughan;Contagem;Minas Gerais;08/08/36;Relações Públicas;Viúvo;R$8,603
+Lacey;Phillips;Paulista;PE;25/04/70;Jurídico;Casado;R$9,973
+Isaiah;Boyer;Camaçari;Bahia;18/12/85;Relações Públicas;Viúvo;R$8,400
+Pandora;Barron;Recife;Pernambuco;18/06/18;Pesquisa e Desenvolvimento;Divorciado;R$5,794
+Alexander;Singleton;Novo Hamburgo;RS;24/06/66;Jurídico;Divorciado;R$7,425
+Joelle;Williamson;Castanhal;Pará;26/04/32;Suporte Técnico;Casado;R$6,368
+Thaddeus;Bright;Juazeiro;BA;20/05/74;Marketing;Viúvo;R$6,518
+Casey;Meadows;Osasco;São Paulo;04/08/35;Gerenciamento;Divorciado;R$6,796
+Genevieve;Andrews;Osasco;São Paulo;30/12/65;Pesquisa e Desenvolvimento;Casado;R$5,755
+James;Welch;Montes Claros;Minas Gerais;19/08/92;Serviço ao Cliente;Viúvo;R$8,482
+Sean;Blevins;Santa Luzia;MG;19/12/05;Marketing;Viúvo;R$6,644
+Zephr;Galloway;Campos dos Goytacazes;RJ;08/05/95;Vendas;Viúvo;R$5,646
+Quinn;Page;Piracicaba;SP;24/08/87;Vendas;Divorciado;R$9,872
+Hunter;Langley;Castanhal;Pará;13/06/46;Pesquisa e Desenvolvimento;Casado;R$9,219
+Clinton;Howell;Jundiaí;SP;16/02/13;Recursos Humanos;Divorciado;R$6,292
+Richard;Fletcher;Diadema;São Paulo;22/04/02;Relações Públicas;Viúvo;R$7,159
+Clayton;Gillespie;Itabuna;BA;09/01/30;Jurídico;Casado;R$5,985
+Alec;Melton;Camaçari;BA;04/11/92;Jurídico;Casado;R$9,336
+Elton;Olsen;Mauá;SP;06/03/58;Pesquisa e Desenvolvimento;Casado;R$7,551
+Haley;Conley;Mauá;SP;04/07/87;Recursos Humanos;Solteiro;R$9,259
+Hasad;Frederick;Crato;CE;18/11/13;Recursos Humanos;Solteiro;R$6,564
+Abbot;Case;Juiz de Fora;Minas Gerais;08/08/00;Marketing;Viúvo;R$8,269
+Jayme;Ellis;Carapicuíba;São Paulo;12/06/12;Pesquisa e Desenvolvimento;Viúvo;R$8,621
+Lionel;Strickland;Feira de Santana;Bahia;23/11/31;Jurídico;Viúvo;R$5,852
+Benedict;Glenn;Campina Grande;PB;28/03/16;Marketing;Viúvo;R$8,734
+Melyssa;Trevino;Ipatinga;MG;30/08/03;Suporte Técnico;Casado;R$8,521
+Eric;Irwin;Balsas;Maranhão;30/12/57;Serviço ao Cliente;Casado;R$5,609
+Gregory;King;Águas Lindas de Goiás;Goiás;30/07/91;Financeiro;Divorciado;R$5,111
+Zahir;Alvarez;Paulista;Pernambuco;12/10/62;Vendas;Casado;R$7,535
+Vaughan;Gonzales;Santa Maria;Rio Grande do Sul;22/07/73;Suporte Técnico;Solteiro;R$7,543
+Jason;Parsons;Diadema;SP;12/12/89;Recursos Humanos;Divorciado;R$9,057
+Matthew;Fuentes;Cametá;PA;24/04/67;Serviço ao Cliente;Viúvo;R$8,628
+Ciaran;Church;Divinópolis;Minas Gerais;08/03/43;Jurídico;Solteiro;R$7,356
+Xantha;Hardy;Mauá;SP;19/12/39;Financeiro;Divorciado;R$7,320
+Gavin;Crane;Cabo de Santo Agostinho;PE;25/02/66;Vendas;Casado;R$7,749
+Madonna;Porter;Colombo;PR;15/02/44;Suporte Técnico;Divorciado;R$5,522
+Lester;Sexton;Piracicaba;SP;22/03/75;Recursos Humanos;Viúvo;R$7,425
+Giselle;Underwood;Santa Maria;Rio Grande do Sul;04/09/99;Gerenciamento;Casado;R$7,567
+Beatrice;Villarreal;Montes Claros;MG;03/03/80;Serviço ao Cliente;Solteiro;R$9,240
+Kadeem;Robbins;Ribeirão Preto;São Paulo;17/08/60;Suporte Técnico;Divorciado;R$6,450
+Knox;Short;Caxias;Maranhão;21/03/34;Relações Públicas;Casado;R$5,782
+Owen;Langley;Campinas;SP;17/09/43;Pesquisa e Desenvolvimento;Solteiro;R$9,588
+Trevor;Atkinson;Uberlândia;Minas Gerais;17/11/89;Suporte Técnico;Divorciado;R$9,658
+Abdul;Gross;Bacabal;Maranhão;02/06/62;Recursos Humanos;Solteiro;R$5,495
+Hannah;Cain;Açailândia;Maranhão;08/08/47;Gerenciamento;Divorciado;R$9,564
+Nyssa;Bowers;Bacabal;Maranhão;21/02/34;Recursos Humanos;Casado;R$7,914
+Keane;Casey;Castanhal;Pará;12/01/96;Jurídico;Casado;R$6,192
+Megan;Monroe;Jundiaí;SP;20/05/96;Suporte Técnico;Divorciado;R$5,035
+Velma;Stout;Marabá;PA;12/07/84;Gerenciamento;Casado;R$8,888
+Leroy;Soto;Paço do Lumiar;MA;05/03/44;Financeiro;Viúvo;R$6,586
+Harlan;Cannon;Porto Alegre;RS;16/06/02;Relações Públicas;Casado;R$8,164
+Nicholas;Flores;Montes Claros;Minas Gerais;21/11/07;Gerenciamento;Divorciado;R$7,508
+Honorato;Reeves;Uberaba;MG;20/06/65;Suporte Técnico;Divorciado;R$6,730
+Griffin;Stephens;Carapicuíba;São Paulo;19/12/66;Marketing;Casado;R$6,282
+Fitzgerald;Strong;Carapicuíba;SP;04/10/92;Serviço ao Cliente;Casado;R$5,334
+Mollie;Brennan;Rio de Janeiro;Rio de Janeiro;03/01/94;Vendas;Solteiro;R$8,906
+Miriam;Knight;Santa Maria;RS;07/10/91;Vendas;Divorciado;R$7,850
+Kelsie;Holden;Contagem;MG;14/08/12;Gerenciamento;Solteiro;R$6,813
+Galvin;Hunter;Jaboatão dos Guararapes;Pernambuco;28/01/94;Serviço ao Cliente;Divorciado;R$9,985
+Colorado;Wilder;Itajaí;SC;02/12/85;Vendas;Solteiro;R$8,780
+Gillian;Hebert;Maranguape;CE;06/02/40;Relações Públicas;Casado;R$5,155
+Veda;Rivers;Osasco;São Paulo;29/07/17;Financeiro;Casado;R$7,370
+Frances;Jarvis;Balsas;MA;23/03/93;Pesquisa e Desenvolvimento;Casado;R$7,573
+Cassandra;Kennedy;Campinas;SP;07/08/04;Financeiro;Viúvo;R$7,964
+Castor;Burks;Codó;MA;08/11/01;Serviço ao Cliente;Viúvo;R$7,653
+Dennis;Macdonald;Vitória da Conquista;Bahia;13/11/72;Serviço ao Cliente;Divorciado;R$6,911
+Serena;Delgado;Santa Inês;MA;26/11/57;Recursos Humanos;Divorciado;R$9,955
+Graiden;Baldwin;São João de Meriti;Rio de Janeiro;31/05/36;Jurídico;Casado;R$5,435
+Brady;Wade;Colombo;PR;20/05/48;Pesquisa e Desenvolvimento;Viúvo;R$8,234
+Noble;Bradford;São Gonçalo;Rio de Janeiro;24/05/08;Gerenciamento;Viúvo;R$6,314
+Akeem;Clay;Jundiaí;São Paulo;14/06/77;Recursos Humanos;Casado;R$8,307
+Tanya;Rowe;Curitiba;PR;25/11/51;Jurídico;Viúvo;R$8,835
+Nolan;Peck;Mauá;São Paulo;14/10/67;Pesquisa e Desenvolvimento;Solteiro;R$9,835
+Zenaida;Saunders;Mogi das Cruzes;SP;25/12/80;Gerenciamento;Casado;R$9,573
+Petra;Elliott;Maracanaú;CE;26/07/83;Gerenciamento;Viúvo;R$7,082
+Rahim;Jordan;Londrina;PR;02/05/45;Pesquisa e Desenvolvimento;Viúvo;R$7,124
+Thor;Rodriguez;Petrópolis;RJ;01/05/62;Marketing;Viúvo;R$8,867
+Maxine;Estrada;Ilhéus;Bahia;10/01/93;Jurídico;Viúvo;R$7,402
+Justine;Maxwell;Caxias do Sul;RS;06/01/08;Gerenciamento;Divorciado;R$9,788
+Illiana;Ayers;Londrina;Paraná;30/07/65;Marketing;Casado;R$6,688
+Lavinia;Gordon;Caruaru;PE;26/06/95;Serviço ao Cliente;Viúvo;R$8,709
+Yetta;Peters;Canoas;Rio Grande do Sul;16/06/74;Serviço ao Cliente;Viúvo;R$7,212
+Kirestin;Hartman;Juiz de Fora;Minas Gerais;09/04/39;Marketing;Divorciado;R$6,033
+Tatyana;Pollard;Balsas;Maranhão;17/02/95;Jurídico;Solteiro;R$8,702
+Jeremy;Hays;Camaçari;BA;24/03/46;Financeiro;Divorciado;R$6,417
+Whoopi;Craig;Duque de Caxias;Rio de Janeiro;04/06/59;Vendas;Viúvo;R$8,279
+Noah;Maddox;Mogi das Cruzes;São Paulo;09/02/73;Jurídico;Viúvo;R$7,890
+Kenyon;Preston;Novo Hamburgo;Rio Grande do Sul;09/08/57;Recursos Humanos;Casado;R$8,704
+Ina;Pacheco;Ribeirão Preto;São Paulo;13/02/04;Serviço ao Cliente;Solteiro;R$7,381
+Neville;Lawson;Açailândia;Maranhão;01/11/81;Vendas;Casado;R$8,469
+Raja;Hinton;Diadema;São Paulo;03/09/33;Financeiro;Viúvo;R$9,425
+Hedda;Cobb;Canoas;RS;24/04/39;Suporte Técnico;Solteiro;R$5,012
+Elijah;Peck;Mogi das Cruzes;São Paulo;02/11/13;Financeiro;Viúvo;R$9,776
+Renee;Whitney;Rio Grande;RS;02/12/46;Pesquisa e Desenvolvimento;Solteiro;R$6,270
+Cruz;Knapp;Petrópolis;Rio de Janeiro;12/12/53;Gerenciamento;Solteiro;R$9,232
+Rebecca;Oconnor;Petrópolis;Rio de Janeiro;16/03/31;Jurídico;Solteiro;R$5,492
+Charity;Warren;Jundiaí;São Paulo;23/09/49;Marketing;Solteiro;R$7,784
+Cullen;Castillo;Sete Lagoas;MG;05/09/62;Suporte Técnico;Casado;R$8,349
+Price;Avila;Carapicuíba;São Paulo;21/01/00;Vendas;Divorciado;R$5,439
+Keegan;Bennett;Cabo de Santo Agostinho;Pernambuco;13/06/07;Marketing;Divorciado;R$7,064
+Nicholas;Vaughan;Contagem;Minas Gerais;08/08/36;Relações Públicas;Viúvo;R$8,603
+Lacey;Phillips;Paulista;PE;25/04/70;Jurídico;Casado;R$9,973
+Isaiah;Boyer;Camaçari;Bahia;18/12/85;Relações Públicas;Viúvo;R$8,400
+Pandora;Barron;Recife;Pernambuco;18/06/18;Pesquisa e Desenvolvimento;Divorciado;R$5,794
+Alexander;Singleton;Novo Hamburgo;RS;24/06/66;Jurídico;Divorciado;R$7,425
+Joelle;Williamson;Castanhal;Pará;26/04/32;Suporte Técnico;Casado;R$6,368
+Thaddeus;Bright;Juazeiro;BA;20/05/74;Marketing;Viúvo;R$6,518
+Casey;Meadows;Osasco;São Paulo;04/08/35;Gerenciamento;Divorciado;R$6,796
+Genevieve;Andrews;Osasco;São Paulo;30/12/65;Pesquisa e Desenvolvimento;Casado;R$5,755
+James;Welch;Montes Claros;Minas Gerais;19/08/92;Serviço ao Cliente;Viúvo;R$8,482
+Sean;Blevins;Santa Luzia;MG;19/12/05;Marketing;Viúvo;R$6,644
+Zephr;Galloway;Campos dos Goytacazes;RJ;08/05/95;Vendas;Viúvo;R$5,646
+Quinn;Page;Piracicaba;SP;24/08/87;Vendas;Divorciado;R$9,872
+Hunter;Langley;Castanhal;Pará;13/06/46;Pesquisa e Desenvolvimento;Casado;R$9,219
+Clinton;Howell;Jundiaí;SP;16/02/13;Recursos Humanos;Divorciado;R$6,292
+Richard;Fletcher;Diadema;São Paulo;22/04/02;Relações Públicas;Viúvo;R$7,159
+Clayton;Gillespie;Itabuna;BA;09/01/30;Jurídico;Casado;R$5,985
+Alec;Melton;Camaçari;BA;04/11/92;Jurídico;Casado;R$9,336
+Elton;Olsen;Mauá;SP;06/03/58;Pesquisa e Desenvolvimento;Casado;R$7,551
+Haley;Conley;Mauá;SP;04/07/87;Recursos Humanos;Solteiro;R$9,259
+Hasad;Frederick;Crato;CE;18/11/13;Recursos Humanos;Solteiro;R$6,564
+Abbot;Case;Juiz de Fora;Minas Gerais;08/08/00;Marketing;Viúvo;R$8,269
+Jayme;Ellis;Carapicuíba;São Paulo;12/06/12;Pesquisa e Desenvolvimento;Viúvo;R$8,621
+Lionel;Strickland;Feira de Santana;Bahia;23/11/31;Jurídico;Viúvo;R$5,852
+Benedict;Glenn;Campina Grande;PB;28/03/16;Marketing;Viúvo;R$8,734
+Melyssa;Trevino;Ipatinga;MG;30/08/03;Suporte Técnico;Casado;R$8,521
+Eric;Irwin;Balsas;Maranhão;30/12/57;Serviço ao Cliente;Casado;R$5,609
+Gregory;King;Águas Lindas de Goiás;Goiás;30/07/91;Financeiro;Divorciado;R$5,111
+Zahir;Alvarez;Paulista;Pernambuco;12/10/62;Vendas;Casado;R$7,535
+Vaughan;Gonzales;Santa Maria;Rio Grande do Sul;22/07/73;Suporte Técnico;Solteiro;R$7,543
+Jason;Parsons;Diadema;SP;12/12/89;Recursos Humanos;Divorciado;R$9,057
+Matthew;Fuentes;Cametá;PA;24/04/67;Serviço ao Cliente;Viúvo;R$8,628
+Ciaran;Church;Divinópolis;Minas Gerais;08/03/43;Jurídico;Solteiro;R$7,356
+Xantha;Hardy;Mauá;SP;19/12/39;Financeiro;Divorciado;R$7,320
+Gavin;Crane;Cabo de Santo Agostinho;PE;25/02/66;Vendas;Casado;R$7,749
+Madonna;Porter;Colombo;PR;15/02/44;Suporte Técnico;Divorciado;R$5,522
+Lester;Sexton;Piracicaba;SP;22/03/75;Recursos Humanos;Viúvo;R$7,425
+Giselle;Underwood;Santa Maria;Rio Grande do Sul;04/09/99;Gerenciamento;Casado;R$7,567
+Beatrice;Villarreal;Montes Claros;MG;03/03/80;Serviço ao Cliente;Solteiro;R$9,240
+Kadeem;Robbins;Ribeirão Preto;São Paulo;17/08/60;Suporte Técnico;Divorciado;R$6,450
+Knox;Short;Caxias;Maranhão;21/03/34;Relações Públicas;Casado;R$5,782
+Owen;Langley;Campinas;SP;17/09/43;Pesquisa e Desenvolvimento;Solteiro;R$9,588
+Trevor;Atkinson;Uberlândia;Minas Gerais;17/11/89;Suporte Técnico;Divorciado;R$9,658
+Abdul;Gross;Bacabal;Maranhão;02/06/62;Recursos Humanos;Solteiro;R$5,495
+Hannah;Cain;Açailândia;Maranhão;08/08/47;Gerenciamento;Divorciado;R$9,564
+Nyssa;Bowers;Bacabal;Maranhão;21/02/34;Recursos Humanos;Casado;R$7,914
+Keane;Casey;Castanhal;Pará;12/01/96;Jurídico;Casado;R$6,192
+Megan;Monroe;Jundiaí;SP;20/05/96;Suporte Técnico;Divorciado;R$5,035
+Velma;Stout;Marabá;PA;12/07/84;Gerenciamento;Casado;R$8,888
+Leroy;Soto;Paço do Lumiar;MA;05/03/44;Financeiro;Viúvo;R$6,586
+Harlan;Cannon;Porto Alegre;RS;16/06/02;Relações Públicas;Casado;R$8,164
+Nicholas;Flores;Montes Claros;Minas Gerais;21/11/07;Gerenciamento;Divorciado;R$7,508
+Honorato;Reeves;Uberaba;MG;20/06/65;Suporte Técnico;Divorciado;R$6,730
+Griffin;Stephens;Carapicuíba;São Paulo;19/12/66;Marketing;Casado;R$6,282
+Fitzgerald;Strong;Carapicuíba;SP;04/10/92;Serviço ao Cliente;Casado;R$5,334
+Mollie;Brennan;Rio de Janeiro;Rio de Janeiro;03/01/94;Vendas;Solteiro;R$8,906
+Miriam;Knight;Santa Maria;RS;07/10/91;Vendas;Divorciado;R$7,850
+Kelsie;Holden;Contagem;MG;14/08/12;Gerenciamento;Solteiro;R$6,813
+Galvin;Hunter;Jaboatão dos Guararapes;Pernambuco;28/01/94;Serviço ao Cliente;Divorciado;R$9,985
+Colorado;Wilder;Itajaí;SC;02/12/85;Vendas;Solteiro;R$8,780
+Gillian;Hebert;Maranguape;CE;06/02/40;Relações Públicas;Casado;R$5,155
+Veda;Rivers;Osasco;São Paulo;29/07/17;Financeiro;Casado;R$7,370
+Frances;Jarvis;Balsas;MA;23/03/93;Pesquisa e Desenvolvimento;Casado;R$7,573
+Cassandra;Kennedy;Campinas;SP;07/08/04;Financeiro;Viúvo;R$7,964
+Castor;Burks;Codó;MA;08/11/01;Serviço ao Cliente;Viúvo;R$7,653
+Dennis;Macdonald;Vitória da Conquista;Bahia;13/11/72;Serviço ao Cliente;Divorciado;R$6,911
+Serena;Delgado;Santa Inês;MA;26/11/57;Recursos Humanos;Divorciado;R$9,955
+Graiden;Baldwin;São João de Meriti;Rio de Janeiro;31/05/36;Jurídico;Casado;R$5,435
+Brady;Wade;Colombo;PR;20/05/48;Pesquisa e Desenvolvimento;Viúvo;R$8,234
+Noble;Bradford;São Gonçalo;Rio de Janeiro;24/05/08;Gerenciamento;Viúvo;R$6,314
+Akeem;Clay;Jundiaí;São Paulo;14/06/77;Recursos Humanos;Casado;R$8,307
+Tanya;Rowe;Curitiba;PR;25/11/51;Jurídico;Viúvo;R$8,835
+Nolan;Peck;Mauá;São Paulo;14/10/67;Pesquisa e Desenvolvimento;Solteiro;R$9,835
+Zenaida;Saunders;Mogi das Cruzes;SP;25/12/80;Gerenciamento;Casado;R$9,573
+Petra;Elliott;Maracanaú;CE;26/07/83;Gerenciamento;Viúvo;R$7,082
+Rahim;Jordan;Londrina;PR;02/05/45;Pesquisa e Desenvolvimento;Viúvo;R$7,124
+Thor;Rodriguez;Petrópolis;RJ;01/05/62;Marketing;Viúvo;R$8,867
+Maxine;Estrada;Ilhéus;Bahia;10/01/93;Jurídico;Viúvo;R$7,402
+Justine;Maxwell;Caxias do Sul;RS;06/01/08;Gerenciamento;Divorciado;R$9,788
+Illiana;Ayers;Londrina;Paraná;30/07/65;Marketing;Casado;R$6,688
+Lavinia;Gordon;Caruaru;PE;26/06/95;Serviço ao Cliente;Viúvo;R$8,709
+Yetta;Peters;Canoas;Rio Grande do Sul;16/06/74;Serviço ao Cliente;Viúvo;R$7,212
+Kirestin;Hartman;Juiz de Fora;Minas Gerais;09/04/39;Marketing;Divorciado;R$6,033
+Tatyana;Pollard;Balsas;Maranhão;17/02/95;Jurídico;Solteiro;R$8,702
+Jeremy;Hays;Camaçari;BA;24/03/46;Financeiro;Divorciado;R$6,417
+Whoopi;Craig;Duque de Caxias;Rio de Janeiro;04/06/59;Vendas;Viúvo;R$8,279
+Noah;Maddox;Mogi das Cruzes;São Paulo;09/02/73;Jurídico;Viúvo;R$7,890
+Kenyon;Preston;Novo Hamburgo;Rio Grande do Sul;09/08/57;Recursos Humanos;Casado;R$8,704
+Ina;Pacheco;Ribeirão Preto;São Paulo;13/02/04;Serviço ao Cliente;Solteiro;R$7,381
+Neville;Lawson;Açailândia;Maranhão;01/11/81;Vendas;Casado;R$8,469
+Raja;Hinton;Diadema;São Paulo;03/09/33;Financeiro;Viúvo;R$9,425
+Hedda;Cobb;Canoas;RS;24/04/39;Suporte Técnico;Solteiro;R$5,012
+Elijah;Peck;Mogi das Cruzes;São Paulo;02/11/13;Financeiro;Viúvo;R$9,776
+Renee;Whitney;Rio Grande;RS;02/12/46;Pesquisa e Desenvolvimento;Solteiro;R$6,270
+Cruz;Knapp;Petrópolis;Rio de Janeiro;12/12/53;Gerenciamento;Solteiro;R$9,232
+Rebecca;Oconnor;Petrópolis;Rio de Janeiro;16/03/31;Jurídico;Solteiro;R$5,492
+Evelyn;Torres;Lauro de Freitas;BA;15/09/67;Relações Públicas;Viúvo;R$5,050
+Clinton;Ewing;Balsas;Maranhão;11/01/31;Pesquisa e Desenvolvimento;Solteiro;R$9,606
+Lewis;Guy;Maranguape;Ceará;19/07/00;Financeiro;Solteiro;R$6,423
+Jermaine;Barnes;Paulista;PE;27/10/75;Pesquisa e Desenvolvimento;Solteiro;R$8,065
+Cody;Poole;Carapicuíba;São Paulo;10/01/79;Serviço ao Cliente;Viúvo;R$8,054
+Beck;Manning;Santa Maria;Rio Grande do Sul;07/06/46;Vendas;Viúvo;R$8,795
+Kelsey;Sharp;Ribeirão Preto;São Paulo;15/07/07;Relações Públicas;Casado;R$5,001
+Amity;Talley;Salvador;BA;10/09/67;Pesquisa e Desenvolvimento;Solteiro;R$8,160
+Cassandra;Fleming;Juazeiro;BA;16/03/53;Suporte Técnico;Viúvo;R$6,697
+Garrett;Sims;Parauapebas;PA;10/08/06;Vendas;Divorciado;R$9,335
+Colorado;Reese;Uberaba;MG;16/01/14;Serviço ao Cliente;Divorciado;R$8,425
+Dakota;Marks;Divinópolis;Minas Gerais;11/01/61;Jurídico;Divorciado;R$8,293
+Uriel;Hoover;Osasco;São Paulo;18/03/39;Relações Públicas;Solteiro;R$9,288
+Rooney;Owens;Barra do Corda;MA;10/10/91;Pesquisa e Desenvolvimento;Solteiro;R$5,473
+Fatima;Bowman;Mogi das Cruzes;São Paulo;30/04/18;Serviço ao Cliente;Divorciado;R$6,465
+Felicia;Medina;Itabuna;Bahia;05/08/17;Financeiro;Viúvo;R$9,959
+Adele;Nunez;Santa Rita;PB;29/01/92;Marketing;Divorciado;R$7,145
+Xavier;Snider;Diadema;SP;19/01/80;Recursos Humanos;Divorciado;R$6,694
+Anika;Mckay;Anápolis;Goiás;15/03/84;Jurídico;Divorciado;R$9,582
+Kathleen;Monroe;Camaragibe;Pernambuco;12/09/74;Gerenciamento;Solteiro;R$5,051
+Hope;Ayala;Carapicuíba;SP;24/02/89;Relações Públicas;Divorciado;R$5,607
+Vincent;Nichols;Jaboatão dos Guararapes;Pernambuco;11/07/04;Serviço ao Cliente;Casado;R$5,335
+Nola;Lindsay;Campinas;São Paulo;15/07/85;Gerenciamento;Casado;R$9,468
+Bianca;Mills;Ribeirão Preto;São Paulo;03/05/50;Marketing;Viúvo;R$8,557
+Todd;Merritt;Carapicuíba;São Paulo;04/03/58;Pesquisa e Desenvolvimento;Divorciado;R$8,236
+Shafira;Hooper;Petrolina;PE;18/02/78;Vendas;Divorciado;R$9,133
+Erin;Winters;Jundiaí;SP;06/01/80;Gerenciamento;Solteiro;R$8,182
+Karly;Bernard;Jundiaí;SP;28/08/64;Recursos Humanos;Divorciado;R$8,661
+James;Boone;Abaetetuba;Pará;07/09/70;Pesquisa e Desenvolvimento;Viúvo;R$7,200
+Jillian;Daugherty;Santa Luzia;Minas Gerais;20/03/81;Jurídico;Viúvo;R$8,248
+Hedy;Boyd;Paulista;PE;23/05/76;Vendas;Divorciado;R$6,606
+Orli;Saunders;Diadema;SP;13/12/54;Gerenciamento;Divorciado;R$7,867
+Ralph;Greene;Governador Valadares;MG;28/04/09;Financeiro;Divorciado;R$8,199
+Victor;Maynard;Jaboatão dos Guararapes;PE;09/10/81;Relações Públicas;Casado;R$8,890
+Blythe;Nelson;Jundiaí;São Paulo;05/04/59;Suporte Técnico;Viúvo;R$9,019
+Blaze;Watson;Goiânia;Goiás;29/04/39;Financeiro;Divorciado;R$8,334
+George;Clements;Mauá;São Paulo;16/02/16;Recursos Humanos;Solteiro;R$7,023
+Noah;Craft;Uberlândia;Minas Gerais;08/06/35;Suporte Técnico;Divorciado;R$8,917
+Alden;Henderson;Juazeiro do Norte;CE;05/10/71;Pesquisa e Desenvolvimento;Solteiro;R$9,734
+Wynter;Reyes;Governador Valadares;MG;11/03/36;Suporte Técnico;Divorciado;R$7,467
+Philip;Miller;Uberaba;MG;24/08/59;Pesquisa e Desenvolvimento;Casado;R$7,203
+Violet;Carlson;Jundiaí;SP;20/10/73;Gerenciamento;Divorciado;R$9,400
+Ronan;Sweeney;Curitiba;PR;05/05/38;Pesquisa e Desenvolvimento;Divorciado;R$6,302
+Sara;Schroeder;Campinas;São Paulo;20/06/78;Serviço ao Cliente;Viúvo;R$9,458
+Rina;Martinez;Fortaleza;Ceará;04/11/01;Financeiro;Solteiro;R$5,143
+Cedric;Andrews;Nova Iguaçu;Rio de Janeiro;18/11/88;Relações Públicas;Casado;R$8,057
+Sacha;Giles;Paço do Lumiar;MA;01/04/88;Jurídico;Viúvo;R$6,971
+Iliana;Oconnor;Mauá;São Paulo;04/10/06;Marketing;Divorciado;R$9,816
+Camden;Barnett;Goiânia;Goiás;04/11/30;Suporte Técnico;Viúvo;R$9,167
+Aline;Peck;Mauá;SP;11/01/57;Relações Públicas;Casado;R$8,017
+Hollee;Yang;Ponta Grossa;PR;06/09/60;Suporte Técnico;Casado;R$6,629
+Nelle;Wynn;Vitória da Conquista;BA;15/02/47;Gerenciamento;Casado;R$5,564
+Declan;Myers;Vitória da Conquista;Bahia;28/11/58;Gerenciamento;Viúvo;R$8,385
+Chloe;Brock;Canoas;RS;24/08/72;Gerenciamento;Viúvo;R$5,214
+William;Michael;Campinas;SP;16/04/80;Jurídico;Casado;R$9,692
+Neville;Frederick;Rio Grande;Rio Grande do Sul;27/10/90;Recursos Humanos;Casado;R$7,995
+Joshua;Yang;Barra do Corda;Maranhão;11/06/54;Financeiro;Solteiro;R$7,793
+Lamar;Pope;Canoas;RS;25/01/97;Pesquisa e Desenvolvimento;Solteiro;R$8,988
+Quin;Nash;Juiz de Fora;Minas Gerais;20/11/47;Relações Públicas;Viúvo;R$6,909
+Dana;Flowers;Governador Valadares;MG;07/10/66;Recursos Humanos;Viúvo;R$8,753
+Edward;Bridges;Piracicaba;São Paulo;15/03/47;Jurídico;Solteiro;R$5,241
+Winter;May;Governador Valadares;Minas Gerais;18/07/55;Gerenciamento;Viúvo;R$9,053
+Silas;Roth;Parauapebas;Pará;18/07/93;Jurídico;Solteiro;R$8,806
+Demetrius;Welch;Feira de Santana;Bahia;15/06/85;Suporte Técnico;Divorciado;R$9,064
+Zeus;Andrews;Ponta Grossa;PR;21/07/82;Relações Públicas;Viúvo;R$9,073
+Larissa;Keith;Osasco;São Paulo;07/05/93;Gerenciamento;Viúvo;R$7,981
+Salvador;Nunez;Petrolina;Pernambuco;05/09/50;Relações Públicas;Divorciado;R$7,553
+Laith;Schroeder;Ponta Grossa;PR;30/10/98;Marketing;Divorciado;R$6,745
+Sawyer;Marks;Betim;MG;29/12/01;Relações Públicas;Divorciado;R$9,076
+Sara;Lara;Caxias do Sul;Rio Grande do Sul;26/11/58;Recursos Humanos;Viúvo;R$8,690
+Hedda;Barr;Ponta Grossa;PR;19/05/82;Jurídico;Solteiro;R$7,265
+Sean;Alvarado;Abaetetuba;Pará;16/02/13;Recursos Humanos;Divorciado;R$8,364
+Aidan;Duffy;Timon;Maranhão;21/07/75;Gerenciamento;Solteiro;R$6,185
+Brynne;Moran;Petrópolis;Rio de Janeiro;06/12/78;Serviço ao Cliente;Solteiro;R$9,912
+Ronan;Davenport;Piracicaba;SP;04/01/47;Serviço ao Cliente;Divorciado;R$8,560
+Berk;Tillman;Ribeirão Preto;São Paulo;15/12/67;Gerenciamento;Viúvo;R$5,219
+Diana;Huff;Juazeiro do Norte;Ceará;16/08/91;Jurídico;Viúvo;R$7,148
+Trevor;Tyler;Castanhal;PA;20/08/48;Vendas;Solteiro;R$7,099
+Skyler;Herrera;Jundiaí;SP;04/01/04;Marketing;Viúvo;R$6,634
+Ciara;Bean;Blumenau;Santa Catarina;19/11/56;Gerenciamento;Solteiro;R$5,911
+Isaac;Hodges;Luziânia;Goiás;01/01/72;Suporte Técnico;Divorciado;R$9,204
+Montana;Shannon;Osasco;São Paulo;18/03/52;Suporte Técnico;Viúvo;R$9,503
+Wesley;Mcbride;Ponta Grossa;Paraná;10/05/78;Jurídico;Casado;R$6,421
+Lillian;Savage;Rio de Janeiro;RJ;04/01/12;Relações Públicas;Solteiro;R$9,412
+Ginger;Pollard;Rio de Janeiro;Rio de Janeiro;15/05/38;Marketing;Viúvo;R$9,945
+Thor;Wong;Itajaí;Santa Catarina;24/01/87;Pesquisa e Desenvolvimento;Solteiro;R$6,724
+Brennan;Parrish;Balsas;MA;30/11/37;Marketing;Viúvo;R$9,391
+Rina;Oneil;Curitiba;PR;05/06/77;Suporte Técnico;Solteiro;R$6,960
+Idona;Davis;Ipatinga;Minas Gerais;03/01/90;Financeiro;Viúvo;R$9,453
+Aline;Oneil;Campina Grande;Paraíba;11/06/82;Gerenciamento;Divorciado;R$5,362
+Oleg;Luna;Sete Lagoas;MG;20/07/56;Suporte Técnico;Casado;R$6,696
+Faith;Harrell;Imperatriz;Maranhão;01/02/71;Serviço ao Cliente;Viúvo;R$8,518
+Ross;English;Crato;CE;25/04/14;Suporte Técnico;Divorciado;R$9,463
+Yoko;Rhodes;Maranguape;Ceará;03/12/98;Marketing;Solteiro;R$8,767
+Jolie;Bell;Niterói;RJ;16/08/45;Marketing;Divorciado;R$9,919
+Marshall;Bullock;São Gonçalo;Rio de Janeiro;02/01/03;Vendas;Casado;R$7,501
+Laurel;Buckley;Camaçari;Bahia;16/07/91;Relações Públicas;Viúvo;R$8,053
+Anika;Graham;Campos dos Goytacazes;RJ;21/12/55;Financeiro;Viúvo;R$9,422
+Samuel;Mccarthy;Sousa;PB;02/02/65;Relações Públicas;Viúvo;R$5,635
+Quin;Payne;Porto Alegre;Rio Grande do Sul;18/06/69;Marketing;Casado;R$7,952
+Yeo;Palmer;Mauá;São Paulo;27/06/85;Pesquisa e Desenvolvimento;Viúvo;R$8,902
+Martha;Cooley;Diadema;SP;10/12/47;Financeiro;Viúvo;R$9,986
+Cora;Mack;Blumenau;Santa Catarina;01/06/31;Recursos Humanos;Viúvo;R$8,070
+Oprah;Mercado;Rio Verde;Goiás;21/02/06;Recursos Humanos;Divorciado;R$8,993
+Zia;Figueroa;Ribeirão Preto;São Paulo;17/03/02;Recursos Humanos;Divorciado;R$5,943
+Angelica;Daugherty;Chapecó;SC;26/07/86;Serviço ao Cliente;Divorciado;R$5,468
+Kaseem;Head;Piracicaba;SP;03/02/86;Gerenciamento;Casado;R$8,359
+Jolie;Kemp;Betim;Minas Gerais;08/07/76;Jurídico;Viúvo;R$5,835
+Boris;Lang;Contagem;MG;23/05/19;Pesquisa e Desenvolvimento;Solteiro;R$9,992
+Wynne;Perry;Camaçari;Bahia;17/09/00;Marketing;Viúvo;R$5,026
+Yardley;Richmond;Rio Grande;RS;21/03/35;Serviço ao Cliente;Solteiro;R$9,365
+Deirdre;Gates;São João de Meriti;Rio de Janeiro;13/09/84;Pesquisa e Desenvolvimento;Solteiro;R$5,007
+Chava;Morrow;Santa Inês;MA;27/10/73;Marketing;Viúvo;R$8,884
+Allegra;Gibbs;São João de Meriti;Rio de Janeiro;26/03/44;Jurídico;Divorciado;R$7,828
+Jordan;Nolan;Guarulhos;São Paulo;30/12/89;Pesquisa e Desenvolvimento;Viúvo;R$8,750
+Yen;Cobb;Balsas;Maranhão;23/06/58;Financeiro;Divorciado;R$7,429
+Mannix;Torres;Juiz de Fora;MG;14/11/83;Suporte Técnico;Casado;R$8,988
+September;Whitney;Petrolina;PE;19/11/89;Vendas;Casado;R$9,724
+Guy;Serrano;Guarulhos;São Paulo;04/01/81;Gerenciamento;Casado;R$5,168
+Norman;Preston;Feira de Santana;Bahia;16/10/91;Financeiro;Divorciado;R$6,811
+Kane;Cleveland;Jaboatão dos Guararapes;PE;03/08/61;Gerenciamento;Divorciado;R$6,539
+Alana;Mcguire;Camaragibe;Pernambuco;05/11/31;Vendas;Viúvo;R$6,431
+Kylie;Powers;Jundiaí;São Paulo;31/01/94;Serviço ao Cliente;Casado;R$6,391
+Marshall;Logan;Gravataí;Rio Grande do Sul;27/06/73;Marketing;Divorciado;R$8,701
+Kasimir;Phelps;Ponta Grossa;PR;06/05/61;Financeiro;Casado;R$6,471
+Byron;Juarez;Carapicuíba;São Paulo;27/12/77;Marketing;Viúvo;R$6,683
+Ginger;Ray;Ilhéus;BA;06/04/96;Vendas;Solteiro;R$8,585
+Ferdinand;Mendoza;São João de Meriti;Rio de Janeiro;20/10/90;Pesquisa e Desenvolvimento;Solteiro;R$8,254
+Keely;Gonzales;Ribeirão Preto;SP;16/06/10;Recursos Humanos;Divorciado;R$5,730
+Hammett;Ryan;Campos dos Goytacazes;Rio de Janeiro;21/08/10;Jurídico;Solteiro;R$8,653
+Yuri;Merrill;Sete Lagoas;Minas Gerais;06/11/41;Vendas;Solteiro;R$9,656
+Josiah;Klein;Foz do Iguaçu;PR;23/11/46;Serviço ao Cliente;Viúvo;R$6,002
+Fleur;Hutchinson;Contagem;Minas Gerais;17/01/34;Recursos Humanos;Divorciado;R$9,142
+Stephanie;Fletcher;Rio Verde;Goiás;16/07/91;Financeiro;Casado;R$9,131
+Aphrodite;Hood;Pelotas;Rio Grande do Sul;30/10/10;Recursos Humanos;Solteiro;R$7,485
+Nita;Coffey;Ponta Grossa;PR;09/02/56;Financeiro;Divorciado;R$6,981
+Hadassah;Holman;Sobral;CE;05/10/46;Financeiro;Solteiro;R$5,401
+Ocean;Parker;Ribeirão Preto;São Paulo;08/06/77;Recursos Humanos;Divorciado;R$9,105
+Gary;Olsen;Carapicuíba;SP;05/05/37;Marketing;Viúvo;R$9,093
+Maryam;Kaufman;Gravataí;RS;09/08/69;Relações Públicas;Solteiro;R$8,508
+Caesar;Fields;Guarulhos;São Paulo;29/10/54;Vendas;Solteiro;R$9,556
+Galvin;Brady;Colombo;Paraná;12/05/99;Jurídico;Divorciado;R$7,579
+Nissim;Malone;Cabo de Santo Agostinho;Pernambuco;13/08/80;Pesquisa e Desenvolvimento;Casado;R$6,417
+Candace;Rhodes;Ribeirão Preto;São Paulo;03/03/04;Jurídico;Casado;R$8,864
+Fritz;Barnett;Ribeirão das Neves;Minas Gerais;16/07/35;Serviço ao Cliente;Solteiro;R$7,793
+Abra;Skinner;Uberlândia;MG;03/06/48;Vendas;Solteiro;R$6,471
+Tamara;Sargent;Porto Alegre;RS;23/09/62;Marketing;Divorciado;R$5,882
+Hunter;Mcknight;Mogi das Cruzes;SP;06/06/63;Suporte Técnico;Divorciado;R$6,749
+Gage;Newton;Ilhéus;BA;01/06/55;Relações Públicas;Solteiro;R$7,674
+Giacomo;Page;Caruaru;PE;15/11/98;Suporte Técnico;Casado;R$8,831
+Savannah;Sherman;Petrópolis;RJ;01/08/46;Gerenciamento;Viúvo;R$6,503
+Rosalyn;Espinoza;Maracanaú;Ceará;12/12/86;Jurídico;Solteiro;R$6,088
+Xenos;Wade;Campos dos Goytacazes;RJ;04/03/35;Financeiro;Divorciado;R$8,552
+Larissa;Potts;Carapicuíba;SP;30/06/79;Financeiro;Solteiro;R$5,929
+Velma;Contreras;Rio de Janeiro;RJ;02/03/97;Relações Públicas;Casado;R$5,875
+Martina;Bowen;Ribeirão Preto;SP;13/01/80;Vendas;Viúvo;R$9,685
+Dante;Sargent;Novo Hamburgo;Rio Grande do Sul;21/09/60;Serviço ao Cliente;Viúvo;R$9,682
+Fletcher;Hood;Mauá;SP;03/04/47;Suporte Técnico;Viúvo;R$6,085
+Kyla;Blankenship;São José;Santa Catarina;06/10/70;Recursos Humanos;Viúvo;R$5,796
+Faith;Hartman;Santa Inês;MA;16/04/82;Relações Públicas;Viúvo;R$6,308
+Craig;Rodriquez;Caxias do Sul;RS;21/06/16;Gerenciamento;Casado;R$9,092
+Eleanor;Cline;Piracicaba;SP;01/12/75;Vendas;Divorciado;R$7,711
+Barbara;Mccarthy;Betim;Minas Gerais;11/08/37;Relações Públicas;Casado;R$6,618
+Mason;Lloyd;Fortaleza;CE;08/07/17;Jurídico;Casado;R$9,354
+Rhona;Casey;Chapecó;SC;03/01/96;Jurídico;Solteiro;R$7,245
+Catherine;Washington;Caxias;Maranhão;17/02/16;Suporte Técnico;Solteiro;R$7,037
+Mason;Elliott;Campinas;SP;22/07/62;Relações Públicas;Casado;R$5,688
+Samuel;Conner;Osasco;São Paulo;23/10/38;Serviço ao Cliente;Divorciado;R$7,681
+Gillian;Fowler;Maracanaú;CE;19/03/09;Suporte Técnico;Divorciado;R$7,522
+Kasimir;Walker;Florianópolis;SC;18/03/90;Marketing;Solteiro;R$9,921
+Deanna;Meyer;Açailândia;Maranhão;02/10/37;Relações Públicas;Casado;R$5,283
+Fitzgerald;Merrill;Marabá;Pará;01/07/40;Relações Públicas;Solteiro;R$6,706
+Wylie;Head;Cabo de Santo Agostinho;Pernambuco;27/06/64;Pesquisa e Desenvolvimento;Divorciado;R$9,931
+Yeo;Roth;Santa Rita;PB;09/10/44;Recursos Humanos;Viúvo;R$7,998
+Fay;Kane;Juazeiro;Bahia;16/02/36;Vendas;Viúvo;R$9,270
+Boris;Knox;Caucaia;CE;07/05/50;Pesquisa e Desenvolvimento;Solteiro;R$9,077
+Vielka;Holland;Guarulhos;SP;05/03/41;Serviço ao Cliente;Viúvo;R$6,784
+Chelsea;Tran;Cascavel;Paraná;11/07/60;Relações Públicas;Divorciado;R$7,518
+Nissim;Boyd;Cabo de Santo Agostinho;PE;15/11/49;Jurídico;Casado;R$7,175
+Duncan;Hanson;Sete Lagoas;MG;04/06/47;Serviço ao Cliente;Casado;R$7,350
+Shellie;Carroll;Guarulhos;São Paulo;23/10/61;Vendas;Casado;R$8,897
+Hilda;Moore;Mogi das Cruzes;SP;29/02/00;Serviço ao Cliente;Solteiro;R$6,463
+Yoko;Fox;Mogi das Cruzes;São Paulo;15/04/35;Suporte Técnico;Divorciado;R$5,573
+Scott;Mckenzie;Piracicaba;SP;20/02/36;Relações Públicas;Casado;R$7,603
+Ina;Herrera;Guarapuava;Paraná;20/02/30;Recursos Humanos;Casado;R$6,010
+Marvin;Owens;Mauá;São Paulo;29/07/74;Recursos Humanos;Casado;R$5,493
+Jorden;Mccarthy;São João de Meriti;RJ;19/03/36;Relações Públicas;Viúvo;R$6,088
+Ezra;Sanders;Montes Claros;Minas Gerais;21/09/01;Pesquisa e Desenvolvimento;Casado;R$6,639
+Maxine;Johnson;Ribeirão Preto;São Paulo;16/11/01;Recursos Humanos;Divorciado;R$9,612
+Melodie;Clay;Ipatinga;Minas Gerais;22/01/73;Suporte Técnico;Divorciado;R$9,745
+Channing;Daniel;Osasco;São Paulo;22/02/91;Relações Públicas;Viúvo;R$5,021
+Jada;Hodges;Piracicaba;São Paulo;25/01/50;Jurídico;Solteiro;R$5,277
+Wylie;Morrow;São José;SC;28/11/48;Recursos Humanos;Solteiro;R$7,994
+Desirae;Haley;Itajaí;Santa Catarina;30/07/53;Gerenciamento;Viúvo;R$5,444
+Amethyst;Sheppard;Campina Grande;Paraíba;12/06/94;Gerenciamento;Viúvo;R$7,104
+Vance;Dixon;Rio de Janeiro;RJ;29/03/32;Recursos Humanos;Solteiro;R$5,129
+Juliet;Sweeney;Petrópolis;Rio de Janeiro;06/04/49;Suporte Técnico;Divorciado;R$8,143
+Stephen;Harmon;Ilhéus;BA;11/05/91;Gerenciamento;Viúvo;R$9,392
+Acton;Mcdonald;Jundiaí;SP;28/01/88;Relações Públicas;Divorciado;R$8,331
+Dante;Rodgers;Uberlândia;MG;27/08/78;Suporte Técnico;Divorciado;R$6,698
+Tamara;Briggs;Vitória da Conquista;Bahia;12/04/06;Recursos Humanos;Casado;R$5,531
+Garth;Jordan;Guarapuava;PR;21/10/40;Marketing;Divorciado;R$8,947
+Jacob;Woodard;Guarulhos;SP;04/10/87;Vendas;Divorciado;R$5,412
+Vaughan;Gill;Ribeirão Preto;SP;22/10/91;Suporte Técnico;Solteiro;R$8,151
+Isabella;Parker;Nova Iguaçu;RJ;17/06/98;Gerenciamento;Casado;R$9,316
+Callie;Case;Cabo de Santo Agostinho;PE;20/08/35;Pesquisa e Desenvolvimento;Divorciado;R$8,249
+Shay;Morse;Mauá;São Paulo;26/09/89;Pesquisa e Desenvolvimento;Viúvo;R$6,882
+Michael;Good;Duque de Caxias;Rio de Janeiro;24/11/87;Marketing;Solteiro;R$7,639
+Tanya;Boyer;Jundiaí;São Paulo;31/03/66;Jurídico;Viúvo;R$5,856
+Raymond;Sharpe;Santa Luzia;MG;06/04/34;Vendas;Divorciado;R$6,228
+Shoshana;Shannon;Duque de Caxias;RJ;23/05/56;Recursos Humanos;Solteiro;R$5,754
+Ashton;Cherry;Ilhéus;Bahia;18/06/42;Gerenciamento;Divorciado;R$6,743
+Alexis;Hartman;Rio Grande;Rio Grande do Sul;09/02/82;Serviço ao Cliente;Casado;R$6,553
+Linda;Chase;Ponta Grossa;PR;20/11/13;Relações Públicas;Casado;R$7,643
+August;Cruz;São João de Meriti;RJ;21/10/72;Suporte Técnico;Casado;R$9,976
+Brynn;Hall;Governador Valadares;Minas Gerais;08/09/87;Marketing;Solteiro;R$5,300
+Cassandra;Chavez;Florianópolis;Santa Catarina;21/03/95;Jurídico;Divorciado;R$5,940
+Susan;Chen;Belém;Pará;08/04/87;Recursos Humanos;Solteiro;R$5,582
+Chaim;Mcmillan;Ananindeua;Pará;04/10/60;Financeiro;Solteiro;R$7,591
+Ferdinand;Calderon;Juazeiro do Norte;Ceará;23/03/46;Recursos Humanos;Divorciado;R$9,602
+Zephr;Holland;São Luís;Maranhão;05/11/14;Gerenciamento;Divorciado;R$9,419
+Geoffrey;Weber;Londrina;PR;13/09/87;Serviço ao Cliente;Divorciado;R$7,933
+Kasper;May;Diadema;SP;01/09/12;Jurídico;Viúvo;R$8,358
+Jordan;Ross;Caxias;Maranhão;20/06/69;Serviço ao Cliente;Casado;R$8,637
+Hayden;Nicholson;Guarulhos;SP;21/07/34;Financeiro;Divorciado;R$6,827
+Morgan;Torres;Ribeirão Preto;SP;17/06/31;Vendas;Solteiro;R$9,120
+Robert;Hampton;Maranguape;Ceará;16/12/42;Recursos Humanos;Solteiro;R$9,295
+Reagan;Valdez;Recife;PE;07/09/64;Recursos Humanos;Solteiro;R$9,728
+Jaime;Sheppard;Maranguape;CE;27/05/84;Suporte Técnico;Casado;R$5,853
+Mikayla;Foreman;Aparecida de Goiânia;GO;22/10/91;Suporte Técnico;Solteiro;R$8,111
+Xena;Richardson;Petrópolis;Rio de Janeiro;06/03/89;Vendas;Viúvo;R$8,133
+Oren;Finch;Lauro de Freitas;Bahia;12/01/51;Serviço ao Cliente;Solteiro;R$9,379
+Flavia;Holden;Santa Rita;Paraíba;15/07/45;Gerenciamento;Solteiro;R$7,120
+Maxwell;Mack;Ribeirão das Neves;Minas Gerais;25/08/06;Marketing;Divorciado;R$9,236
+Jenette;Crosby;Maringá;PR;06/08/88;Vendas;Casado;R$6,160
+Nora;Greer;Nova Iguaçu;Rio de Janeiro;28/07/69;Relações Públicas;Solteiro;R$5,933
+Hilel;Warner;Guarapuava;PR;24/12/42;Recursos Humanos;Solteiro;R$7,941
+Preston;English;Sete Lagoas;Minas Gerais;07/09/97;Suporte Técnico;Viúvo;R$9,591
+Irene;Jacobson;Cascavel;Paraná;10/06/82;Suporte Técnico;Casado;R$5,492
+Curran;Navarro;Mogi das Cruzes;São Paulo;06/03/49;Recursos Humanos;Divorciado;R$7,155
+Alice;Hogan;Carapicuíba;SP;23/02/77;Suporte Técnico;Viúvo;R$9,875
+Pandora;Vasquez;Belém;Pará;16/02/00;Financeiro;Viúvo;R$9,747
+Amela;Merrill;Carapicuíba;São Paulo;01/05/53;Suporte Técnico;Viúvo;R$8,818
+Buffy;Wheeler;Guarulhos;São Paulo;27/01/91;Suporte Técnico;Viúvo;R$5,919
+Evelyn;Mckenzie;São Gonçalo;Rio de Janeiro;16/07/12;Marketing;Divorciado;R$8,560
+Joseph;Terrell;Contagem;MG;05/09/67;Serviço ao Cliente;Solteiro;R$9,155
+Grady;Huber;Uberlândia;MG;10/03/66;Gerenciamento;Viúvo;R$8,825
+Steel;Atkins;Salvador;Bahia;17/09/76;Financeiro;Divorciado;R$5,517
+Leilani;Fitzgerald;Diadema;SP;10/02/03;Recursos Humanos;Viúvo;R$7,671
+Ashely;Wilkins;Olinda;PE;24/08/71;Vendas;Solteiro;R$7,336
+Camille;Wyatt;Lauro de Freitas;Bahia;24/08/63;Relações Públicas;Solteiro;R$7,638
+Wynne;Pittman;São Gonçalo;Rio de Janeiro;29/01/48;Recursos Humanos;Divorciado;R$7,923
+Margaret;Ochoa;Contagem;MG;21/09/03;Vendas;Casado;R$9,137
+Lewis;Hardin;Luziânia;GO;05/11/10;Suporte Técnico;Solteiro;R$5,346
+Wesley;Lewis;Mogi das Cruzes;SP;25/09/97;Jurídico;Solteiro;R$7,788
+Mikayla;Mccall;Nova Iguaçu;RJ;06/04/88;Suporte Técnico;Divorciado;R$5,978
+Serina;William;São Gonçalo;Rio de Janeiro;20/06/55;Recursos Humanos;Divorciado;R$7,660
+Germane;Emerson;Uberlândia;Minas Gerais;20/05/16;Serviço ao Cliente;Casado;R$9,377
+Victoria;Rojas;Belo Horizonte;Minas Gerais;28/05/63;Recursos Humanos;Casado;R$9,349
+Melvin;Oneil;Mogi das Cruzes;SP;31/05/52;Relações Públicas;Casado;R$6,118
+Hop;Norris;Açailândia;MA;29/04/65;Serviço ao Cliente;Solteiro;R$5,335
+Althea;Carver;São João de Meriti;Rio de Janeiro;19/04/32;Recursos Humanos;Divorciado;R$6,915
+Reece;Ross;Itabuna;BA;12/07/84;Pesquisa e Desenvolvimento;Divorciado;R$5,238
+Fiona;Klein;Cabo de Santo Agostinho;Pernambuco;19/10/55;Financeiro;Solteiro;R$9,215
+Cynthia;Mccoy;Jundiaí;São Paulo;12/04/05;Recursos Humanos;Casado;R$6,874
+Alea;Burton;Maracanaú;Ceará;25/07/96;Pesquisa e Desenvolvimento;Viúvo;R$7,849
+Leslie;Mccray;Ribeirão das Neves;MG;03/10/92;Vendas;Divorciado;R$9,636
+Xavier;Frederick;Ilhéus;BA;19/06/92;Pesquisa e Desenvolvimento;Divorciado;R$7,033
+Holmes;Briggs;Camaçari;BA;21/10/62;Marketing;Solteiro;R$7,876
+Serina;Mcfadden;Anápolis;Goiás;05/06/03;Recursos Humanos;Divorciado;R$7,632
+Molly;Higgins;Blumenau;Santa Catarina;07/06/48;Jurídico;Viúvo;R$8,970
+Hop;Tyson;Campinas;São Paulo;21/01/56;Vendas;Divorciado;R$7,949
+Kalia;Maynard;Águas Lindas de Goiás;Goiás;19/03/52;Recursos Humanos;Casado;R$7,623
+Grant;Mccarthy;Duque de Caxias;RJ;23/12/72;Pesquisa e Desenvolvimento;Viúvo;R$8,674
+Nathan;Mcbride;João Pessoa;Paraíba;19/01/32;Recursos Humanos;Divorciado;R$5,771
+Erich;Nunez;Rio Verde;Goiás;31/08/86;Serviço ao Cliente;Viúvo;R$8,304
+Porter;Mcclain;Olinda;Pernambuco;01/09/14;Relações Públicas;Divorciado;R$7,668
+Charlotte;Hewitt;Londrina;Paraná;17/06/69;Gerenciamento;Casado;R$7,188
+Coby;Bates;Divinópolis;MG;25/12/99;Gerenciamento;Divorciado;R$6,924
+Kylee;Chan;Anápolis;Goiás;21/12/01;Serviço ao Cliente;Solteiro;R$9,976
+Mechelle;Cameron;Guarulhos;SP;29/09/12;Pesquisa e Desenvolvimento;Viúvo;R$8,481
+Quentin;Ramirez;São João de Meriti;Rio de Janeiro;11/06/17;Gerenciamento;Solteiro;R$8,542
+Chadwick;Estes;Porto Alegre;RS;07/04/69;Gerenciamento;Casado;R$8,788
+Rahim;Sanders;Osasco;SP;18/05/15;Pesquisa e Desenvolvimento;Casado;R$5,520
+Clinton;Meadows;Guarulhos;SP;10/08/47;Gerenciamento;Casado;R$5,824
+Denton;England;Montes Claros;MG;16/02/63;Recursos Humanos;Viúvo;R$7,671
+Amy;Padilla;Santa Maria;Rio Grande do Sul;06/05/70;Financeiro;Casado;R$7,544
+Lance;Woods;Carapicuíba;SP;08/05/06;Gerenciamento;Viúvo;R$6,902
+Erich;Walter;Petrópolis;Rio de Janeiro;12/05/42;Vendas;Casado;R$8,648
+Martha;Kaufman;Ribeirão Preto;SP;10/01/60;Marketing;Divorciado;R$6,386
+Denton;Norris;Crato;Ceará;05/02/08;Serviço ao Cliente;Casado;R$8,985
+Naomi;Cain;Olinda;PE;24/08/79;Serviço ao Cliente;Casado;R$9,745
+Brenden;Beard;Belford Roxo;Rio de Janeiro;18/10/12;Serviço ao Cliente;Divorciado;R$8,122
+Kimberly;Hopper;Jaboatão dos Guararapes;PE;09/08/87;Marketing;Solteiro;R$9,565
+Ciaran;Lloyd;Niterói;RJ;28/07/33;Gerenciamento;Divorciado;R$5,957
+Thaddeus;Benson;Curitiba;PR;01/02/09;Marketing;Solteiro;R$9,108
+Callie;Ayala;Belém;Pará;07/09/05;Marketing;Viúvo;R$5,647
+August;Mccormick;Divinópolis;Minas Gerais;05/08/53;Marketing;Casado;R$5,863
+Hillary;Rose;Paço do Lumiar;MA;02/11/03;Relações Públicas;Divorciado;R$9,154
+MacKensie;Tucker;Gravataí;Rio Grande do Sul;12/02/70;Vendas;Casado;R$6,737
+Sheila;Horne;Diadema;São Paulo;06/04/44;Relações Públicas;Viúvo;R$8,083
+Carlos;Mullins;Campinas;São Paulo;21/02/64;Pesquisa e Desenvolvimento;Casado;R$6,633
+Herman;Browning;Montes Claros;MG;05/07/36;Suporte Técnico;Viúvo;R$6,660
+Ocean;Crosby;Piracicaba;São Paulo;29/03/92;Marketing;Divorciado;R$6,550
+Henry;James;Ribeirão Preto;São Paulo;24/03/05;Pesquisa e Desenvolvimento;Casado;R$5,816
+Drake;Allen;Ilhéus;Bahia;25/04/61;Gerenciamento;Solteiro;R$9,147
+Guinevere;Stephens;Canoas;Rio Grande do Sul;17/06/48;Recursos Humanos;Casado;R$6,590
+Alika;Reese;Jundiaí;São Paulo;01/09/80;Gerenciamento;Divorciado;R$9,551
+Willa;Gonzalez;Caucaia;Ceará;06/07/00;Marketing;Divorciado;R$8,648
+Alvin;Noel;Valparaíso de Goiás;Goiás;25/02/64;Suporte Técnico;Divorciado;R$7,621
+Christen;Larson;Mauá;SP;30/04/44;Pesquisa e Desenvolvimento;Divorciado;R$7,451
+Isaac;Craig;Aparecida de Goiânia;GO;20/03/17;Serviço ao Cliente;Casado;R$8,972
+Marah;Gill;Porto Alegre;RS;30/07/74;Serviço ao Cliente;Casado;R$9,837
+Octavius;Conrad;Sete Lagoas;MG;01/11/88;Vendas;Casado;R$5,099
+Shannon;Macdonald;São João de Meriti;RJ;08/02/93;Relações Públicas;Casado;R$6,399
+Tanek;Sweeney;Camaçari;BA;15/01/58;Serviço ao Cliente;Viúvo;R$8,811
+Seth;Knapp;Santa Maria;Rio Grande do Sul;14/02/49;Gerenciamento;Casado;R$5,749
+Wanda;Frederick;Divinópolis;Minas Gerais;17/09/59;Pesquisa e Desenvolvimento;Casado;R$8,089
+Melvin;Emerson;Piracicaba;São Paulo;18/02/95;Gerenciamento;Solteiro;R$6,708
+Trevor;Mcbride;Ribeirão Preto;São Paulo;07/06/59;Relações Públicas;Casado;R$9,227
+Zephr;Pate;Ilhéus;BA;01/09/94;Jurídico;Divorciado;R$6,689
+Kimberley;Blackwell;Contagem;Minas Gerais;13/02/79;Financeiro;Divorciado;R$5,346
+Unity;Leach;Paulista;PE;21/07/08;Vendas;Viúvo;R$8,272
+Whilemina;Wise;Gravataí;Rio Grande do Sul;06/09/48;Marketing;Divorciado;R$7,367
+Sydnee;Gibbs;Itabuna;Bahia;24/03/39;Financeiro;Divorciado;R$6,265
+Thaddeus;Gould;Jundiaí;São Paulo;09/06/94;Recursos Humanos;Viúvo;R$8,042
+Halla;Snow;Ribeirão Preto;São Paulo;24/02/82;Marketing;Solteiro;R$6,372
+Chaney;Fleming;Divinópolis;Minas Gerais;21/09/53;Suporte Técnico;Casado;R$8,473
+MacKenzie;Garza;Lauro de Freitas;Bahia;01/06/10;Marketing;Casado;R$7,107
+Emerald;Graham;Rio de Janeiro;Rio de Janeiro;09/07/61;Vendas;Viúvo;R$6,637
+Maxwell;Leblanc;Cascavel;PR;31/07/90;Suporte Técnico;Divorciado;R$9,754
+Darrel;Guzman;Santa Maria;Rio Grande do Sul;06/12/42;Recursos Humanos;Solteiro;R$9,737
+Kiona;Maxwell;Petrópolis;Rio de Janeiro;21/03/99;Recursos Humanos;Divorciado;R$9,059
+Yasir;Cole;Itajaí;Santa Catarina;29/05/97;Vendas;Viúvo;R$8,596
+Rogan;Rosales;Rio de Janeiro;Rio de Janeiro;06/08/35;Recursos Humanos;Viúvo;R$8,204
+Ori;Stark;Maranguape;Ceará;27/10/93;Jurídico;Casado;R$7,192
+Hedy;Logan;Paranaguá;Paraná;17/08/85;Serviço ao Cliente;Divorciado;R$9,325
+Hedley;Shepherd;Marabá;PA;09/12/68;Marketing;Viúvo;R$5,242
+Kylan;Gonzales;Sete Lagoas;Minas Gerais;12/02/04;Gerenciamento;Divorciado;R$6,277
+Colorado;Bird;Barra do Corda;MA;22/10/50;Vendas;Solteiro;R$5,868
+Kenyon;Wright;Guarulhos;São Paulo;12/08/09;Vendas;Divorciado;R$8,972
+Hasad;Scott;Niterói;Rio de Janeiro;29/08/00;Gerenciamento;Casado;R$9,341
+Levi;Copeland;Uberaba;MG;09/07/46;Gerenciamento;Divorciado;R$5,455
+Shea;Young;Mauá;São Paulo;15/08/82;Financeiro;Solteiro;R$5,081
+Hadley;Mercer;Uberaba;Minas Gerais;20/02/56;Recursos Humanos;Solteiro;R$7,855
+Ayanna;Roth;Juazeiro do Norte;Ceará;24/05/10;Recursos Humanos;Divorciado;R$6,099
+Jacqueline;Hines;Guarulhos;SP;21/08/85;Jurídico;Casado;R$5,290
+Laura;Burke;Caxias do Sul;Rio Grande do Sul;20/11/70;Marketing;Casado;R$8,246
+Travis;Weaver;Luziânia;GO;02/11/80;Relações Públicas;Divorciado;R$8,286
+Illiana;Carpenter;Uberlândia;MG;01/02/55;Financeiro;Viúvo;R$5,729
+Sacha;Head;Timon;MA;02/07/34;Relações Públicas;Casado;R$8,407
+Halee;Harrison;Guarapuava;Paraná;13/06/65;Gerenciamento;Divorciado;R$6,686
+Reece;Mueller;Betim;MG;12/12/37;Serviço ao Cliente;Casado;R$6,009
+Shay;Carver;Cametá;PA;03/07/51;Suporte Técnico;Viúvo;R$6,043
+Kasimir;Donaldson;Porto Alegre;Rio Grande do Sul;06/06/01;Vendas;Viúvo;R$8,267
+Logan;Johns;Criciúma;Santa Catarina;11/02/05;Relações Públicas;Viúvo;R$6,873
+Brendan;Hines;Sete Lagoas;MG;07/05/11;Serviço ao Cliente;Casado;R$7,608
+Timothy;Burns;Rio Verde;GO;18/07/83;Relações Públicas;Casado;R$8,601
+Heather;Boyle;Lauro de Freitas;BA;14/05/53;Suporte Técnico;Casado;R$8,111
+Vladimir;Stafford;Gravataí;RS;04/01/08;Gerenciamento;Solteiro;R$5,879
+Erich;Matthews;Caxias do Sul;Rio Grande do Sul;21/01/15;Jurídico;Solteiro;R$5,765
+Venus;Glenn;Juazeiro;BA;10/07/34;Gerenciamento;Solteiro;R$5,270
+Ina;Chavez;São Gonçalo;RJ;09/07/49;Gerenciamento;Divorciado;R$6,807
+Carl;Jacobs;Sete Lagoas;MG;03/03/73;Vendas;Viúvo;R$7,663
+Nichole;Franks;Ribeirão das Neves;MG;30/01/71;Recursos Humanos;Solteiro;R$7,219
+Elizabeth;Pennington;Guarulhos;SP;25/03/39;Jurídico;Solteiro;R$7,267
+Serina;Oneill;Blumenau;Santa Catarina;17/08/84;Jurídico;Viúvo;R$5,388
+Rajah;Alexander;Carapicuíba;São Paulo;04/10/35;Vendas;Casado;R$8,651
+Eve;Francis;Goiânia;GO;18/03/33;Recursos Humanos;Casado;R$9,549
+Hashim;Salinas;Itajaí;SC;06/01/85;Gerenciamento;Casado;R$9,252
+Yvette;Galloway;Parauapebas;Pará;06/01/45;Jurídico;Viúvo;R$7,530
+Jamalia;Hamilton;Governador Valadares;Minas Gerais;03/05/91;Financeiro;Casado;R$6,782
+Hanae;Branch;Canoas;RS;07/08/76;Marketing;Divorciado;R$5,616
+Martin;Fuentes;Gravataí;Rio Grande do Sul;04/05/49;Serviço ao Cliente;Divorciado;R$7,572
+Doris;Petersen;Belford Roxo;RJ;20/12/61;Pesquisa e Desenvolvimento;Viúvo;R$8,267
+Vaughan;Wheeler;Vitória da Conquista;BA;03/07/63;Suporte Técnico;Divorciado;R$9,571
+Dylan;Bartlett;Piracicaba;São Paulo;28/06/02;Financeiro;Divorciado;R$6,278
+Catherine;Bonner;Diadema;São Paulo;15/07/45;Recursos Humanos;Solteiro;R$8,309
+Cara;Travis;Criciúma;SC;21/02/81;Gerenciamento;Solteiro;R$5,246
+Lesley;Barber;Diadema;São Paulo;29/04/95;Suporte Técnico;Divorciado;R$7,386
+Denton;Hess;Carapicuíba;São Paulo;21/12/05;Recursos Humanos;Casado;R$8,577
+Velma;Mathews;Cascavel;PR;07/02/96;Relações Públicas;Viúvo;R$9,187
+Carson;Reynolds;Rio de Janeiro;Rio de Janeiro;10/09/69;Financeiro;Solteiro;R$6,704
+Michael;Winters;Blumenau;SC;14/12/91;Financeiro;Viúvo;R$5,801
+Veda;Hester;Crato;CE;02/02/97;Gerenciamento;Divorciado;R$8,053
+Neil;Farrell;Maracanaú;Ceará;01/03/94;Financeiro;Solteiro;R$9,240
+Kylynn;Bradley;Sobral;Ceará;25/03/46;Suporte Técnico;Casado;R$6,666
+Eagan;Camacho;Luziânia;Goiás;11/04/82;Pesquisa e Desenvolvimento;Casado;R$6,807
+Sebastian;Wise;Campinas;SP;03/05/31;Serviço ao Cliente;Viúvo;R$8,224
+Abdul;Warren;Nova Iguaçu;RJ;02/06/67;Gerenciamento;Casado;R$7,724
+Brendan;Byers;Cabo de Santo Agostinho;Pernambuco;10/03/41;Relações Públicas;Solteiro;R$7,624
+Aquila;Ortiz;Governador Valadares;Minas Gerais;01/08/67;Jurídico;Viúvo;R$5,057
+May;Velazquez;Gravataí;Rio Grande do Sul;26/12/56;Serviço ao Cliente;Viúvo;R$9,875
+Adam;Strong;Ribeirão Preto;São Paulo;02/01/87;Relações Públicas;Casado;R$6,296
+Zephania;Fischer;Bayeux;PB;20/09/69;Suporte Técnico;Viúvo;R$6,966
+Benjamin;Scott;Porto Alegre;RS;19/03/80;Marketing;Divorciado;R$7,483
+Brian;Chase;Bayeux;PB;09/07/12;Gerenciamento;Viúvo;R$8,309
+Tana;Moses;Maringá;Paraná;26/08/44;Jurídico;Casado;R$5,759
+Bernard;Mccall;Nova Iguaçu;Rio de Janeiro;16/12/31;Marketing;Solteiro;R$8,427
+Harding;Williamson;Petrolina;Pernambuco;06/09/76;Suporte Técnico;Divorciado;R$9,750

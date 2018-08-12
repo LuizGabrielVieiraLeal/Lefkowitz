@@ -1,0 +1,1001 @@
+ED;ID;Cidade
+1;657;Olinda
+2;335;São José dos Pinhais
+3;896;Caxias do Sul
+4;619;Juazeiro do Norte
+5;226;Caucaia
+6;691;Juiz de Fora
+7;653;Valparaíso de Goiás
+8;266;Ribeirão Preto
+9;546;Carapicuíba
+10;494;Mauá
+11;838;Parauapebas
+12;199;Duque de Caxias
+13;762;Petrópolis
+14;447;Sobral
+15;130;Imperatriz
+16;72;Chapecó
+17;88;Osasco
+18;371;Maringá
+19;276;São João de Meriti
+20;676;Itajaí
+21;106;Santa Rita
+22;223;Sobral
+23;527;Caruaru
+24;529;Piracicaba
+25;82;Joinville
+26;879;Juazeiro
+27;730;Campinas
+28;61;Juazeiro
+29;739;Piracicaba
+30;459;Santarém
+31;808;Mogi das Cruzes
+32;432;Rio de Janeiro
+33;253;Vitória da Conquista
+34;395;Cajazeiras
+35;660;Timon
+36;382;Divinópolis
+37;296;Barra do Corda
+38;216;Campinas
+39;481;Criciúma
+40;334;Campinas
+41;385;São Gonçalo
+42;538;Mogi das Cruzes
+43;406;Salvador
+44;57;Mogi das Cruzes
+45;553;Paulista
+46;74;Santarém
+47;260;Balsas
+48;868;Sete Lagoas
+49;171;Ribeirão das Neves
+50;779;Guarulhos
+51;835;Juiz de Fora
+52;688;Anápolis
+53;13;Mogi das Cruzes
+54;578;Maracanaú
+55;161;Carapicuíba
+56;437;Santa Maria
+57;597;Piracicaba
+58;684;Carapicuíba
+59;73;Carapicuíba
+60;850;São Luís
+61;715;Carapicuíba
+62;985;Piracicaba
+63;995;Blumenau
+64;517;Contagem
+65;328;Ribeirão Preto
+66;519;Bacabal
+67;38;Mauá
+68;75;Mauá
+69;787;Uberlândia
+70;34;Osasco
+71;500;Contagem
+72;53;Uberaba
+73;320;Nova Iguaçu
+74;275;Chapecó
+75;703;Carapicuíba
+76;767;Cametá
+77;751;Ilhéus
+78;210;Diadema
+79;815;Bacabal
+80;998;Guarulhos
+81;424;Barra do Corda
+82;248;Vitória da Conquista
+83;321;Rio Grande
+84;539;Maringá
+85;516;Camaragibe
+86;961;Uberlândia
+87;697;Sete Lagoas
+88;166;Osasco
+89;566;Mogi das Cruzes
+90;413;Anápolis
+91;888;Mogi das Cruzes
+92;135;Rio de Janeiro
+93;304;Parauapebas
+94;788;Jundiaí
+95;330;Ponta Grossa
+96;234;Balsas
+97;219;Ribeirão das Neves
+98;410;São João de Meriti
+99;323;Canoas
+100;931;Belford Roxo
+101;775;Belo Horizonte
+102;629;São José dos Pinhais
+103;863;Maringá
+104;498;Governador Valadares
+105;811;Feira de Santana
+106;631;Maranguape
+107;273;Mogi das Cruzes
+108;96;Belford Roxo
+109;720;Campinas
+110;935;Guarapuava
+111;373;Mauá
+112;550;Ananindeua
+113;165;Anápolis
+114;204;Bacabal
+115;431;Ribeirão das Neves
+116;113;Betim
+117;470;Jundiaí
+118;671;Fortaleza
+119;39;Osasco
+120;718;Barra do Corda
+121;522;Curitiba
+122;862;Paulista
+123;79;Açailândia
+124;420;Recife
+125;540;Bacabal
+126;396;Jundiaí
+127;286;Guarapuava
+128;920;Feira de Santana
+129;973;Paulista
+130;131;Cascavel
+131;523;Montes Claros
+132;52;Ribeirão Preto
+133;218;Ponta Grossa
+134;594;Sete Lagoas
+135;680;Osasco
+136;627;Vitória da Conquista
+137;893;Ribeirão Preto
+138;67;Castanhal
+139;963;Mogi das Cruzes
+140;943;Campinas
+141;105;Niterói
+142;584;Canoas
+143;890;Osasco
+144;658;Bayeux
+145;748;Santa Rita
+146;746;Campina Grande
+147;442;Lauro de Freitas
+148;71;Governador Valadares
+149;156;Castanhal
+150;388;Marabá
+151;678;São Gonçalo
+152;249;Itabuna
+153;723;Nova Iguaçu
+154;885;Bragança
+155;633;Paranaguá
+156;327;Montes Claros
+157;557;Diadema
+158;947;Porto Alegre
+159;380;Ribeirão Preto
+160;230;Rio de Janeiro
+161;460;Imperatriz
+162;872;Campos dos Goytacazes
+163;237;Diadema
+164;830;Marabá
+165;996;Bragança
+166;428;Sobral
+167;398;Paulista
+168;814;Carapicuíba
+169;143;Jundiaí
+170;593;Vitória da Conquista
+171;647;Osasco
+172;856;Lauro de Freitas
+173;755;Jundiaí
+174;625;Diadema
+175;183;Vitória da Conquista
+176;851;Mogi das Cruzes
+177;812;Paço do Lumiar
+178;793;Mauá
+179;329;Paranaguá
+180;967;Camaçari
+181;717;Sobral
+182;43;São João de Meriti
+183;173;Itapipoca
+184;366;Governador Valadares
+185;456;Goiânia
+186;80;Itajaí
+187;378;Aparecida de Goiânia
+188;934;Codó
+189;847;Gravataí
+190;820;Ilhéus
+191;950;Mogi das Cruzes
+192;350;Nova Iguaçu
+193;252;Diadema
+194;461;Novo Hamburgo
+195;724;Londrina
+196;383;Belford Roxo
+197;777;Feira de Santana
+198;294;Lauro de Freitas
+199;664;Itabuna
+200;167;Aparecida de Goiânia
+201;891;Petrópolis
+202;355;Itabuna
+203;722;Maracanaú
+204;63;Campos dos Goytacazes
+205;645;Caxias do Sul
+206;240;Rio de Janeiro
+207;145;Gravataí
+208;110;Mauá
+209;778;Niterói
+210;816;Nova Iguaçu
+211;512;Cametá
+212;18;Campinas
+213;818;Juiz de Fora
+214;169;Paulista
+215;582;Itabuna
+216;505;Londrina
+217;318;Itabuna
+218;672;Gravataí
+219;577;Mogi das Cruzes
+220;85;Rio de Janeiro
+221;259;Osasco
+222;565;Campinas
+223;921;Camaragibe
+224;649;Mauá
+225;673;Divinópolis
+226;774;Cabo de Santo Agostinho
+227;555;Guarulhos
+228;27;Valparaíso de Goiás
+229;689;Valparaíso de Goiás
+230;742;Guarulhos
+231;910;Diadema
+232;238;Juazeiro do Norte
+233;66;Mogi das Cruzes
+234;381;Mogi das Cruzes
+235;97;Joinville
+236;423;Sobral
+237;700;Divinópolis
+238;443;Jundiaí
+239;148;Caxias do Sul
+240;601;Uberaba
+241;852;Juiz de Fora
+242;221;Recife
+243;477;Diadema
+244;958;Lauro de Freitas
+245;436;Rio Grande
+246;209;Mauá
+247;197;Bacabal
+248;719;Piracicaba
+249;357;Itajaí
+250;771;Governador Valadares
+251;430;Novo Hamburgo
+252;448;Cascavel
+253;956;Camaçari
+254;29;Blumenau
+255;666;João Pessoa
+256;351;Olinda
+257;798;Aparecida de Goiânia
+258;445;Ribeirão das Neves
+259;76;Ribeirão Preto
+260;819;Divinópolis
+261;750;Salvador
+262;422;Anápolis
+263;769;Juazeiro
+264;832;Florianópolis
+265;579;Ribeirão das Neves
+266;104;Cajazeiras
+267;911;Sobral
+268;638;Ribeirão Preto
+269;740;Ribeirão das Neves
+270;927;Maranguape
+271;213;Olinda
+272;745;Juazeiro
+273;7;Itabuna
+274;807;Crato
+275;646;Camaçari
+276;139;Ribeirão Preto
+277;40;Camaçari
+278;426;Gravataí
+279;475;Cabo de Santo Agostinho
+280;875;Salvador
+281;545;Ipatinga
+282;49;Duque de Caxias
+283;292;Santa Maria
+284;37;Belo Horizonte
+285;407;Olinda
+286;696;Campinas
+287;287;Governador Valadares
+288;490;Lauro de Freitas
+289;926;Caucaia
+290;621;Chapadinha
+291;325;Olinda
+292;509;Santa Maria
+293;636;Ribeirão das Neves
+294;857;Mauá
+295;172;Paulista
+296;84;Cajazeiras
+297;864;Petrópolis
+298;983;Petrópolis
+299;533;Santa Luzia
+300;44;Camaçari
+301;157;Campos dos Goytacazes
+302;375;Belo Horizonte
+303;650;Jundiaí
+304;56;Campinas
+305;279;Carapicuíba
+306;794;Jundiaí
+307;747;Carapicuíba
+308;758;Chapecó
+309;712;Campinas
+310;3;Barra do Corda
+311;364;Camaçari
+312;331;Jundiaí
+313;425;Divinópolis
+314;278;Florianópolis
+315;91;Lauro de Freitas
+316;924;Ribeirão Preto
+317;370;Uberlândia
+318;656;Mauá
+319;544;Balsas
+320;635;Maranguape
+321;200;Belford Roxo
+322;865;Petrópolis
+323;608;Joinville
+324;595;Juazeiro
+325;994;Guarapuava
+326;391;Ilhéus
+327;854;Mogi das Cruzes
+328;620;Ribeirão Preto
+329;725;João Pessoa
+330;493;Marabá
+331;297;Petrolina
+332;799;Juazeiro
+333;948;Balsas
+334;147;São João de Meriti
+335;800;Diadema
+336;518;Pelotas
+337;272;Feira de Santana
+338;384;Ribeirão Preto
+339;345;Ribeirão Preto
+340;379;Timon
+341;610;Piracicaba
+342;178;Bacabal
+343;118;Gravataí
+344;206;Chapadinha
+345;123;Gravataí
+346;897;Piracicaba
+347;785;Itajaí
+348;403;Ribeirão das Neves
+349;770;Osasco
+350;941;Caucaia
+351;212;Rio Verde
+352;175;Crato
+353;930;Paço do Lumiar
+354;126;Camaçari
+355;117;Camaçari
+356;392;Lauro de Freitas
+357;760;Caucaia
+358;446;Ribeirão das Neves
+359;681;Diadema
+360;245;Osasco
+361;108;Maringá
+362;946;Campinas
+363;525;Campinas
+364;412;Belo Horizonte
+365;634;Águas Lindas de Goiás
+366;690;Ribeirão Preto
+367;89;Olinda
+368;152;Salvador
+369;829;Camaragibe
+370;574;Petrópolis
+371;389;Petrópolis
+372;969;Feira de Santana
+373;848;Ribeirão Preto
+374;669;Campinas
+375;913;Maracanaú
+376;609;Cabo de Santo Agostinho
+377;587;Santa Luzia
+378;662;Osasco
+379;502;Castanhal
+380;953;Piracicaba
+381;280;Betim
+382;987;Mauá
+383;919;Novo Hamburgo
+384;871;Diadema
+385;957;Lauro de Freitas
+386;743;Santa Luzia
+387;338;Piracicaba
+388;506;Santa Luzia
+389;309;Itajaí
+390;160;Novo Hamburgo
+391;305;Belo Horizonte
+392;102;Mauá
+393;353;Barra do Corda
+394;189;Osasco
+395;616;Londrina
+396;904;Maracanaú
+397;605;Chapecó
+398;62;Campinas
+399;734;Juazeiro
+400;205;Mogi das Cruzes
+401;109;Jundiaí
+402;654;Sete Lagoas
+403;707;Carapicuíba
+404;974;Cabo de Santo Agostinho
+405;741;Contagem
+406;908;Paulista
+407;247;Camaçari
+408;243;Recife
+409;878;Novo Hamburgo
+410;841;Castanhal
+411;881;Juazeiro
+412;981;Osasco
+413;233;Osasco
+414;344;Montes Claros
+415;427;Santa Luzia
+416;348;Campos dos Goytacazes
+417;670;Piracicaba
+418;255;Castanhal
+419;269;Jundiaí
+420;510;Diadema
+421;24;Itabuna
+422;363;Camaçari
+423;487;Mauá
+424;81;Mauá
+425;962;Crato
+426;705;Juiz de Fora
+427;942;Carapicuíba
+428;877;Feira de Santana
+429;421;Campina Grande
+430;324;Ipatinga
+431;874;Balsas
+432;285;Águas Lindas de Goiás
+433;915;Paulista
+434;368;Santa Maria
+435;632;Diadema
+436;251;Cametá
+437;263;Divinópolis
+438;709;Mauá
+439;907;Cabo de Santo Agostinho
+440;925;Colombo
+441;141;Piracicaba
+442;912;Santa Maria
+443;313;Montes Claros
+444;170;Ribeirão Preto
+445;277;Caxias
+446;306;Campinas
+447;132;Uberlândia
+448;842;Bacabal
+449;749;Açailândia
+450;622;Bacabal
+451;932;Castanhal
+452;367;Jundiaí
+453;168;Marabá
+454;122;Paço do Lumiar
+455;361;Porto Alegre
+456;484;Montes Claros
+457;528;Uberaba
+458;964;Carapicuíba
+459;12;Carapicuíba
+460;695;Rio de Janeiro
+461;534;Santa Maria
+462;340;Contagem
+463;17;Jaboatão dos Guararapes
+464;144;Itajaí
+465;232;Maranguape
+466;898;Osasco
+467;706;Balsas
+468;711;Campinas
+469;738;Codó
+470;914;Vitória da Conquista
+471;895;Santa Inês
+472;917;São João de Meriti
+473;541;Colombo
+474;236;São Gonçalo
+475;887;Jundiaí
+476;809;Curitiba
+477;343;Mauá
+478;151;Mogi das Cruzes
+479;499;Maracanaú
+480;866;Londrina
+481;19;Petrópolis
+482;918;Ilhéus
+483;454;Caxias do Sul
+484;655;Londrina
+485;433;Caruaru
+486;583;Canoas
+487;440;Juiz de Fora
+488;415;Balsas
+489;203;Camaçari
+490;231;Duque de Caxias
+491;473;Mogi das Cruzes
+492;336;Novo Hamburgo
+493;710;Ribeirão Preto
+494;873;Açailândia
+495;51;Diadema
+496;699;Canoas
+497;365;Mogi das Cruzes
+498;10;Rio Grande
+499;736;Petrópolis
+500;844;Petrópolis
+501;290;Jundiaí
+502;612;Sete Lagoas
+503;455;Carapicuíba
+504;618;Cabo de Santo Agostinho
+505;752;Contagem
+506;250;Paulista
+507;551;Camaçari
+508;668;Recife
+509;843;Novo Hamburgo
+510;417;Castanhal
+511;701;Juazeiro
+512;486;Osasco
+513;358;Osasco
+514;813;Montes Claros
+515;588;Santa Luzia
+516;77;Campos dos Goytacazes
+517;405;Piracicaba
+518;435;Castanhal
+519;119;Jundiaí
+520;457;Diadema
+521;630;Itabuna
+522;733;Camaçari
+523;532;Mauá
+524;600;Mauá
+525;970;Crato
+526;295;Juiz de Fora
+527;474;Carapicuíba
+528;978;Feira de Santana
+529;572;Campina Grande
+530;155;Ipatinga
+531;92;Balsas
+532;982;Águas Lindas de Goiás
+533;312;Paulista
+534;692;Santa Maria
+535;651;Diadema
+536;531;Cametá
+537;149;Divinópolis
+538;311;Mauá
+539;708;Cabo de Santo Agostinho
+540;713;Colombo
+541;497;Piracicaba
+542;661;Santa Maria
+543;58;Montes Claros
+544;386;Ribeirão Preto
+545;47;Caxias
+546;193;Campinas
+547;495;Uberlândia
+548;825;Bacabal
+549;869;Açailândia
+550;883;Bacabal
+551;21;Castanhal
+552;207;Jundiaí
+553;615;Marabá
+554;598;Paço do Lumiar
+555;480;Porto Alegre
+556;270;Montes Claros
+557;184;Uberaba
+558;754;Carapicuíba
+559;15;Carapicuíba
+560;889;Rio de Janeiro
+561;35;Santa Maria
+562;784;Contagem
+563;845;Jaboatão dos Guararapes
+564;33;Itajaí
+565;591;Maranguape
+566;177;Osasco
+567;944;Balsas
+568;602;Campinas
+569;611;Codó
+570;626;Vitória da Conquista
+571;83;Santa Inês
+572;314;São João de Meriti
+573;858;Colombo
+574;468;São Gonçalo
+575;478;Jundiaí
+576;163;Curitiba
+577;781;Mauá
+578;543;Mogi das Cruzes
+579;789;Maracanaú
+580;693;Londrina
+581;846;Petrópolis
+582;702;Ilhéus
+583;796;Caxias do Sul
+584;849;Londrina
+585;521;Caruaru
+586;537;Canoas
+587;988;Juiz de Fora
+588;346;Balsas
+589;833;Camaçari
+590;586;Duque de Caxias
+591;307;Mogi das Cruzes
+592;217;Novo Hamburgo
+593;603;Ribeirão Preto
+594;536;Açailândia
+595;416;Diadema
+596;824;Canoas
+597;482;Mogi das Cruzes
+598;542;Rio Grande
+599;685;Petrópolis
+600;535;Petrópolis
+601;356;Lauro de Freitas
+602;387;Balsas
+603;682;Maranguape
+604;419;Paulista
+605;23;Carapicuíba
+606;726;Santa Maria
+607;513;Ribeirão Preto
+608;986;Salvador
+609;202;Juazeiro
+610;714;Parauapebas
+611;258;Uberaba
+612;675;Divinópolis
+613;677;Osasco
+614;607;Barra do Corda
+615;735;Mogi das Cruzes
+616;20;Itabuna
+617;127;Santa Rita
+618;54;Diadema
+619;999;Anápolis
+620;977;Camaragibe
+621;254;Carapicuíba
+622;805;Jaboatão dos Guararapes
+623;507;Campinas
+624;520;Ribeirão Preto
+625;524;Carapicuíba
+626;496;Petrolina
+627;60;Jundiaí
+628;46;Jundiaí
+629;698;Abaetetuba
+630;737;Santa Luzia
+631;16;Paulista
+632;548;Diadema
+633;614;Governador Valadares
+634;949;Jaboatão dos Guararapes
+635;136;Jundiaí
+636;659;Goiânia
+637;115;Mauá
+638;765;Uberlândia
+639;112;Juazeiro do Norte
+640;491;Governador Valadares
+641;667;Uberaba
+642;140;Jundiaí
+643;975;Curitiba
+644;884;Campinas
+645;492;Fortaleza
+646;976;Nova Iguaçu
+647;303;Paço do Lumiar
+648;198;Mauá
+649;120;Goiânia
+650;289;Mauá
+651;301;Ponta Grossa
+652;683;Vitória da Conquista
+653;936;Vitória da Conquista
+654;55;Canoas
+655;744;Campinas
+656;208;Rio Grande
+657;892;Barra do Corda
+658;59;Canoas
+659;438;Juiz de Fora
+660;902;Governador Valadares
+661;98;Piracicaba
+662;116;Governador Valadares
+663;836;Parauapebas
+664;766;Feira de Santana
+665;471;Ponta Grossa
+666;196;Osasco
+667;114;Petrolina
+668;560;Ponta Grossa
+669;940;Betim
+670;322;Caxias do Sul
+671;663;Ponta Grossa
+672;28;Abaetetuba
+673;153;Timon
+674;488;Petrópolis
+675;129;Piracicaba
+676;580;Ribeirão Preto
+677;592;Juazeiro do Norte
+678;242;Castanhal
+679;159;Jundiaí
+680;991;Blumenau
+681;362;Luziânia
+682;354;Osasco
+683;573;Ponta Grossa
+684;42;Rio de Janeiro
+685;298;Rio de Janeiro
+686;783;Itajaí
+687;623;Balsas
+688;30;Curitiba
+689;267;Ipatinga
+690;790;Campina Grande
+691;894;Sete Lagoas
+692;514;Imperatriz
+693;241;Crato
+694;399;Maranguape
+695;390;Niterói
+696;839;São Gonçalo
+697;429;Camaçari
+698;22;Campos dos Goytacazes
+699;452;Sousa
+700;727;Porto Alegre
+701;797;Mauá
+702;11;Diadema
+703;732;Blumenau
+704;613;Rio Verde
+705;564;Ribeirão Preto
+706;469;Chapecó
+707;759;Piracicaba
+708;867;Betim
+709;225;Contagem
+710;158;Camaçari
+711;624;Rio Grande
+712;310;São João de Meriti
+713;508;Santa Inês
+714;772;São João de Meriti
+715;753;Guarulhos
+716;526;Balsas
+717;377;Juiz de Fora
+718;503;Petrolina
+719;674;Guarulhos
+720;333;Feira de Santana
+721;504;Jaboatão dos Guararapes
+722;308;Camaragibe
+723;31;Jundiaí
+724;606;Gravataí
+725;36;Ponta Grossa
+726;393;Carapicuíba
+727;284;Ilhéus
+728;483;São João de Meriti
+729;547;Ribeirão Preto
+730;190;Campos dos Goytacazes
+731;639;Sete Lagoas
+732;411;Foz do Iguaçu
+733;319;Contagem
+734;229;Rio Verde
+735;831;Pelotas
+736;989;Ponta Grossa
+737;761;Sobral
+738;549;Ribeirão Preto
+739;211;Carapicuíba
+740;515;Gravataí
+741;191;Guarulhos
+742;928;Colombo
+743;107;Cabo de Santo Agostinho
+744;70;Ribeirão Preto
+745;861;Ribeirão das Neves
+746;562;Uberlândia
+747;596;Porto Alegre
+748;642;Mogi das Cruzes
+749;25;Ilhéus
+750;576;Caruaru
+751;154;Petrópolis
+752;951;Maracanaú
+753;94;Campos dos Goytacazes
+754;48;Carapicuíba
+755;561;Rio de Janeiro
+756;192;Ribeirão Preto
+757;262;Novo Hamburgo
+758;716;Mauá
+759;937;São José
+760;472;Santa Inês
+761;462;Caxias do Sul
+762;404;Piracicaba
+763;317;Betim
+764;138;Fortaleza
+765;222;Chapecó
+766;822;Caxias
+767;552;Campinas
+768;244;Osasco
+769;374;Maracanaú
+770;268;Florianópolis
+771;360;Açailândia
+772;300;Marabá
+773;256;Cabo de Santo Agostinho
+774;960;Santa Rita
+775;302;Juazeiro
+776;288;Caucaia
+777;194;Guarulhos
+778;792;Cascavel
+779;756;Cabo de Santo Agostinho
+780;195;Sete Lagoas
+781;923;Guarulhos
+782;264;Mogi das Cruzes
+783;95;Mogi das Cruzes
+784;347;Piracicaba
+785;828;Guarapuava
+786;780;Mauá
+787;1000;São João de Meriti
+788;394;Montes Claros
+789;604;Ribeirão Preto
+790;773;Ipatinga
+791;590;Osasco
+792;257;Piracicaba
+793;929;São José
+794;164;Itajaí
+795;979;Campina Grande
+796;802;Rio de Janeiro
+797;909;Petrópolis
+798;180;Ilhéus
+799;227;Jundiaí
+800;795;Uberlândia
+801;464;Vitória da Conquista
+802;186;Guarapuava
+803;68;Guarulhos
+804;439;Ribeirão Preto
+805;728;Nova Iguaçu
+806;821;Cabo de Santo Agostinho
+807;5;Mauá
+808;757;Duque de Caxias
+809;479;Jundiaí
+810;641;Santa Luzia
+811;886;Duque de Caxias
+812;939;Ilhéus
+813;133;Rio Grande
+814;111;Ponta Grossa
+815;182;São João de Meriti
+816;397;Governador Valadares
+817;637;Florianópolis
+818;731;Belém
+819;125;Ananindeua
+820;326;Juazeiro do Norte
+821;803;São Luís
+822;444;Londrina
+823;652;Diadema
+824;617;Caxias
+825;239;Guarulhos
+826;187;Ribeirão Preto
+827;648;Maranguape
+828;485;Recife
+829;214;Maranguape
+830;952;Aparecida de Goiânia
+831;282;Petrópolis
+832;959;Lauro de Freitas
+833;570;Santa Rita
+834;271;Ribeirão das Neves
+835;704;Maringá
+836;554;Nova Iguaçu
+837;274;Guarapuava
+838;501;Sete Lagoas
+839;916;Cascavel
+840;283;Mogi das Cruzes
+841;971;Carapicuíba
+842;984;Belém
+843;93;Carapicuíba
+844;179;Guarulhos
+845;8;São Gonçalo
+846;581;Contagem
+847;870;Uberlândia
+848;337;Salvador
+849;585;Diadema
+850;299;Olinda
+851;804;Lauro de Freitas
+852;26;São Gonçalo
+853;679;Contagem
+854;903;Luziânia
+855;876;Mogi das Cruzes
+856;980;Nova Iguaçu
+857;686;São Gonçalo
+858;449;Uberlândia
+859;142;Belo Horizonte
+860;316;Mogi das Cruzes
+861;162;Açailândia
+862;806;São João de Meriti
+863;466;Itabuna
+864;899;Cabo de Santo Agostinho
+865;997;Jundiaí
+866;458;Maracanaú
+867;2;Ribeirão das Neves
+868;993;Ilhéus
+869;121;Camaçari
+870;791;Anápolis
+871;14;Blumenau
+872;181;Campinas
+873;665;Águas Lindas de Goiás
+874;855;Duque de Caxias
+875;434;João Pessoa
+876;188;Rio Verde
+877;837;Olinda
+878;339;Londrina
+879;150;Divinópolis
+880;938;Anápolis
+881;64;Guarulhos
+882;558;São João de Meriti
+883;359;Porto Alegre
+884;786;Osasco
+885;840;Guarulhos
+886;453;Montes Claros
+887;65;Santa Maria
+888;568;Carapicuíba
+889;955;Petrópolis
+890;9;Ribeirão Preto
+891;293;Crato
+892;185;Olinda
+893;569;Belford Roxo
+894;556;Jaboatão dos Guararapes
+895;124;Niterói
+896;922;Curitiba
+897;291;Belém
+898;801;Divinópolis
+899;349;Paço do Lumiar
+900;418;Gravataí
+901;776;Diadema
+902;100;Campinas
+903;694;Montes Claros
+904;69;Piracicaba
+905;575;Ribeirão Preto
+906;687;Ilhéus
+907;465;Canoas
+908;414;Jundiaí
+909;763;Caucaia
+910;103;Valparaíso de Goiás
+911;342;Mauá
+912;880;Aparecida de Goiânia
+913;224;Porto Alegre
+914;6;Sete Lagoas
+915;441;São João de Meriti
+916;146;Camaçari
+917;965;Santa Maria
+918;32;Divinópolis
+919;401;Piracicaba
+920;968;Ribeirão Preto
+921;571;Ilhéus
+922;817;Contagem
+923;643;Paulista
+924;369;Gravataí
+925;400;Itabuna
+926;764;Jundiaí
+927;315;Ribeirão Preto
+928;530;Divinópolis
+929;782;Lauro de Freitas
+930;402;Rio de Janeiro
+931;176;Cascavel
+932;900;Santa Maria
+933;451;Petrópolis
+934;87;Itajaí
+935;265;Rio de Janeiro
+936;901;Maranguape
+937;992;Paranaguá
+938;90;Marabá
+939;235;Sete Lagoas
+940;50;Barra do Corda
+941;174;Guarulhos
+942;644;Niterói
+943;450;Uberaba
+944;563;Mauá
+945;99;Uberaba
+946;966;Juazeiro do Norte
+947;476;Guarulhos
+948;945;Caxias do Sul
+949;352;Luziânia
+950;599;Uberlândia
+951;467;Timon
+952;933;Guarapuava
+953;463;Betim
+954;332;Cametá
+955;41;Porto Alegre
+956;128;Criciúma
+957;721;Sete Lagoas
+958;101;Rio Verde
+959;826;Lauro de Freitas
+960;827;Gravataí
+961;1;Caxias do Sul
+962;768;Juazeiro
+963;372;São Gonçalo
+964;78;Sete Lagoas
+965;972;Ribeirão das Neves
+966;228;Guarulhos
+967;559;Blumenau
+968;137;Carapicuíba
+969;376;Goiânia
+970;859;Itajaí
+971;906;Parauapebas
+972;589;Governador Valadares
+973;341;Canoas
+974;281;Gravataí
+975;408;Belford Roxo
+976;261;Vitória da Conquista
+977;810;Piracicaba
+978;86;Diadema
+979;860;Criciúma
+980;215;Diadema
+981;729;Carapicuíba
+982;640;Cascavel
+983;246;Rio de Janeiro
+984;134;Blumenau
+985;201;Crato
+986;905;Maracanaú
+987;489;Sobral
+988;567;Luziânia
+989;823;Campinas
+990;4;Nova Iguaçu
+991;409;Cabo de Santo Agostinho
+992;628;Governador Valadares
+993;834;Gravataí
+994;990;Ribeirão Preto
+995;45;Bayeux
+996;954;Porto Alegre
+997;853;Bayeux
+998;882;Maringá
+999;220;Nova Iguaçu
+1000;511;Petrolina
